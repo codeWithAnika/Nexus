@@ -3,6 +3,7 @@ from fastapi import FastAPI
 from app.api.routes.cases import router as cases_router
 from app.api.routes.entities import router as entities_router
 from app.api.routes.evidence import router as evidence_router
+from app.api.routes.firs import router as firs_router
 
 app = FastAPI(
     title="Nexus - AI Criminal Network Analysis System",
@@ -13,6 +14,8 @@ app = FastAPI(
 app.include_router(cases_router)
 app.include_router(evidence_router)
 app.include_router(entities_router)
+app.include_router(firs_router)
+
 
 
 @app.get("/")
