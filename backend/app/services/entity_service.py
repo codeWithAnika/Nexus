@@ -1,6 +1,6 @@
 from collections.abc import Sequence
 
-from sqlalchemy import exists, func, select
+from sqlalchemy import func, select
 from sqlalchemy.exc import IntegrityError, SQLAlchemyError
 from sqlalchemy.orm import Session
 
@@ -100,15 +100,14 @@ def update_entity(db: Session, entity_id: int, updates: dict) -> Entity:
 def delete_entity(db: Session, entity_id: int) -> None:
     entity = get_entity(db, entity_id)
     try:
-        dependent = any(
-            db.scalar(select(exists().where(column == entity_id)))
-            for column in (
-                EntityIdentifier.entity_id,
-                Relationship.source_entity_id,
-                Relationship.target_entity_id,
-                Analysis.entity_id,
-                Alert.entity_id,
-            )
+        # Oracle does not support SELECT EXISTS (SELECT * ...) AS anon FROM DUAL.
+        # Use COUNT-based checks per table — valid on Oracle, PostgreSQL, and SQLite.
+        dependent = (
+            (db.scalar(select(func.count(EntityIdentifier.id)).where(EntityIdentifier.entity_id == entity_id)) or 0) > 0
+            or (db.scalar(select(func.count(Relationship.id)).where(Relationship.source_entity_id == entity_id)) or 0) > 0
+            or (db.scalar(select(func.count(Relationship.id)).where(Relationship.target_entity_id == entity_id)) or 0) > 0
+            or (db.scalar(select(func.count(Analysis.id)).where(Analysis.entity_id == entity_id)) or 0) > 0
+            or (db.scalar(select(func.count(Alert.id)).where(Alert.entity_id == entity_id)) or 0) > 0
         )
         if dependent:
             raise EntityHasDependentsError

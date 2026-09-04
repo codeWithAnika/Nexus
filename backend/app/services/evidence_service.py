@@ -1,7 +1,7 @@
 import json
 from collections.abc import Sequence
 
-from sqlalchemy import exists, func, select
+from sqlalchemy import func, select
 from sqlalchemy.exc import IntegrityError, SQLAlchemyError
 from sqlalchemy.orm import Session
 
@@ -97,8 +97,12 @@ def update_evidence(db: Session, evidence_id: int, updates: dict) -> Evidence:
 def delete_evidence(db: Session, evidence_id: int) -> str | None:
     evidence = get_evidence(db, evidence_id)
     try:
-        dependent = db.scalar(select(exists().where(Analysis.source_evidence_id == evidence_id)))
-        if evidence.identifiers or evidence.relationships or dependent:
+        # Oracle does not support SELECT EXISTS (SELECT * ...) AS anon FROM DUAL.
+        # Use COUNT to check for dependent Analysis rows — valid on all supported dialects.
+        analysis_count = db.scalar(
+            select(func.count(Analysis.id)).where(Analysis.source_evidence_id == evidence_id)
+        )
+        if evidence.identifiers or evidence.relationships or (analysis_count or 0) > 0:
             raise EvidenceHasDependentsError
         file_path = evidence.file_path
         db.delete(evidence)
