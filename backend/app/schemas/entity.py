@@ -81,6 +81,32 @@ class EntityResponse(BaseModel):
     identifiers: list[EntityIdentifierResponse]
 
 
+class EntityMentionProvenanceResponse(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
+    id: int
+    entity_id: int
+    evidence_id: int
+    matched_text: str
+    start_char: int | None
+    end_char: int | None
+    ocr_confidence: float | None
+    extraction_confidence: float
+    final_confidence: float
+    low_ocr_confidence: bool
+    extraction_method: str
+    extractor_version: str
+    source_index: int | None
+    reconstructed_order: int | None
+    category_id: int | None
+    bbox_x1: float | None
+    bbox_y1: float | None
+    bbox_x2: float | None
+    bbox_y2: float | None
+    original_text: str | None
+    created_at: datetime
+
+
 class EntityListResponse(BaseModel):
     items: list[EntityResponse]
     total: int

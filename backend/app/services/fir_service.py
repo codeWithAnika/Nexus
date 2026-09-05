@@ -68,7 +68,7 @@ def _fir_number_taken(db: Session, fir_number: str, exclude_fir_id: int | None =
 # CRUD operations
 # ---------------------------------------------------------------------------
 
-def create_fir(db: Session, fir_data: dict) -> FIR:
+def create_fir(db: Session, fir_data: dict, *, commit: bool = True) -> FIR:
     try:
         if not _case_exists(db, fir_data["case_id"]):
             raise FIRCaseNotFoundError
@@ -82,8 +82,11 @@ def create_fir(db: Session, fir_data: dict) -> FIR:
 
         fir = FIR(**fir_data)
         db.add(fir)
-        db.commit()
-        db.refresh(fir)
+        if commit:
+            db.commit()
+            db.refresh(fir)
+        else:
+            db.flush()
         return fir
 
     except (FIRCaseNotFoundError, FIRNumberDuplicateError, FIRDatasetImageIdDuplicateError):

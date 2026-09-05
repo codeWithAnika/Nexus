@@ -7,6 +7,7 @@ from sqlalchemy.orm import Session
 
 from app.models.analysis import Analysis
 from app.models.case import Case
+from app.models.entity import EntityMentionProvenance
 from app.models.evidence import Evidence, EvidenceType
 
 
@@ -37,14 +38,42 @@ def metadata_with_description(description: str | None, original_filename: str) -
     return json.dumps(metadata, ensure_ascii=True)
 
 
-def create_evidence(db: Session, *, case_id: int, evidence_type: EvidenceType, file_name: str, file_path: str, mime_type: str | None, file_hash: str, metadata_text: str) -> Evidence:
+def create_evidence(
+    db: Session,
+    *,
+    case_id: int,
+    evidence_type: EvidenceType,
+    file_name: str,
+    file_path: str,
+    mime_type: str | None,
+    file_hash: str,
+    metadata_text: str,
+    fir_id: int | None = None,
+    extracted_text: str | None = None,
+    source: str | None = None,
+    commit: bool = True,
+) -> Evidence:
     try:
         if db.scalar(select(Case.id).where(Case.id == case_id)) is None:
             raise EvidenceCaseNotFoundError
-        evidence = Evidence(case_id=case_id, evidence_type=evidence_type, file_name=file_name, file_path=file_path, mime_type=mime_type, file_hash=file_hash, metadata_text=metadata_text)
+        evidence = Evidence(
+            case_id=case_id,
+            fir_id=fir_id,
+            evidence_type=evidence_type,
+            file_name=file_name,
+            file_path=file_path,
+            mime_type=mime_type,
+            file_hash=file_hash,
+            extracted_text=extracted_text,
+            source=source,
+            metadata_text=metadata_text,
+        )
         db.add(evidence)
-        db.commit()
-        db.refresh(evidence)
+        if commit:
+            db.commit()
+            db.refresh(evidence)
+        else:
+            db.flush()
         return evidence
     except EvidenceCaseNotFoundError:
         db.rollback()
@@ -102,7 +131,10 @@ def delete_evidence(db: Session, evidence_id: int) -> str | None:
         analysis_count = db.scalar(
             select(func.count(Analysis.id)).where(Analysis.source_evidence_id == evidence_id)
         )
-        if evidence.identifiers or evidence.relationships or (analysis_count or 0) > 0:
+        provenance_count = db.scalar(
+            select(func.count(EntityMentionProvenance.id)).where(EntityMentionProvenance.evidence_id == evidence_id)
+        )
+        if evidence.identifiers or evidence.relationships or (analysis_count or 0) > 0 or (provenance_count or 0) > 0:
             raise EvidenceHasDependentsError
         file_path = evidence.file_path
         db.delete(evidence)

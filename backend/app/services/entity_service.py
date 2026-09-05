@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 from app.models.alert import Alert
 from app.models.analysis import Analysis
 from app.models.case import Case
-from app.models.entity import Entity
+from app.models.entity import Entity, EntityMentionProvenance
 from app.models.entity_identifier import EntityIdentifier
 from app.models.evidence import Evidence
 from app.models.relationship import Relationship
@@ -30,6 +30,14 @@ class EntityIdentifierNotFoundError(EntityServiceError):
 
 
 class EntityIdentifierEvidenceNotFoundError(EntityServiceError):
+    pass
+
+
+class EntityProvenanceEvidenceNotFoundError(EntityServiceError):
+    pass
+
+
+class EntityProvenanceDuplicateError(EntityServiceError):
     pass
 
 
@@ -104,6 +112,7 @@ def delete_entity(db: Session, entity_id: int) -> None:
         # Use COUNT-based checks per table — valid on Oracle, PostgreSQL, and SQLite.
         dependent = (
             (db.scalar(select(func.count(EntityIdentifier.id)).where(EntityIdentifier.entity_id == entity_id)) or 0) > 0
+            or (db.scalar(select(func.count(EntityMentionProvenance.id)).where(EntityMentionProvenance.entity_id == entity_id)) or 0) > 0
             or (db.scalar(select(func.count(Relationship.id)).where(Relationship.source_entity_id == entity_id)) or 0) > 0
             or (db.scalar(select(func.count(Relationship.id)).where(Relationship.target_entity_id == entity_id)) or 0) > 0
             or (db.scalar(select(func.count(Analysis.id)).where(Analysis.entity_id == entity_id)) or 0) > 0
@@ -193,4 +202,62 @@ def delete_identifier(db: Session, entity_id: int, identifier_id: int) -> None:
         db.commit()
     except SQLAlchemyError as exc:
         db.rollback()
+        raise EntityDatabaseError from exc
+
+
+def create_mention_provenance(db: Session, entity_id: int, provenance_data: dict) -> EntityMentionProvenance:
+    entity = get_entity(db, entity_id)
+    evidence_id = provenance_data.get("evidence_id")
+    if evidence_id is None:
+        raise EntityProvenanceEvidenceNotFoundError("evidence_id is required")
+
+    # Case consistency check: evidence must exist and belong to the same case as entity
+    evidence = db.scalar(
+        select(Evidence).where(Evidence.id == evidence_id, Evidence.case_id == entity.case_id)
+    )
+    if evidence is None:
+        raise EntityProvenanceEvidenceNotFoundError("Evidence does not exist or belongs to a different Case")
+
+    try:
+        # Check uniqueness constraint: uq_emp_mention on (evidence_id, source_index, start_char, end_char)
+        source_index = provenance_data.get("source_index")
+        start_char = provenance_data.get("start_char")
+        end_char = provenance_data.get("end_char")
+        if source_index is not None and start_char is not None and end_char is not None:
+            existing = db.scalar(
+                select(EntityMentionProvenance.id).where(
+                    EntityMentionProvenance.evidence_id == evidence_id,
+                    EntityMentionProvenance.source_index == source_index,
+                    EntityMentionProvenance.start_char == start_char,
+                    EntityMentionProvenance.end_char == end_char,
+                )
+            )
+            if existing is not None:
+                raise EntityProvenanceDuplicateError("Mention provenance with these source coordinates already exists")
+
+        provenance = EntityMentionProvenance(entity_id=entity_id, **provenance_data)
+        db.add(provenance)
+        db.commit()
+        db.refresh(provenance)
+        return provenance
+    except (EntityProvenanceEvidenceNotFoundError, EntityProvenanceDuplicateError):
+        db.rollback()
+        raise
+    except IntegrityError as exc:
+        db.rollback()
+        raise EntityProvenanceDuplicateError from exc
+    except SQLAlchemyError as exc:
+        db.rollback()
+        raise EntityDatabaseError from exc
+
+
+def list_mention_provenances(db: Session, entity_id: int) -> Sequence[EntityMentionProvenance]:
+    get_entity(db, entity_id)
+    try:
+        return db.scalars(
+            select(EntityMentionProvenance)
+            .where(EntityMentionProvenance.entity_id == entity_id)
+            .order_by(EntityMentionProvenance.id)
+        ).all()
+    except SQLAlchemyError as exc:
         raise EntityDatabaseError from exc

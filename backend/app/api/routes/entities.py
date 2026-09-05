@@ -11,6 +11,7 @@ from app.schemas.entity import (
     EntityIdentifierResponse,
     EntityIdentifierUpdate,
     EntityListResponse,
+    EntityMentionProvenanceResponse,
     EntityResponse,
     EntityUpdate,
 )
@@ -28,6 +29,7 @@ from app.services.entity_service import (
     get_entity,
     list_entities,
     list_identifiers,
+    list_mention_provenances,
     update_entity,
     update_identifier,
 )
@@ -71,19 +73,19 @@ def get_entity_list(
 
 
 @router.post("/{entity_id}/identifiers", response_model=EntityIdentifierResponse, status_code=status.HTTP_201_CREATED)
-def add_identifier(entity_id: int, payload: EntityIdentifierCreate, db: DbSession) -> EntityIdentifierResponse:
+def create_entity_identifier_endpoint(entity_id: int, payload: EntityIdentifierCreate, db: DbSession) -> EntityIdentifierResponse:
     try:
         return create_identifier(db, entity_id, payload.model_dump())
     except EntityNotFoundError as exc:
         raise _entity_not_found(exc)
     except EntityIdentifierEvidenceNotFoundError as exc:
-        raise HTTPException(status_code=400, detail="Source evidence not found in the entity case") from exc
+        raise HTTPException(status_code=404, detail="Source evidence not found for entity case") from exc
     except EntityDatabaseError as exc:
         raise _database_error() from exc
 
 
 @router.get("/{entity_id}/identifiers", response_model=list[EntityIdentifierResponse])
-def get_identifiers(entity_id: int, db: DbSession) -> list[EntityIdentifierResponse]:
+def get_entity_identifiers_endpoint(entity_id: int, db: DbSession) -> list[EntityIdentifierResponse]:
     try:
         return list(list_identifiers(db, entity_id))
     except EntityNotFoundError as exc:
@@ -92,28 +94,34 @@ def get_identifiers(entity_id: int, db: DbSession) -> list[EntityIdentifierRespo
         raise _database_error() from exc
 
 
+@router.get("/{entity_id}/identifiers/{identifier_id}", response_model=EntityIdentifierResponse)
+def get_entity_identifier_item(entity_id: int, identifier_id: int, db: DbSession) -> EntityIdentifierResponse:
+    try:
+        return get_identifier(db, entity_id, identifier_id)
+    except (EntityNotFoundError, EntityIdentifierNotFoundError) as exc:
+        raise _entity_not_found(exc)
+    except EntityDatabaseError as exc:
+        raise _database_error() from exc
+
+
 @router.put("/{entity_id}/identifiers/{identifier_id}", response_model=EntityIdentifierResponse)
-def edit_identifier(entity_id: int, identifier_id: int, payload: EntityIdentifierUpdate, db: DbSession) -> EntityIdentifierResponse:
+def edit_entity_identifier(entity_id: int, identifier_id: int, payload: EntityIdentifierUpdate, db: DbSession) -> EntityIdentifierResponse:
     try:
         return update_identifier(db, entity_id, identifier_id, payload.model_dump(exclude_unset=True))
-    except EntityNotFoundError as exc:
+    except (EntityNotFoundError, EntityIdentifierNotFoundError) as exc:
         raise _entity_not_found(exc)
-    except EntityIdentifierNotFoundError as exc:
-        raise HTTPException(status_code=404, detail="Entity identifier not found") from exc
     except EntityIdentifierEvidenceNotFoundError as exc:
-        raise HTTPException(status_code=400, detail="Source evidence not found in the entity case") from exc
+        raise HTTPException(status_code=404, detail="Source evidence not found for entity case") from exc
     except EntityDatabaseError as exc:
         raise _database_error() from exc
 
 
 @router.delete("/{entity_id}/identifiers/{identifier_id}", status_code=status.HTTP_204_NO_CONTENT)
-def remove_identifier(entity_id: int, identifier_id: int, db: DbSession) -> Response:
+def remove_entity_identifier(entity_id: int, identifier_id: int, db: DbSession) -> Response:
     try:
         delete_identifier(db, entity_id, identifier_id)
-    except EntityNotFoundError as exc:
+    except (EntityNotFoundError, EntityIdentifierNotFoundError) as exc:
         raise _entity_not_found(exc)
-    except EntityIdentifierNotFoundError as exc:
-        raise HTTPException(status_code=404, detail="Entity identifier not found") from exc
     except EntityDatabaseError as exc:
         raise _database_error() from exc
     return Response(status_code=status.HTTP_204_NO_CONTENT)
@@ -123,6 +131,16 @@ def remove_identifier(entity_id: int, identifier_id: int, db: DbSession) -> Resp
 def get_entity_item(entity_id: int, db: DbSession) -> EntityResponse:
     try:
         return get_entity(db, entity_id)
+    except EntityNotFoundError as exc:
+        raise _entity_not_found(exc)
+    except EntityDatabaseError as exc:
+        raise _database_error() from exc
+
+
+@router.get("/{entity_id}/mentions", response_model=list[EntityMentionProvenanceResponse])
+def get_entity_mentions(entity_id: int, db: DbSession) -> list[EntityMentionProvenanceResponse]:
+    try:
+        return list(list_mention_provenances(db, entity_id))
     except EntityNotFoundError as exc:
         raise _entity_not_found(exc)
     except EntityDatabaseError as exc:
