@@ -1,0 +1,26 @@
+[
+  {
+    "source_FIR_id": "FIR-2023-DEL-001",
+    "relation_type": "visited",
+    "source_type": "structured_field",
+    "evidence": "structured_fields: accused_name & accused_address"
+  },
+  {
+    "source_FIR_id": "FIR-2023-DEL-001",
+    "relation_type": "uses",
+    "source_type": "structured_field",
+    "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-DEL-001"
+  },
+  {
+    "source_FIR_id": "FIR-2023-DEL-002",
+    "relation_type": "uses",
+    "source_type": "structured_field",
+    "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-DEL-002"
+  },
+  {
+    "source_FIR_id": "FIR-2023-MUM-003",
+    "relation_type": "connected_to",
+    "source_type": "co_occurrence",
+    "evidence": "co_occurrence in source FIR FIR-2023-MUM-003"
+  }
+]

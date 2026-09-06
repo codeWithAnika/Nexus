@@ -1,0 +1,54 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.7, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\AaYushman Parab\AppData\Local\Programs\Python\Python313\python.exe
+cachedir: .pytest_cache
+rootdir: c:\PROJECTS\SIH PS189\Aayuushman's work
+plugins: anyio-4.11.0, dash-4.1.0, Faker-40.15.0, langsmith-0.9.3, asyncio-1.4.0
+asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collecting ... collected 43 items
+
+tests/test_alert_generator.py::test_alert_generator_end_to_end PASSED    [  2%]
+tests/test_analyzer.py::test_graph_analyzer_integration PASSED           [  4%]
+tests/test_centrality.py::test_compute_graph_centralities PASSED         [  6%]
+tests/test_cluster_alerts.py::test_aggregate_cluster_alerts PASSED       [  9%]
+tests/test_community.py::test_detect_louvain_communities PASSED          [ 11%]
+tests/test_extractors.py::test_extract_phones PASSED                     [ 13%]
+tests/test_extractors.py::test_extract_phones_empty PASSED               [ 16%]
+tests/test_extractors.py::test_extract_emails PASSED                     [ 18%]
+tests/test_extractors.py::test_extract_dates PASSED                      [ 20%]
+tests/test_extractors.py::test_extract_amounts PASSED                    [ 23%]
+tests/test_extractors.py::test_extract_case_refs PASSED                  [ 25%]
+tests/test_extractors.py::test_extract_ips PASSED                        [ 27%]
+tests/test_extractors.py::test_extract_all_mentions_structured_and_unstructured PASSED [ 30%]
+tests/test_graph_builder.py::test_graph_builder PASSED                   [ 32%]
+tests/test_llm_client.py::test_llm_client_successful_json_response PASSED [ 34%]
+tests/test_llm_client.py::test_llm_client_retry_on_malformed_json PASSED [ 37%]
+tests/test_llm_client.py::test_llm_client_resilient_fallback_on_api_error PASSED [ 39%]
+tests/test_llm_client.py::test_extract_narrative_entities_llm PASSED     [ 41%]
+tests/test_llm_client.py::test_evaluate_ambiguous_merge_llm PASSED       [ 44%]
+tests/test_llm_reason_polish.py::test_polish_reasons_llm_successful PASSED [ 46%]
+tests/test_llm_reason_polish.py::test_polish_reasons_llm_fallback_on_api_error PASSED [ 48%]
+tests/test_llm_relationship_extractor.py::test_extract_llm_relationships PASSED [ 51%]
+tests/test_normalizers.py::test_normalize_person_name PASSED             [ 53%]
+tests/test_normalizers.py::test_normalize_phone PASSED                   [ 55%]
+tests/test_normalizers.py::test_normalize_email PASSED                   [ 58%]
+tests/test_normalizers.py::test_normalize_address PASSED                 [ 60%]
+tests/test_normalizers.py::test_normalize_amount PASSED                  [ 62%]
+tests/test_normalizers.py::test_normalize_date PASSED                    [ 65%]
+tests/test_normalizers.py::test_normalize_mention_dispatcher PASSED      [ 67%]
+tests/test_pattern_detection.py::test_detect_repeated_identifiers PASSED [ 69%]
+tests/test_pattern_detection.py::test_detect_cross_fir_appearances PASSED [ 72%]
+tests/test_pattern_detection.py::test_detect_dense_clusters PASSED       [ 74%]
+tests/test_pattern_detection.py::test_detect_unusual_structures_star_pattern PASSED [ 76%]
+tests/test_pipeline.py::test_full_pipeline_on_sample_firs PASSED         [ 79%]
+tests/test_reason_generation.py::test_generate_reasons_from_factors PASSED [ 81%]
+tests/test_relationship_rules.py::test_extract_structured_field_relationships PASSED [ 83%]
+tests/test_relationship_rules.py::test_extract_cooccurrence_relationships PASSED [ 86%]
+tests/test_resolution.py::test_exact_match_merge PASSED                  [ 88%]
+tests/test_resolution.py::test_fuzzy_match_merge_and_explainability PASSED [ 90%]
+tests/test_resolution.py::test_contextual_boosting_with_shared_phone PASSED [ 93%]
+tests/test_resolution.py::test_candidate_merge_flagging PASSED           [ 95%]
+tests/test_scoring.py::test_risk_scorer_high_tier_hub PASSED             [ 97%]
+tests/test_scoring.py::test_risk_scorer_low_tier_entity PASSED           [100%]
+
+============================= 43 passed in 4.61s ==============================
+
