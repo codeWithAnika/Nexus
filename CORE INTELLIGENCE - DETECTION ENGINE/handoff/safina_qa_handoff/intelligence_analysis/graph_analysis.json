@@ -1,0 +1,1568 @@
+{
+  "entity_metrics": {
+    "ENT-CASEREF-e7d9dae9": {
+      "entity_id": "ENT-CASEREF-e7d9dae9",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 1,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-ef5e9df6": {
+      "entity_id": "ENT-CASEREF-ef5e9df6",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 2,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-1d1c2b74": {
+      "entity_id": "ENT-CASEREF-1d1c2b74",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 3,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-c8d75dc0": {
+      "entity_id": "ENT-CASEREF-c8d75dc0",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 4,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-03bcf6f5": {
+      "entity_id": "ENT-CASEREF-03bcf6f5",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 5,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-0fbc28ea": {
+      "entity_id": "ENT-CASEREF-0fbc28ea",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 6,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-7e460019": {
+      "entity_id": "ENT-CASEREF-7e460019",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 7,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-08272218": {
+      "entity_id": "ENT-CASEREF-08272218",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 8,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-c04c95c2": {
+      "entity_id": "ENT-CASEREF-c04c95c2",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 9,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-7b8de14b": {
+      "entity_id": "ENT-CASEREF-7b8de14b",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 10,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-e01102a1": {
+      "entity_id": "ENT-CASEREF-e01102a1",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 11,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-b2c55db5": {
+      "entity_id": "ENT-CASEREF-b2c55db5",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 12,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-0aafeef0": {
+      "entity_id": "ENT-CASEREF-0aafeef0",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 13,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-4a5ec2b1": {
+      "entity_id": "ENT-CASEREF-4a5ec2b1",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 14,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-3ae11d27": {
+      "entity_id": "ENT-CASEREF-3ae11d27",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 15,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-PERSON-75e1d44c": {
+      "entity_id": "ENT-PERSON-75e1d44c",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 12,
+        "total_degree": 12,
+        "degree_centrality": 0.2,
+        "betweenness_centrality": 0.0093,
+        "pagerank": 0.041019
+      },
+      "community_id": 16,
+      "cross_fir_count": 2,
+      "pattern_flags": [
+        "repeated_identifier",
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-PERSON-85a208c9": {
+      "entity_id": "ENT-PERSON-85a208c9",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 7,
+        "total_degree": 7,
+        "degree_centrality": 0.1167,
+        "betweenness_centrality": 0.005,
+        "pagerank": 0.024419
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-c4b00bc0": {
+      "entity_id": "ENT-PERSON-c4b00bc0",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 13,
+        "total_degree": 14,
+        "degree_centrality": 0.2333,
+        "betweenness_centrality": 0.0097,
+        "pagerank": 0.04614
+      },
+      "community_id": 16,
+      "cross_fir_count": 2,
+      "pattern_flags": [
+        "repeated_identifier",
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-PERSON-4746a8a4": {
+      "entity_id": "ENT-PERSON-4746a8a4",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 6,
+        "total_degree": 6,
+        "degree_centrality": 0.1,
+        "betweenness_centrality": 0.0015,
+        "pagerank": 0.017692
+      },
+      "community_id": 17,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-5390ff1c": {
+      "entity_id": "ENT-PERSON-5390ff1c",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 35,
+        "total_degree": 36,
+        "degree_centrality": 0.6,
+        "betweenness_centrality": 0.0439,
+        "pagerank": 0.0857
+      },
+      "community_id": 20,
+      "cross_fir_count": 6,
+      "pattern_flags": [
+        "repeated_identifier",
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-PERSON-697e4e72": {
+      "entity_id": "ENT-PERSON-697e4e72",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 4,
+        "total_degree": 6,
+        "degree_centrality": 0.1,
+        "betweenness_centrality": 0.0015,
+        "pagerank": 0.017692
+      },
+      "community_id": 17,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-3664f451": {
+      "entity_id": "ENT-PERSON-3664f451",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 6,
+        "total_degree": 7,
+        "degree_centrality": 0.1167,
+        "betweenness_centrality": 0.0052,
+        "pagerank": 0.02501
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-0cd43b71": {
+      "entity_id": "ENT-PERSON-0cd43b71",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 4,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0003,
+        "pagerank": 0.025619
+      },
+      "community_id": 18,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-PERSON-c6d1cf7b": {
+      "entity_id": "ENT-PERSON-c6d1cf7b",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 3,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0003,
+        "pagerank": 0.025619
+      },
+      "community_id": 18,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-PERSON-a87d98e3": {
+      "entity_id": "ENT-PERSON-a87d98e3",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 5,
+        "total_degree": 6,
+        "degree_centrality": 0.1,
+        "betweenness_centrality": 0.0059,
+        "pagerank": 0.020307
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-04664906": {
+      "entity_id": "ENT-PERSON-04664906",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 5,
+        "total_degree": 5,
+        "degree_centrality": 0.0833,
+        "betweenness_centrality": 0.0008,
+        "pagerank": 0.03083
+      },
+      "community_id": 19,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-2b48100c": {
+      "entity_id": "ENT-PERSON-2b48100c",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 4,
+        "total_degree": 5,
+        "degree_centrality": 0.0833,
+        "betweenness_centrality": 0.0008,
+        "pagerank": 0.03083
+      },
+      "community_id": 19,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-4faf998d": {
+      "entity_id": "ENT-PERSON-4faf998d",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 4,
+        "total_degree": 5,
+        "degree_centrality": 0.0833,
+        "betweenness_centrality": 0.0045,
+        "pagerank": 0.015162
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-951d3774": {
+      "entity_id": "ENT-PERSON-951d3774",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 21,
+        "total_degree": 25,
+        "degree_centrality": 0.4167,
+        "betweenness_centrality": 0.0072,
+        "pagerank": 0.059298
+      },
+      "community_id": 20,
+      "cross_fir_count": 4,
+      "pattern_flags": [
+        "repeated_identifier",
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-PERSON-21b6bfd3": {
+      "entity_id": "ENT-PERSON-21b6bfd3",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 4,
+        "total_degree": 6,
+        "degree_centrality": 0.1,
+        "betweenness_centrality": 0.0111,
+        "pagerank": 0.015793
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier"
+      ]
+    },
+    "ENT-LOCATION-fbf844ea": {
+      "entity_id": "ENT-LOCATION-fbf844ea",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.008848
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-LOCATION-ccdaf214": {
+      "entity_id": "ENT-LOCATION-ccdaf214",
+      "centrality": {
+        "in_degree": 14,
+        "out_degree": 0,
+        "total_degree": 14,
+        "degree_centrality": 0.2333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.040917
+      },
+      "community_id": 16,
+      "cross_fir_count": 4,
+      "pattern_flags": [
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-LOCATION-5a7f18a9": {
+      "entity_id": "ENT-LOCATION-5a7f18a9",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.014074
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-LOCATION-513764ac": {
+      "entity_id": "ENT-LOCATION-513764ac",
+      "centrality": {
+        "in_degree": 6,
+        "out_degree": 0,
+        "total_degree": 6,
+        "degree_centrality": 0.1,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.016684
+      },
+      "community_id": 17,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-LOCATION-7561feac": {
+      "entity_id": "ENT-LOCATION-7561feac",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.014205
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-LOCATION-4204c116": {
+      "entity_id": "ENT-LOCATION-4204c116",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.024357
+      },
+      "community_id": 18,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-LOCATION-ede1d7f8": {
+      "entity_id": "ENT-LOCATION-ede1d7f8",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.014429
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-LOCATION-b214218a": {
+      "entity_id": "ENT-LOCATION-b214218a",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.02204
+      },
+      "community_id": 19,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-LOCATION-426d133d": {
+      "entity_id": "ENT-LOCATION-426d133d",
+      "centrality": {
+        "in_degree": 22,
+        "out_degree": 0,
+        "total_degree": 22,
+        "degree_centrality": 0.3667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.045519
+      },
+      "community_id": 20,
+      "cross_fir_count": 5,
+      "pattern_flags": [
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-LOCATION-0d73dae2": {
+      "entity_id": "ENT-LOCATION-0d73dae2",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.010925
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-LOCATION-9fd0984a": {
+      "entity_id": "ENT-LOCATION-9fd0984a",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.010925
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-PHONE-e26d3ca4": {
+      "entity_id": "ENT-PHONE-e26d3ca4",
+      "centrality": {
+        "in_degree": 7,
+        "out_degree": 0,
+        "total_degree": 7,
+        "degree_centrality": 0.1167,
+        "betweenness_centrality": 0.0055,
+        "pagerank": 0.031239
+      },
+      "community_id": 16,
+      "cross_fir_count": 4,
+      "pattern_flags": [
+        "repeated_identifier",
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-PHONE-b66c2bfc": {
+      "entity_id": "ENT-PHONE-b66c2bfc",
+      "centrality": {
+        "in_degree": 14,
+        "out_degree": 0,
+        "total_degree": 14,
+        "degree_centrality": 0.2333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.044385
+      },
+      "community_id": 20,
+      "cross_fir_count": 6,
+      "pattern_flags": [
+        "repeated_identifier",
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-PHONE-4c39c0e4": {
+      "entity_id": "ENT-PHONE-4c39c0e4",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.017251
+      },
+      "community_id": 19,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-TRANSACTION-36d30151": {
+      "entity_id": "ENT-TRANSACTION-36d30151",
+      "centrality": {
+        "in_degree": 3,
+        "out_degree": 0,
+        "total_degree": 3,
+        "degree_centrality": 0.05,
+        "betweenness_centrality": 0.0081,
+        "pagerank": 0.015276
+      },
+      "community_id": 16,
+      "cross_fir_count": 2,
+      "pattern_flags": [
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-TRANSACTION-fa15e29c": {
+      "entity_id": "ENT-TRANSACTION-fa15e29c",
+      "centrality": {
+        "in_degree": 3,
+        "out_degree": 0,
+        "total_degree": 3,
+        "degree_centrality": 0.05,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.013282
+      },
+      "community_id": 17,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-TRANSACTION-5ccb12a8": {
+      "entity_id": "ENT-TRANSACTION-5ccb12a8",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.011444
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-TRANSACTION-8c28e429": {
+      "entity_id": "ENT-TRANSACTION-8c28e429",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.018967
+      },
+      "community_id": 18,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-TRANSACTION-328fad5b": {
+      "entity_id": "ENT-TRANSACTION-328fad5b",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.017251
+      },
+      "community_id": 19,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-TRANSACTION-19a33c9f": {
+      "entity_id": "ENT-TRANSACTION-19a33c9f",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.009655
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-TRANSACTION-9a84263b": {
+      "entity_id": "ENT-TRANSACTION-9a84263b",
+      "centrality": {
+        "in_degree": 3,
+        "out_degree": 0,
+        "total_degree": 3,
+        "degree_centrality": 0.05,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.012137
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-TRANSACTION-1122a65d": {
+      "entity_id": "ENT-TRANSACTION-1122a65d",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.009014
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-TRANSACTION-1763bbf3": {
+      "entity_id": "ENT-TRANSACTION-1763bbf3",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.009014
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-TRANSACTION-e807abb3": {
+      "entity_id": "ENT-TRANSACTION-e807abb3",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.009014
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-EMAIL-39b13fff": {
+      "entity_id": "ENT-EMAIL-39b13fff",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 21,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-EMAIL-649b4c36": {
+      "entity_id": "ENT-EMAIL-649b4c36",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 22,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-EMAIL-18333910": {
+      "entity_id": "ENT-EMAIL-18333910",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 23,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-EVENT-35f88733": {
+      "entity_id": "ENT-EVENT-35f88733",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 24,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-EVENT-71805883": {
+      "entity_id": "ENT-EVENT-71805883",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 25,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-IP-d49141d9": {
+      "entity_id": "ENT-IP-d49141d9",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 26,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-IP-4f5e21d0": {
+      "entity_id": "ENT-IP-4f5e21d0",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 27,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    }
+  },
+  "communities": [
+    {
+      "community_id": 1,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-e7d9dae9"
+      ]
+    },
+    {
+      "community_id": 2,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-ef5e9df6"
+      ]
+    },
+    {
+      "community_id": 3,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-1d1c2b74"
+      ]
+    },
+    {
+      "community_id": 4,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-c8d75dc0"
+      ]
+    },
+    {
+      "community_id": 5,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-03bcf6f5"
+      ]
+    },
+    {
+      "community_id": 6,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-0fbc28ea"
+      ]
+    },
+    {
+      "community_id": 7,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-7e460019"
+      ]
+    },
+    {
+      "community_id": 8,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-08272218"
+      ]
+    },
+    {
+      "community_id": 9,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-c04c95c2"
+      ]
+    },
+    {
+      "community_id": 10,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-7b8de14b"
+      ]
+    },
+    {
+      "community_id": 11,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-e01102a1"
+      ]
+    },
+    {
+      "community_id": 12,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-b2c55db5"
+      ]
+    },
+    {
+      "community_id": 13,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-0aafeef0"
+      ]
+    },
+    {
+      "community_id": 14,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-4a5ec2b1"
+      ]
+    },
+    {
+      "community_id": 15,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-3ae11d27"
+      ]
+    },
+    {
+      "community_id": 16,
+      "size": 13,
+      "density": 0.3205,
+      "member_entity_ids": [
+        "ENT-PERSON-85a208c9",
+        "ENT-LOCATION-5a7f18a9",
+        "ENT-TRANSACTION-36d30151",
+        "ENT-PHONE-e26d3ca4",
+        "ENT-LOCATION-ccdaf214",
+        "ENT-PERSON-3664f451",
+        "ENT-LOCATION-fbf844ea",
+        "ENT-PERSON-a87d98e3",
+        "ENT-TRANSACTION-5ccb12a8",
+        "ENT-LOCATION-ede1d7f8",
+        "ENT-PERSON-75e1d44c",
+        "ENT-PERSON-c4b00bc0",
+        "ENT-LOCATION-7561feac"
+      ]
+    },
+    {
+      "community_id": 17,
+      "size": 4,
+      "density": 0.8333,
+      "member_entity_ids": [
+        "ENT-LOCATION-513764ac",
+        "ENT-TRANSACTION-fa15e29c",
+        "ENT-PERSON-4746a8a4",
+        "ENT-PERSON-697e4e72"
+      ]
+    },
+    {
+      "community_id": 18,
+      "size": 4,
+      "density": 0.8333,
+      "member_entity_ids": [
+        "ENT-PERSON-c6d1cf7b",
+        "ENT-LOCATION-4204c116",
+        "ENT-TRANSACTION-8c28e429",
+        "ENT-PERSON-0cd43b71"
+      ]
+    },
+    {
+      "community_id": 19,
+      "size": 5,
+      "density": 0.7,
+      "member_entity_ids": [
+        "ENT-LOCATION-b214218a",
+        "ENT-PERSON-04664906",
+        "ENT-TRANSACTION-328fad5b",
+        "ENT-PHONE-4c39c0e4",
+        "ENT-PERSON-2b48100c"
+      ]
+    },
+    {
+      "community_id": 20,
+      "size": 13,
+      "density": 0.3462,
+      "member_entity_ids": [
+        "ENT-TRANSACTION-1763bbf3",
+        "ENT-TRANSACTION-19a33c9f",
+        "ENT-LOCATION-9fd0984a",
+        "ENT-TRANSACTION-1122a65d",
+        "ENT-TRANSACTION-e807abb3",
+        "ENT-LOCATION-426d133d",
+        "ENT-TRANSACTION-9a84263b",
+        "ENT-PERSON-5390ff1c",
+        "ENT-PHONE-b66c2bfc",
+        "ENT-PERSON-4faf998d",
+        "ENT-LOCATION-0d73dae2",
+        "ENT-PERSON-21b6bfd3",
+        "ENT-PERSON-951d3774"
+      ]
+    },
+    {
+      "community_id": 21,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-EMAIL-39b13fff"
+      ]
+    },
+    {
+      "community_id": 22,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-EMAIL-649b4c36"
+      ]
+    },
+    {
+      "community_id": 23,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-EMAIL-18333910"
+      ]
+    },
+    {
+      "community_id": 24,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-EVENT-35f88733"
+      ]
+    },
+    {
+      "community_id": 25,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-EVENT-71805883"
+      ]
+    },
+    {
+      "community_id": 26,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-IP-d49141d9"
+      ]
+    },
+    {
+      "community_id": 27,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-IP-4f5e21d0"
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "pattern_id": "PAT-REP-ID-81bf59b2",
+      "pattern_type": "repeated_identifier",
+      "entity_ids": [
+        "ENT-PHONE-e26d3ca4",
+        "ENT-PERSON-85a208c9",
+        "ENT-PERSON-3664f451",
+        "ENT-PERSON-a87d98e3",
+        "ENT-PERSON-75e1d44c",
+        "ENT-PERSON-c4b00bc0"
+      ],
+      "evidence": {
+        "identifier_id": "ENT-PHONE-e26d3ca4",
+        "identifier_type": "Phone",
+        "canonical_value": "+919876543210",
+        "linked_person_ids": [
+          "ENT-PERSON-85a208c9",
+          "ENT-PERSON-3664f451",
+          "ENT-PERSON-a87d98e3",
+          "ENT-PERSON-75e1d44c",
+          "ENT-PERSON-c4b00bc0"
+        ],
+        "linked_person_names": [
+          "Sunita Sharma",
+          "Ananya Roy",
+          "Priya Nair",
+          "Ramesh Sharma",
+          "Ramesh Kumar Sharma"
+        ],
+        "source_FIR_ids": [
+          "FIR-2023-DEL-001",
+          "FIR-2023-DEL-002",
+          "FIR-2023-BLR-004",
+          "FIR-2023-DEL-006"
+        ]
+      },
+      "triggering_metric_values": {
+        "linked_person_count": 5,
+        "degree_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-REP-ID-793c84ba",
+      "pattern_type": "repeated_identifier",
+      "entity_ids": [
+        "ENT-PHONE-b66c2bfc",
+        "ENT-PERSON-4faf998d",
+        "ENT-PERSON-21b6bfd3",
+        "ENT-PERSON-951d3774",
+        "ENT-PERSON-5390ff1c",
+        "ENT-PERSON-4746a8a4",
+        "ENT-PERSON-697e4e72"
+      ],
+      "evidence": {
+        "identifier_id": "ENT-PHONE-b66c2bfc",
+        "identifier_type": "Phone",
+        "canonical_value": "+919988776655",
+        "linked_person_ids": [
+          "ENT-PERSON-4faf998d",
+          "ENT-PERSON-21b6bfd3",
+          "ENT-PERSON-951d3774",
+          "ENT-PERSON-5390ff1c",
+          "ENT-PERSON-4746a8a4",
+          "ENT-PERSON-697e4e72"
+        ],
+        "linked_person_names": [
+          "Rohan Mehta",
+          "Spoke Suspect Alpha",
+          "Spoke Suspect Gamma",
+          "Amitabh Bachchan Singh",
+          "Vikram Malhotra",
+          "Pankaj Tripathi"
+        ],
+        "source_FIR_ids": [
+          "FIR-2023-MUM-003",
+          "FIR-2023-MUM-008",
+          "FIR-2024-ENG-009",
+          "FIR-2024-ENG-010",
+          "FIR-2024-ENG-011",
+          "FIR-2024-ENG-012"
+        ]
+      },
+      "triggering_metric_values": {
+        "linked_person_count": 6,
+        "degree_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-REP-ID-f659981d",
+      "pattern_type": "repeated_identifier",
+      "entity_ids": [
+        "ENT-PHONE-4c39c0e4",
+        "ENT-PERSON-2b48100c",
+        "ENT-PERSON-04664906"
+      ],
+      "evidence": {
+        "identifier_id": "ENT-PHONE-4c39c0e4",
+        "identifier_type": "Phone",
+        "canonical_value": "+919123456789",
+        "linked_person_ids": [
+          "ENT-PERSON-2b48100c",
+          "ENT-PERSON-04664906"
+        ],
+        "linked_person_names": [
+          "Siddharth Mukherjee",
+          "Joydeep Das"
+        ],
+        "source_FIR_ids": [
+          "FIR-2023-KOL-007"
+        ]
+      },
+      "triggering_metric_values": {
+        "linked_person_count": 2,
+        "degree_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-749d7f68",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PERSON-75e1d44c"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PERSON-75e1d44c",
+        "entity_type": "Person",
+        "display_value": "Ramesh Sharma",
+        "source_FIR_ids": [
+          "FIR-2023-DEL-001",
+          "FIR-2023-DEL-006"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 2,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-7bf374c5",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PERSON-c4b00bc0"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PERSON-c4b00bc0",
+        "entity_type": "Person",
+        "display_value": "Ramesh Kumar Sharma",
+        "source_FIR_ids": [
+          "FIR-2023-DEL-002",
+          "FIR-2023-BLR-004"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 2,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-a7ad5344",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PERSON-5390ff1c"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PERSON-5390ff1c",
+        "entity_type": "Person",
+        "display_value": "Amitabh Bachchan Singh",
+        "source_FIR_ids": [
+          "FIR-2023-MUM-003",
+          "FIR-2024-ENG-009",
+          "FIR-2024-ENG-010",
+          "FIR-2024-ENG-011",
+          "FIR-2024-ENG-012",
+          "FIR-2023-MUM-008"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 6,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-15df53b7",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PERSON-951d3774"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PERSON-951d3774",
+        "entity_type": "Person",
+        "display_value": "Spoke Suspect Gamma",
+        "source_FIR_ids": [
+          "FIR-2024-ENG-009",
+          "FIR-2024-ENG-010",
+          "FIR-2024-ENG-011",
+          "FIR-2024-ENG-012"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 4,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-5fce969f",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-LOCATION-ccdaf214"
+      ],
+      "evidence": {
+        "entity_id": "ENT-LOCATION-ccdaf214",
+        "entity_type": "Location",
+        "display_value": "Plot 12, Sector 4, Dwarka, New Delhi",
+        "source_FIR_ids": [
+          "FIR-2023-DEL-001",
+          "FIR-2023-DEL-002",
+          "FIR-2023-BLR-004",
+          "FIR-2023-DEL-006"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 4,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-bd018e0c",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-LOCATION-426d133d"
+      ],
+      "evidence": {
+        "entity_id": "ENT-LOCATION-426d133d",
+        "entity_type": "Location",
+        "display_value": "Andheri West, Mumbai",
+        "source_FIR_ids": [
+          "FIR-2023-MUM-008",
+          "FIR-2024-ENG-009",
+          "FIR-2024-ENG-010",
+          "FIR-2024-ENG-011",
+          "FIR-2024-ENG-012"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 5,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-bc635b2e",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PHONE-e26d3ca4"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PHONE-e26d3ca4",
+        "entity_type": "Phone",
+        "display_value": "+919876543210",
+        "source_FIR_ids": [
+          "FIR-2023-DEL-001",
+          "FIR-2023-DEL-002",
+          "FIR-2023-BLR-004",
+          "FIR-2023-DEL-006"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 4,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-ea50da9e",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PHONE-b66c2bfc"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PHONE-b66c2bfc",
+        "entity_type": "Phone",
+        "display_value": "+919988776655",
+        "source_FIR_ids": [
+          "FIR-2023-MUM-003",
+          "FIR-2023-MUM-008",
+          "FIR-2024-ENG-009",
+          "FIR-2024-ENG-010",
+          "FIR-2024-ENG-011",
+          "FIR-2024-ENG-012"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 6,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-037a3d8a",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-TRANSACTION-36d30151"
+      ],
+      "evidence": {
+        "entity_id": "ENT-TRANSACTION-36d30151",
+        "entity_type": "Transaction",
+        "display_value": "\u20b95,00,000",
+        "source_FIR_ids": [
+          "FIR-2023-DEL-001",
+          "FIR-2023-DEL-002"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 2,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-DENSE-ef29c829",
+      "pattern_type": "dense_cluster",
+      "entity_ids": [
+        "ENT-LOCATION-513764ac",
+        "ENT-TRANSACTION-fa15e29c",
+        "ENT-PERSON-4746a8a4",
+        "ENT-PERSON-697e4e72"
+      ],
+      "evidence": {
+        "community_id": 17,
+        "size": 4,
+        "density": 0.8333,
+        "member_count": 4
+      },
+      "triggering_metric_values": {
+        "density": 0.8333,
+        "density_threshold": 0.4,
+        "size": 4,
+        "min_size_threshold": 3
+      }
+    },
+    {
+      "pattern_id": "PAT-DENSE-4239387e",
+      "pattern_type": "dense_cluster",
+      "entity_ids": [
+        "ENT-PERSON-c6d1cf7b",
+        "ENT-LOCATION-4204c116",
+        "ENT-TRANSACTION-8c28e429",
+        "ENT-PERSON-0cd43b71"
+      ],
+      "evidence": {
+        "community_id": 18,
+        "size": 4,
+        "density": 0.8333,
+        "member_count": 4
+      },
+      "triggering_metric_values": {
+        "density": 0.8333,
+        "density_threshold": 0.4,
+        "size": 4,
+        "min_size_threshold": 3
+      }
+    },
+    {
+      "pattern_id": "PAT-DENSE-1927fb9e",
+      "pattern_type": "dense_cluster",
+      "entity_ids": [
+        "ENT-LOCATION-b214218a",
+        "ENT-PERSON-04664906",
+        "ENT-TRANSACTION-328fad5b",
+        "ENT-PHONE-4c39c0e4",
+        "ENT-PERSON-2b48100c"
+      ],
+      "evidence": {
+        "community_id": 19,
+        "size": 5,
+        "density": 0.7,
+        "member_count": 5
+      },
+      "triggering_metric_values": {
+        "density": 0.7,
+        "density_threshold": 0.4,
+        "size": 5,
+        "min_size_threshold": 3
+      }
+    }
+  ],
+  "summary": {
+    "num_nodes": 61,
+    "num_edges": 133,
+    "num_communities": 27,
+    "num_pattern_matches": 15,
+    "pattern_counts": {
+      "repeated_identifier": 3,
+      "cross_fir_appearance": 9,
+      "dense_cluster": 3
+    }
+  }
+}

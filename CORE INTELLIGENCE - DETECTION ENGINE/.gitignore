@@ -1,0 +1,12 @@
+# Environment & secret files
+.env
+.env.local
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Outputs
+output/
+_deleted_backup/

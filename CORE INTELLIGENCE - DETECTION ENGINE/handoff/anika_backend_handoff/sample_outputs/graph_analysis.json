@@ -1,0 +1,1568 @@
+{
+  "entity_metrics": {
+    "ENT-CASEREF-bf5066dd": {
+      "entity_id": "ENT-CASEREF-bf5066dd",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 1,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-617e116f": {
+      "entity_id": "ENT-CASEREF-617e116f",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 2,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-4c04fa9a": {
+      "entity_id": "ENT-CASEREF-4c04fa9a",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 3,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-b5d22912": {
+      "entity_id": "ENT-CASEREF-b5d22912",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 4,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-ff91e0da": {
+      "entity_id": "ENT-CASEREF-ff91e0da",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 5,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-d27e2ac6": {
+      "entity_id": "ENT-CASEREF-d27e2ac6",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 6,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-b0f62ff2": {
+      "entity_id": "ENT-CASEREF-b0f62ff2",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 7,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-3999612f": {
+      "entity_id": "ENT-CASEREF-3999612f",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 8,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-c96eb937": {
+      "entity_id": "ENT-CASEREF-c96eb937",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 9,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-b7873dee": {
+      "entity_id": "ENT-CASEREF-b7873dee",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 10,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-2b73cd47": {
+      "entity_id": "ENT-CASEREF-2b73cd47",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 11,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-7ea88efe": {
+      "entity_id": "ENT-CASEREF-7ea88efe",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 12,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-9358c628": {
+      "entity_id": "ENT-CASEREF-9358c628",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 13,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-474c2c7c": {
+      "entity_id": "ENT-CASEREF-474c2c7c",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 14,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-CASEREF-72790638": {
+      "entity_id": "ENT-CASEREF-72790638",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 15,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-PERSON-a545af01": {
+      "entity_id": "ENT-PERSON-a545af01",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 12,
+        "total_degree": 12,
+        "degree_centrality": 0.2,
+        "betweenness_centrality": 0.0093,
+        "pagerank": 0.041019
+      },
+      "community_id": 16,
+      "cross_fir_count": 2,
+      "pattern_flags": [
+        "cross_fir_appearance",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-e0c28513": {
+      "entity_id": "ENT-PERSON-e0c28513",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 7,
+        "total_degree": 7,
+        "degree_centrality": 0.1167,
+        "betweenness_centrality": 0.005,
+        "pagerank": 0.024419
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-5e6ee11d": {
+      "entity_id": "ENT-PERSON-5e6ee11d",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 13,
+        "total_degree": 14,
+        "degree_centrality": 0.2333,
+        "betweenness_centrality": 0.0097,
+        "pagerank": 0.04614
+      },
+      "community_id": 16,
+      "cross_fir_count": 2,
+      "pattern_flags": [
+        "cross_fir_appearance",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-0d710d40": {
+      "entity_id": "ENT-PERSON-0d710d40",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 6,
+        "total_degree": 6,
+        "degree_centrality": 0.1,
+        "betweenness_centrality": 0.0015,
+        "pagerank": 0.017692
+      },
+      "community_id": 17,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier",
+        "dense_cluster"
+      ]
+    },
+    "ENT-PERSON-83dec0d5": {
+      "entity_id": "ENT-PERSON-83dec0d5",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 35,
+        "total_degree": 36,
+        "degree_centrality": 0.6,
+        "betweenness_centrality": 0.0439,
+        "pagerank": 0.0857
+      },
+      "community_id": 20,
+      "cross_fir_count": 6,
+      "pattern_flags": [
+        "cross_fir_appearance",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-b7f7938c": {
+      "entity_id": "ENT-PERSON-b7f7938c",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 4,
+        "total_degree": 6,
+        "degree_centrality": 0.1,
+        "betweenness_centrality": 0.0015,
+        "pagerank": 0.017692
+      },
+      "community_id": 17,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier",
+        "dense_cluster"
+      ]
+    },
+    "ENT-PERSON-ad16d55d": {
+      "entity_id": "ENT-PERSON-ad16d55d",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 6,
+        "total_degree": 7,
+        "degree_centrality": 0.1167,
+        "betweenness_centrality": 0.0052,
+        "pagerank": 0.02501
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-5c5bf971": {
+      "entity_id": "ENT-PERSON-5c5bf971",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 4,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0003,
+        "pagerank": 0.025619
+      },
+      "community_id": 18,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-PERSON-c4871a6c": {
+      "entity_id": "ENT-PERSON-c4871a6c",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 3,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0003,
+        "pagerank": 0.025619
+      },
+      "community_id": 18,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-PERSON-b6b7f3d8": {
+      "entity_id": "ENT-PERSON-b6b7f3d8",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 5,
+        "total_degree": 6,
+        "degree_centrality": 0.1,
+        "betweenness_centrality": 0.0059,
+        "pagerank": 0.020307
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-534b267c": {
+      "entity_id": "ENT-PERSON-534b267c",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 5,
+        "total_degree": 5,
+        "degree_centrality": 0.0833,
+        "betweenness_centrality": 0.0008,
+        "pagerank": 0.03083
+      },
+      "community_id": 19,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier",
+        "dense_cluster"
+      ]
+    },
+    "ENT-PERSON-f585c88a": {
+      "entity_id": "ENT-PERSON-f585c88a",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 4,
+        "total_degree": 5,
+        "degree_centrality": 0.0833,
+        "betweenness_centrality": 0.0008,
+        "pagerank": 0.03083
+      },
+      "community_id": 19,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier",
+        "dense_cluster"
+      ]
+    },
+    "ENT-PERSON-35f3f34d": {
+      "entity_id": "ENT-PERSON-35f3f34d",
+      "centrality": {
+        "in_degree": 1,
+        "out_degree": 4,
+        "total_degree": 5,
+        "degree_centrality": 0.0833,
+        "betweenness_centrality": 0.0045,
+        "pagerank": 0.015162
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-f684a327": {
+      "entity_id": "ENT-PERSON-f684a327",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 21,
+        "total_degree": 25,
+        "degree_centrality": 0.4167,
+        "betweenness_centrality": 0.0072,
+        "pagerank": 0.059298
+      },
+      "community_id": 20,
+      "cross_fir_count": 4,
+      "pattern_flags": [
+        "cross_fir_appearance",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PERSON-2342d30c": {
+      "entity_id": "ENT-PERSON-2342d30c",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 4,
+        "total_degree": 6,
+        "degree_centrality": 0.1,
+        "betweenness_centrality": 0.0111,
+        "pagerank": 0.015793
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier"
+      ]
+    },
+    "ENT-LOCATION-771f000f": {
+      "entity_id": "ENT-LOCATION-771f000f",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.008848
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-LOCATION-6d095912": {
+      "entity_id": "ENT-LOCATION-6d095912",
+      "centrality": {
+        "in_degree": 14,
+        "out_degree": 0,
+        "total_degree": 14,
+        "degree_centrality": 0.2333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.040917
+      },
+      "community_id": 16,
+      "cross_fir_count": 4,
+      "pattern_flags": [
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-LOCATION-bc833954": {
+      "entity_id": "ENT-LOCATION-bc833954",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.014074
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-LOCATION-02eb21b3": {
+      "entity_id": "ENT-LOCATION-02eb21b3",
+      "centrality": {
+        "in_degree": 6,
+        "out_degree": 0,
+        "total_degree": 6,
+        "degree_centrality": 0.1,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.016684
+      },
+      "community_id": 17,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-LOCATION-43935c6e": {
+      "entity_id": "ENT-LOCATION-43935c6e",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.014205
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-LOCATION-cb5f37cd": {
+      "entity_id": "ENT-LOCATION-cb5f37cd",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.024357
+      },
+      "community_id": 18,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-LOCATION-7aeabc32": {
+      "entity_id": "ENT-LOCATION-7aeabc32",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.014429
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-LOCATION-2edb4bec": {
+      "entity_id": "ENT-LOCATION-2edb4bec",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.02204
+      },
+      "community_id": 19,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-LOCATION-30bebe69": {
+      "entity_id": "ENT-LOCATION-30bebe69",
+      "centrality": {
+        "in_degree": 22,
+        "out_degree": 0,
+        "total_degree": 22,
+        "degree_centrality": 0.3667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.045519
+      },
+      "community_id": 20,
+      "cross_fir_count": 5,
+      "pattern_flags": [
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-LOCATION-12289272": {
+      "entity_id": "ENT-LOCATION-12289272",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.010925
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-LOCATION-4ab2d53c": {
+      "entity_id": "ENT-LOCATION-4ab2d53c",
+      "centrality": {
+        "in_degree": 4,
+        "out_degree": 0,
+        "total_degree": 4,
+        "degree_centrality": 0.0667,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.010925
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-PHONE-e4f1e93a": {
+      "entity_id": "ENT-PHONE-e4f1e93a",
+      "centrality": {
+        "in_degree": 7,
+        "out_degree": 0,
+        "total_degree": 7,
+        "degree_centrality": 0.1167,
+        "betweenness_centrality": 0.0055,
+        "pagerank": 0.031239
+      },
+      "community_id": 16,
+      "cross_fir_count": 4,
+      "pattern_flags": [
+        "cross_fir_appearance",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PHONE-78ee08c1": {
+      "entity_id": "ENT-PHONE-78ee08c1",
+      "centrality": {
+        "in_degree": 14,
+        "out_degree": 0,
+        "total_degree": 14,
+        "degree_centrality": 0.2333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.044385
+      },
+      "community_id": 20,
+      "cross_fir_count": 6,
+      "pattern_flags": [
+        "cross_fir_appearance",
+        "repeated_identifier"
+      ]
+    },
+    "ENT-PHONE-9062c1ea": {
+      "entity_id": "ENT-PHONE-9062c1ea",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.017251
+      },
+      "community_id": 19,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "repeated_identifier",
+        "dense_cluster"
+      ]
+    },
+    "ENT-TRANSACTION-849f31ba": {
+      "entity_id": "ENT-TRANSACTION-849f31ba",
+      "centrality": {
+        "in_degree": 3,
+        "out_degree": 0,
+        "total_degree": 3,
+        "degree_centrality": 0.05,
+        "betweenness_centrality": 0.0081,
+        "pagerank": 0.015276
+      },
+      "community_id": 16,
+      "cross_fir_count": 2,
+      "pattern_flags": [
+        "cross_fir_appearance"
+      ]
+    },
+    "ENT-TRANSACTION-54feaf75": {
+      "entity_id": "ENT-TRANSACTION-54feaf75",
+      "centrality": {
+        "in_degree": 3,
+        "out_degree": 0,
+        "total_degree": 3,
+        "degree_centrality": 0.05,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.013282
+      },
+      "community_id": 17,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-TRANSACTION-86d8321d": {
+      "entity_id": "ENT-TRANSACTION-86d8321d",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.011444
+      },
+      "community_id": 16,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-TRANSACTION-e187b6dc": {
+      "entity_id": "ENT-TRANSACTION-e187b6dc",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.018967
+      },
+      "community_id": 18,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-TRANSACTION-e3d8e192": {
+      "entity_id": "ENT-TRANSACTION-e3d8e192",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.017251
+      },
+      "community_id": 19,
+      "cross_fir_count": 1,
+      "pattern_flags": [
+        "dense_cluster"
+      ]
+    },
+    "ENT-TRANSACTION-7cf6a353": {
+      "entity_id": "ENT-TRANSACTION-7cf6a353",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.009655
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-TRANSACTION-823ba9de": {
+      "entity_id": "ENT-TRANSACTION-823ba9de",
+      "centrality": {
+        "in_degree": 3,
+        "out_degree": 0,
+        "total_degree": 3,
+        "degree_centrality": 0.05,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.012137
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-TRANSACTION-9a217ecb": {
+      "entity_id": "ENT-TRANSACTION-9a217ecb",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.009014
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-TRANSACTION-a2e11ed7": {
+      "entity_id": "ENT-TRANSACTION-a2e11ed7",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.009014
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-TRANSACTION-6971ba54": {
+      "entity_id": "ENT-TRANSACTION-6971ba54",
+      "centrality": {
+        "in_degree": 2,
+        "out_degree": 0,
+        "total_degree": 2,
+        "degree_centrality": 0.0333,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.009014
+      },
+      "community_id": 20,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-EMAIL-31359b30": {
+      "entity_id": "ENT-EMAIL-31359b30",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 21,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-EMAIL-adf21945": {
+      "entity_id": "ENT-EMAIL-adf21945",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 22,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-EMAIL-4856bdcb": {
+      "entity_id": "ENT-EMAIL-4856bdcb",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 23,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-EVENT-b7f6be6f": {
+      "entity_id": "ENT-EVENT-b7f6be6f",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 24,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-EVENT-8b1c7bb4": {
+      "entity_id": "ENT-EVENT-8b1c7bb4",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 25,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-IP-7c8c040c": {
+      "entity_id": "ENT-IP-7c8c040c",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 26,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    },
+    "ENT-IP-892c0270": {
+      "entity_id": "ENT-IP-892c0270",
+      "centrality": {
+        "in_degree": 0,
+        "out_degree": 0,
+        "total_degree": 0,
+        "degree_centrality": 0.0,
+        "betweenness_centrality": 0.0,
+        "pagerank": 0.003546
+      },
+      "community_id": 27,
+      "cross_fir_count": 1,
+      "pattern_flags": []
+    }
+  },
+  "communities": [
+    {
+      "community_id": 1,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-bf5066dd"
+      ]
+    },
+    {
+      "community_id": 2,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-617e116f"
+      ]
+    },
+    {
+      "community_id": 3,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-4c04fa9a"
+      ]
+    },
+    {
+      "community_id": 4,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-b5d22912"
+      ]
+    },
+    {
+      "community_id": 5,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-ff91e0da"
+      ]
+    },
+    {
+      "community_id": 6,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-d27e2ac6"
+      ]
+    },
+    {
+      "community_id": 7,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-b0f62ff2"
+      ]
+    },
+    {
+      "community_id": 8,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-3999612f"
+      ]
+    },
+    {
+      "community_id": 9,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-c96eb937"
+      ]
+    },
+    {
+      "community_id": 10,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-b7873dee"
+      ]
+    },
+    {
+      "community_id": 11,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-2b73cd47"
+      ]
+    },
+    {
+      "community_id": 12,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-7ea88efe"
+      ]
+    },
+    {
+      "community_id": 13,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-9358c628"
+      ]
+    },
+    {
+      "community_id": 14,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-474c2c7c"
+      ]
+    },
+    {
+      "community_id": 15,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-CASEREF-72790638"
+      ]
+    },
+    {
+      "community_id": 16,
+      "size": 13,
+      "density": 0.3205,
+      "member_entity_ids": [
+        "ENT-TRANSACTION-86d8321d",
+        "ENT-LOCATION-6d095912",
+        "ENT-PERSON-b6b7f3d8",
+        "ENT-PERSON-a545af01",
+        "ENT-PERSON-5e6ee11d",
+        "ENT-LOCATION-bc833954",
+        "ENT-LOCATION-43935c6e",
+        "ENT-PERSON-ad16d55d",
+        "ENT-PERSON-e0c28513",
+        "ENT-TRANSACTION-849f31ba",
+        "ENT-PHONE-e4f1e93a",
+        "ENT-LOCATION-7aeabc32",
+        "ENT-LOCATION-771f000f"
+      ]
+    },
+    {
+      "community_id": 17,
+      "size": 4,
+      "density": 0.8333,
+      "member_entity_ids": [
+        "ENT-PERSON-b7f7938c",
+        "ENT-LOCATION-02eb21b3",
+        "ENT-TRANSACTION-54feaf75",
+        "ENT-PERSON-0d710d40"
+      ]
+    },
+    {
+      "community_id": 18,
+      "size": 4,
+      "density": 0.8333,
+      "member_entity_ids": [
+        "ENT-LOCATION-cb5f37cd",
+        "ENT-TRANSACTION-e187b6dc",
+        "ENT-PERSON-c4871a6c",
+        "ENT-PERSON-5c5bf971"
+      ]
+    },
+    {
+      "community_id": 19,
+      "size": 5,
+      "density": 0.7,
+      "member_entity_ids": [
+        "ENT-PERSON-f585c88a",
+        "ENT-PHONE-9062c1ea",
+        "ENT-TRANSACTION-e3d8e192",
+        "ENT-LOCATION-2edb4bec",
+        "ENT-PERSON-534b267c"
+      ]
+    },
+    {
+      "community_id": 20,
+      "size": 13,
+      "density": 0.3462,
+      "member_entity_ids": [
+        "ENT-PERSON-f684a327",
+        "ENT-LOCATION-12289272",
+        "ENT-PERSON-2342d30c",
+        "ENT-TRANSACTION-a2e11ed7",
+        "ENT-PERSON-35f3f34d",
+        "ENT-TRANSACTION-7cf6a353",
+        "ENT-TRANSACTION-9a217ecb",
+        "ENT-TRANSACTION-823ba9de",
+        "ENT-LOCATION-4ab2d53c",
+        "ENT-PERSON-83dec0d5",
+        "ENT-TRANSACTION-6971ba54",
+        "ENT-LOCATION-30bebe69",
+        "ENT-PHONE-78ee08c1"
+      ]
+    },
+    {
+      "community_id": 21,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-EMAIL-31359b30"
+      ]
+    },
+    {
+      "community_id": 22,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-EMAIL-adf21945"
+      ]
+    },
+    {
+      "community_id": 23,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-EMAIL-4856bdcb"
+      ]
+    },
+    {
+      "community_id": 24,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-EVENT-b7f6be6f"
+      ]
+    },
+    {
+      "community_id": 25,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-EVENT-8b1c7bb4"
+      ]
+    },
+    {
+      "community_id": 26,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-IP-7c8c040c"
+      ]
+    },
+    {
+      "community_id": 27,
+      "size": 1,
+      "density": 1.0,
+      "member_entity_ids": [
+        "ENT-IP-892c0270"
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "pattern_id": "PAT-REP-ID-0cd484cd",
+      "pattern_type": "repeated_identifier",
+      "entity_ids": [
+        "ENT-PHONE-e4f1e93a",
+        "ENT-PERSON-e0c28513",
+        "ENT-PERSON-b6b7f3d8",
+        "ENT-PERSON-a545af01",
+        "ENT-PERSON-5e6ee11d",
+        "ENT-PERSON-ad16d55d"
+      ],
+      "evidence": {
+        "identifier_id": "ENT-PHONE-e4f1e93a",
+        "identifier_type": "Phone",
+        "canonical_value": "+919876543210",
+        "linked_person_ids": [
+          "ENT-PERSON-e0c28513",
+          "ENT-PERSON-b6b7f3d8",
+          "ENT-PERSON-a545af01",
+          "ENT-PERSON-5e6ee11d",
+          "ENT-PERSON-ad16d55d"
+        ],
+        "linked_person_names": [
+          "Sunita Sharma",
+          "Priya Nair",
+          "Ramesh Sharma",
+          "Ramesh Kumar Sharma",
+          "Ananya Roy"
+        ],
+        "source_FIR_ids": [
+          "FIR-2023-DEL-001",
+          "FIR-2023-DEL-002",
+          "FIR-2023-BLR-004",
+          "FIR-2023-DEL-006"
+        ]
+      },
+      "triggering_metric_values": {
+        "linked_person_count": 5,
+        "degree_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-REP-ID-0a31c4e1",
+      "pattern_type": "repeated_identifier",
+      "entity_ids": [
+        "ENT-PHONE-78ee08c1",
+        "ENT-PERSON-b7f7938c",
+        "ENT-PERSON-f684a327",
+        "ENT-PERSON-2342d30c",
+        "ENT-PERSON-0d710d40",
+        "ENT-PERSON-35f3f34d",
+        "ENT-PERSON-83dec0d5"
+      ],
+      "evidence": {
+        "identifier_id": "ENT-PHONE-78ee08c1",
+        "identifier_type": "Phone",
+        "canonical_value": "+919988776655",
+        "linked_person_ids": [
+          "ENT-PERSON-b7f7938c",
+          "ENT-PERSON-f684a327",
+          "ENT-PERSON-2342d30c",
+          "ENT-PERSON-0d710d40",
+          "ENT-PERSON-35f3f34d",
+          "ENT-PERSON-83dec0d5"
+        ],
+        "linked_person_names": [
+          "Pankaj Tripathi",
+          "Spoke Suspect Gamma",
+          "Spoke Suspect Alpha",
+          "Vikram Malhotra",
+          "Rohan Mehta",
+          "Amitabh Bachchan Singh"
+        ],
+        "source_FIR_ids": [
+          "FIR-2023-MUM-003",
+          "FIR-2023-MUM-008",
+          "FIR-2024-ENG-009",
+          "FIR-2024-ENG-010",
+          "FIR-2024-ENG-011",
+          "FIR-2024-ENG-012"
+        ]
+      },
+      "triggering_metric_values": {
+        "linked_person_count": 6,
+        "degree_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-REP-ID-f703e3c5",
+      "pattern_type": "repeated_identifier",
+      "entity_ids": [
+        "ENT-PHONE-9062c1ea",
+        "ENT-PERSON-f585c88a",
+        "ENT-PERSON-534b267c"
+      ],
+      "evidence": {
+        "identifier_id": "ENT-PHONE-9062c1ea",
+        "identifier_type": "Phone",
+        "canonical_value": "+919123456789",
+        "linked_person_ids": [
+          "ENT-PERSON-f585c88a",
+          "ENT-PERSON-534b267c"
+        ],
+        "linked_person_names": [
+          "Siddharth Mukherjee",
+          "Joydeep Das"
+        ],
+        "source_FIR_ids": [
+          "FIR-2023-KOL-007"
+        ]
+      },
+      "triggering_metric_values": {
+        "linked_person_count": 2,
+        "degree_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-a67b607c",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PERSON-a545af01"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PERSON-a545af01",
+        "entity_type": "Person",
+        "display_value": "Ramesh Sharma",
+        "source_FIR_ids": [
+          "FIR-2023-DEL-001",
+          "FIR-2023-DEL-006"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 2,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-94d3a4bf",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PERSON-5e6ee11d"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PERSON-5e6ee11d",
+        "entity_type": "Person",
+        "display_value": "Ramesh Kumar Sharma",
+        "source_FIR_ids": [
+          "FIR-2023-DEL-002",
+          "FIR-2023-BLR-004"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 2,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-d3bc16b2",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PERSON-83dec0d5"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PERSON-83dec0d5",
+        "entity_type": "Person",
+        "display_value": "Amitabh Bachchan Singh",
+        "source_FIR_ids": [
+          "FIR-2023-MUM-003",
+          "FIR-2024-ENG-009",
+          "FIR-2024-ENG-010",
+          "FIR-2024-ENG-011",
+          "FIR-2024-ENG-012",
+          "FIR-2023-MUM-008"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 6,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-1c374db7",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PERSON-f684a327"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PERSON-f684a327",
+        "entity_type": "Person",
+        "display_value": "Spoke Suspect Gamma",
+        "source_FIR_ids": [
+          "FIR-2024-ENG-009",
+          "FIR-2024-ENG-010",
+          "FIR-2024-ENG-011",
+          "FIR-2024-ENG-012"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 4,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-2ba11b69",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-LOCATION-6d095912"
+      ],
+      "evidence": {
+        "entity_id": "ENT-LOCATION-6d095912",
+        "entity_type": "Location",
+        "display_value": "Plot 12, Sector 4, Dwarka, New Delhi",
+        "source_FIR_ids": [
+          "FIR-2023-DEL-001",
+          "FIR-2023-DEL-002",
+          "FIR-2023-BLR-004",
+          "FIR-2023-DEL-006"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 4,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-3c81c1b7",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-LOCATION-30bebe69"
+      ],
+      "evidence": {
+        "entity_id": "ENT-LOCATION-30bebe69",
+        "entity_type": "Location",
+        "display_value": "Andheri West, Mumbai",
+        "source_FIR_ids": [
+          "FIR-2023-MUM-008",
+          "FIR-2024-ENG-009",
+          "FIR-2024-ENG-010",
+          "FIR-2024-ENG-011",
+          "FIR-2024-ENG-012"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 5,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-31fce738",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PHONE-e4f1e93a"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PHONE-e4f1e93a",
+        "entity_type": "Phone",
+        "display_value": "+919876543210",
+        "source_FIR_ids": [
+          "FIR-2023-DEL-001",
+          "FIR-2023-DEL-002",
+          "FIR-2023-BLR-004",
+          "FIR-2023-DEL-006"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 4,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-5f1a74a6",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-PHONE-78ee08c1"
+      ],
+      "evidence": {
+        "entity_id": "ENT-PHONE-78ee08c1",
+        "entity_type": "Phone",
+        "display_value": "+919988776655",
+        "source_FIR_ids": [
+          "FIR-2023-MUM-003",
+          "FIR-2023-MUM-008",
+          "FIR-2024-ENG-009",
+          "FIR-2024-ENG-010",
+          "FIR-2024-ENG-011",
+          "FIR-2024-ENG-012"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 6,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-XFIR-53dd86ec",
+      "pattern_type": "cross_fir_appearance",
+      "entity_ids": [
+        "ENT-TRANSACTION-849f31ba"
+      ],
+      "evidence": {
+        "entity_id": "ENT-TRANSACTION-849f31ba",
+        "entity_type": "Transaction",
+        "display_value": "\u20b95,00,000",
+        "source_FIR_ids": [
+          "FIR-2023-DEL-001",
+          "FIR-2023-DEL-002"
+        ]
+      },
+      "triggering_metric_values": {
+        "fir_count": 2,
+        "cross_fir_threshold": 2
+      }
+    },
+    {
+      "pattern_id": "PAT-DENSE-8f08a8f0",
+      "pattern_type": "dense_cluster",
+      "entity_ids": [
+        "ENT-PERSON-b7f7938c",
+        "ENT-LOCATION-02eb21b3",
+        "ENT-TRANSACTION-54feaf75",
+        "ENT-PERSON-0d710d40"
+      ],
+      "evidence": {
+        "community_id": 17,
+        "size": 4,
+        "density": 0.8333,
+        "member_count": 4
+      },
+      "triggering_metric_values": {
+        "density": 0.8333,
+        "density_threshold": 0.4,
+        "size": 4,
+        "min_size_threshold": 3
+      }
+    },
+    {
+      "pattern_id": "PAT-DENSE-ee94af84",
+      "pattern_type": "dense_cluster",
+      "entity_ids": [
+        "ENT-LOCATION-cb5f37cd",
+        "ENT-TRANSACTION-e187b6dc",
+        "ENT-PERSON-c4871a6c",
+        "ENT-PERSON-5c5bf971"
+      ],
+      "evidence": {
+        "community_id": 18,
+        "size": 4,
+        "density": 0.8333,
+        "member_count": 4
+      },
+      "triggering_metric_values": {
+        "density": 0.8333,
+        "density_threshold": 0.4,
+        "size": 4,
+        "min_size_threshold": 3
+      }
+    },
+    {
+      "pattern_id": "PAT-DENSE-4d014228",
+      "pattern_type": "dense_cluster",
+      "entity_ids": [
+        "ENT-PERSON-f585c88a",
+        "ENT-PHONE-9062c1ea",
+        "ENT-TRANSACTION-e3d8e192",
+        "ENT-LOCATION-2edb4bec",
+        "ENT-PERSON-534b267c"
+      ],
+      "evidence": {
+        "community_id": 19,
+        "size": 5,
+        "density": 0.7,
+        "member_count": 5
+      },
+      "triggering_metric_values": {
+        "density": 0.7,
+        "density_threshold": 0.4,
+        "size": 5,
+        "min_size_threshold": 3
+      }
+    }
+  ],
+  "summary": {
+    "num_nodes": 61,
+    "num_edges": 133,
+    "num_communities": 27,
+    "num_pattern_matches": 15,
+    "pattern_counts": {
+      "repeated_identifier": 3,
+      "cross_fir_appearance": 9,
+      "dense_cluster": 3
+    }
+  }
+}

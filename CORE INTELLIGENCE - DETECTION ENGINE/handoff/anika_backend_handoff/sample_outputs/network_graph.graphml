@@ -1,0 +1,1899 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d14" for="edge" attr.name="confidence" attr.type="double" />
+  <key id="d13" for="edge" attr.name="weight_components" attr.type="string" />
+  <key id="d12" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d11" for="edge" attr.name="evidence" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_FIR_ids" attr.type="string" />
+  <key id="d9" for="edge" attr.name="source_type" attr.type="string" />
+  <key id="d8" for="edge" attr.name="relation_type" attr.type="string" />
+  <key id="d7" for="edge" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="raw_mentions_count" attr.type="long" />
+  <key id="d5" for="node" attr.name="confidence" attr.type="double" />
+  <key id="d4" for="node" attr.name="source_FIR_ids" attr.type="string" />
+  <key id="d3" for="node" attr.name="display_value" attr.type="string" />
+  <key id="d2" for="node" attr.name="canonical_value" attr.type="string" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="id" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="ENT-CASEREF-bf5066dd">
+      <data key="d0">ENT-CASEREF-bf5066dd</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2023-DEL-001</data>
+      <data key="d3">FIR-2023-DEL-001</data>
+      <data key="d4">FIR-2023-DEL-001</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-617e116f">
+      <data key="d0">ENT-CASEREF-617e116f</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2023-DEL-002</data>
+      <data key="d3">FIR-2023-DEL-002</data>
+      <data key="d4">FIR-2023-DEL-002</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-4c04fa9a">
+      <data key="d0">ENT-CASEREF-4c04fa9a</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2023-MUM-003</data>
+      <data key="d3">FIR-2023-MUM-003</data>
+      <data key="d4">FIR-2023-MUM-003</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-b5d22912">
+      <data key="d0">ENT-CASEREF-b5d22912</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">CASE REF FIR-2023-DEL-001</data>
+      <data key="d3">CASE REF FIR-2023-DEL-001</data>
+      <data key="d4">FIR-2023-MUM-003</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-ff91e0da">
+      <data key="d0">ENT-CASEREF-ff91e0da</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2023-BLR-004</data>
+      <data key="d3">FIR-2023-BLR-004</data>
+      <data key="d4">FIR-2023-BLR-004</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-d27e2ac6">
+      <data key="d0">ENT-CASEREF-d27e2ac6</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2023-HYD-005</data>
+      <data key="d3">FIR-2023-HYD-005</data>
+      <data key="d4">FIR-2023-HYD-005</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-b0f62ff2">
+      <data key="d0">ENT-CASEREF-b0f62ff2</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2023-DEL-006</data>
+      <data key="d3">FIR-2023-DEL-006</data>
+      <data key="d4">FIR-2023-DEL-006</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-3999612f">
+      <data key="d0">ENT-CASEREF-3999612f</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">CASE INVOLVING</data>
+      <data key="d3">CASE INVOLVING</data>
+      <data key="d4">FIR-2023-DEL-006</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-c96eb937">
+      <data key="d0">ENT-CASEREF-c96eb937</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2023-KOL-007</data>
+      <data key="d3">FIR-2023-KOL-007</data>
+      <data key="d4">FIR-2023-KOL-007</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-b7873dee">
+      <data key="d0">ENT-CASEREF-b7873dee</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2023-MUM-008</data>
+      <data key="d3">FIR-2023-MUM-008</data>
+      <data key="d4">FIR-2023-MUM-008</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-2b73cd47">
+      <data key="d0">ENT-CASEREF-2b73cd47</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2024-ENG-009</data>
+      <data key="d3">FIR-2024-ENG-009</data>
+      <data key="d4">FIR-2024-ENG-009</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-7ea88efe">
+      <data key="d0">ENT-CASEREF-7ea88efe</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2024-ENG-010</data>
+      <data key="d3">FIR-2024-ENG-010</data>
+      <data key="d4">FIR-2024-ENG-010</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-9358c628">
+      <data key="d0">ENT-CASEREF-9358c628</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2024-ENG-011</data>
+      <data key="d3">FIR-2024-ENG-011</data>
+      <data key="d4">FIR-2024-ENG-011</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-474c2c7c">
+      <data key="d0">ENT-CASEREF-474c2c7c</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">FIR-2024-ENG-012</data>
+      <data key="d3">FIR-2024-ENG-012</data>
+      <data key="d4">FIR-2024-ENG-012</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-CASEREF-72790638">
+      <data key="d0">ENT-CASEREF-72790638</data>
+      <data key="d1">CaseRef</data>
+      <data key="d2">CRIME HUB</data>
+      <data key="d3">CRIME HUB</data>
+      <data key="d4">FIR-2024-ENG-012</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-a545af01">
+      <data key="d0">ENT-PERSON-a545af01</data>
+      <data key="d1">Person</data>
+      <data key="d2">rajesh verma</data>
+      <data key="d3">Ramesh Sharma</data>
+      <data key="d4">FIR-2023-DEL-001,FIR-2023-DEL-006</data>
+      <data key="d5">0.95</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="ENT-PERSON-e0c28513">
+      <data key="d0">ENT-PERSON-e0c28513</data>
+      <data key="d1">Person</data>
+      <data key="d2">sunita sharma</data>
+      <data key="d3">Sunita Sharma</data>
+      <data key="d4">FIR-2023-DEL-002</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-5e6ee11d">
+      <data key="d0">ENT-PERSON-5e6ee11d</data>
+      <data key="d1">Person</data>
+      <data key="d2">ramesh kumar sharma</data>
+      <data key="d3">Ramesh Kumar Sharma</data>
+      <data key="d4">FIR-2023-DEL-002,FIR-2023-BLR-004</data>
+      <data key="d5">0.95</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="ENT-PERSON-0d710d40">
+      <data key="d0">ENT-PERSON-0d710d40</data>
+      <data key="d1">Person</data>
+      <data key="d2">vikram malhotra</data>
+      <data key="d3">Vikram Malhotra</data>
+      <data key="d4">FIR-2023-MUM-003</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-83dec0d5">
+      <data key="d0">ENT-PERSON-83dec0d5</data>
+      <data key="d1">Person</data>
+      <data key="d2">amitabh bachchan singh</data>
+      <data key="d3">Amitabh Bachchan Singh</data>
+      <data key="d4">FIR-2023-MUM-003,FIR-2024-ENG-009,FIR-2024-ENG-010,FIR-2024-ENG-011,FIR-2024-ENG-012,FIR-2023-MUM-008</data>
+      <data key="d5">0.95</data>
+      <data key="d6">6</data>
+    </node>
+    <node id="ENT-PERSON-b7f7938c">
+      <data key="d0">ENT-PERSON-b7f7938c</data>
+      <data key="d1">Person</data>
+      <data key="d2">pankaj tripathi</data>
+      <data key="d3">Pankaj Tripathi</data>
+      <data key="d4">FIR-2023-MUM-003</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-ad16d55d">
+      <data key="d0">ENT-PERSON-ad16d55d</data>
+      <data key="d1">Person</data>
+      <data key="d2">ananya roy</data>
+      <data key="d3">Ananya Roy</data>
+      <data key="d4">FIR-2023-BLR-004</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-5c5bf971">
+      <data key="d0">ENT-PERSON-5c5bf971</data>
+      <data key="d1">Person</data>
+      <data key="d2">suresh reddy</data>
+      <data key="d3">Suresh Reddy</data>
+      <data key="d4">FIR-2023-HYD-005</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-c4871a6c">
+      <data key="d0">ENT-PERSON-c4871a6c</data>
+      <data key="d1">Person</data>
+      <data key="d2">unknown hacker</data>
+      <data key="d3">Unknown Hacker</data>
+      <data key="d4">FIR-2023-HYD-005</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-b6b7f3d8">
+      <data key="d0">ENT-PERSON-b6b7f3d8</data>
+      <data key="d1">Person</data>
+      <data key="d2">priya nair</data>
+      <data key="d3">Priya Nair</data>
+      <data key="d4">FIR-2023-DEL-006</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-534b267c">
+      <data key="d0">ENT-PERSON-534b267c</data>
+      <data key="d1">Person</data>
+      <data key="d2">joydeep das</data>
+      <data key="d3">Joydeep Das</data>
+      <data key="d4">FIR-2023-KOL-007</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-f585c88a">
+      <data key="d0">ENT-PERSON-f585c88a</data>
+      <data key="d1">Person</data>
+      <data key="d2">siddharth mukherjee</data>
+      <data key="d3">Siddharth Mukherjee</data>
+      <data key="d4">FIR-2023-KOL-007</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-35f3f34d">
+      <data key="d0">ENT-PERSON-35f3f34d</data>
+      <data key="d1">Person</data>
+      <data key="d2">rohan mehta</data>
+      <data key="d3">Rohan Mehta</data>
+      <data key="d4">FIR-2023-MUM-008</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PERSON-f684a327">
+      <data key="d0">ENT-PERSON-f684a327</data>
+      <data key="d1">Person</data>
+      <data key="d2">spoke victim one</data>
+      <data key="d3">Spoke Suspect Gamma</data>
+      <data key="d4">FIR-2024-ENG-009,FIR-2024-ENG-010,FIR-2024-ENG-011,FIR-2024-ENG-012</data>
+      <data key="d5">0.95</data>
+      <data key="d6">7</data>
+    </node>
+    <node id="ENT-PERSON-2342d30c">
+      <data key="d0">ENT-PERSON-2342d30c</data>
+      <data key="d1">Person</data>
+      <data key="d2">spoke suspect alpha</data>
+      <data key="d3">Spoke Suspect Alpha</data>
+      <data key="d4">FIR-2024-ENG-009</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-LOCATION-771f000f">
+      <data key="d0">ENT-LOCATION-771f000f</data>
+      <data key="d1">Location</data>
+      <data key="d2">flat 402 green park apartment mg road new delhi</data>
+      <data key="d3">Flat 402, Green Park Apartment, Mg Road, New Delhi</data>
+      <data key="d4">FIR-2023-DEL-001</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-LOCATION-6d095912">
+      <data key="d0">ENT-LOCATION-6d095912</data>
+      <data key="d1">Location</data>
+      <data key="d2">plot no 12 sector 4 dwarka delhi</data>
+      <data key="d3">Plot 12, Sector 4, Dwarka, New Delhi</data>
+      <data key="d4">FIR-2023-DEL-001,FIR-2023-DEL-002,FIR-2023-BLR-004,FIR-2023-DEL-006</data>
+      <data key="d5">0.9</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="ENT-LOCATION-bc833954">
+      <data key="d0">ENT-LOCATION-bc833954</data>
+      <data key="d1">Location</data>
+      <data key="d2">house no 55 street 3 lajpat nagar new delhi</data>
+      <data key="d3">House No 55, Street 3, Lajpat Nagar, New Delhi</data>
+      <data key="d4">FIR-2023-DEL-002</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-LOCATION-02eb21b3">
+      <data key="d0">ENT-LOCATION-02eb21b3</data>
+      <data key="d1">Location</data>
+      <data key="d2">near police station bandra sv road mumbai</data>
+      <data key="d3">Near Police Station Bandra, Sv Road, Mumbai</data>
+      <data key="d4">FIR-2023-MUM-003</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-LOCATION-43935c6e">
+      <data key="d0">ENT-LOCATION-43935c6e</data>
+      <data key="d1">Location</data>
+      <data key="d2">indiranagar 100ft road bengaluru</data>
+      <data key="d3">Indiranagar 100Ft Road, Bengaluru</data>
+      <data key="d4">FIR-2023-BLR-004</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-LOCATION-cb5f37cd">
+      <data key="d0">ENT-LOCATION-cb5f37cd</data>
+      <data key="d1">Location</data>
+      <data key="d2">banjara hills road no 12 hyderabad</data>
+      <data key="d3">Banjara Hills Road No 12, Hyderabad</data>
+      <data key="d4">FIR-2023-HYD-005</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-LOCATION-7aeabc32">
+      <data key="d0">ENT-LOCATION-7aeabc32</data>
+      <data key="d1">Location</data>
+      <data key="d2">connaught place new delhi</data>
+      <data key="d3">Connaught Place, New Delhi</data>
+      <data key="d4">FIR-2023-DEL-006</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-LOCATION-2edb4bec">
+      <data key="d0">ENT-LOCATION-2edb4bec</data>
+      <data key="d1">Location</data>
+      <data key="d2">salt lake sector 5 kolkata</data>
+      <data key="d3">Salt Lake Sector 5, Kolkata</data>
+      <data key="d4">FIR-2023-KOL-007</data>
+      <data key="d5">0.9</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="ENT-LOCATION-30bebe69">
+      <data key="d0">ENT-LOCATION-30bebe69</data>
+      <data key="d1">Location</data>
+      <data key="d2">andheri west mumbai</data>
+      <data key="d3">Andheri West, Mumbai</data>
+      <data key="d4">FIR-2023-MUM-008,FIR-2024-ENG-009,FIR-2024-ENG-010,FIR-2024-ENG-011,FIR-2024-ENG-012</data>
+      <data key="d5">0.9</data>
+      <data key="d6">8</data>
+    </node>
+    <node id="ENT-LOCATION-12289272">
+      <data key="d0">ENT-LOCATION-12289272</data>
+      <data key="d1">Location</data>
+      <data key="d2">juhu mumbai</data>
+      <data key="d3">Juhu, Mumbai</data>
+      <data key="d4">FIR-2024-ENG-010</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-LOCATION-4ab2d53c">
+      <data key="d0">ENT-LOCATION-4ab2d53c</data>
+      <data key="d1">Location</data>
+      <data key="d2">colaba mumbai</data>
+      <data key="d3">Colaba, Mumbai</data>
+      <data key="d4">FIR-2024-ENG-012</data>
+      <data key="d5">0.9</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-PHONE-e4f1e93a">
+      <data key="d0">ENT-PHONE-e4f1e93a</data>
+      <data key="d1">Phone</data>
+      <data key="d2">+919876543210</data>
+      <data key="d3">+919876543210</data>
+      <data key="d4">FIR-2023-DEL-001,FIR-2023-DEL-002,FIR-2023-BLR-004,FIR-2023-DEL-006</data>
+      <data key="d5">1.0</data>
+      <data key="d6">7</data>
+    </node>
+    <node id="ENT-PHONE-78ee08c1">
+      <data key="d0">ENT-PHONE-78ee08c1</data>
+      <data key="d1">Phone</data>
+      <data key="d2">+919988776655</data>
+      <data key="d3">+919988776655</data>
+      <data key="d4">FIR-2023-MUM-003,FIR-2023-MUM-008,FIR-2024-ENG-009,FIR-2024-ENG-010,FIR-2024-ENG-011,FIR-2024-ENG-012</data>
+      <data key="d5">1.0</data>
+      <data key="d6">12</data>
+    </node>
+    <node id="ENT-PHONE-9062c1ea">
+      <data key="d0">ENT-PHONE-9062c1ea</data>
+      <data key="d1">Phone</data>
+      <data key="d2">+919123456789</data>
+      <data key="d3">+919123456789</data>
+      <data key="d4">FIR-2023-KOL-007</data>
+      <data key="d5">1.0</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="ENT-TRANSACTION-849f31ba">
+      <data key="d0">ENT-TRANSACTION-849f31ba</data>
+      <data key="d1">Transaction</data>
+      <data key="d2">500000.00</data>
+      <data key="d3">₹5,00,000</data>
+      <data key="d4">FIR-2023-DEL-001,FIR-2023-DEL-002</data>
+      <data key="d5">1.0</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="ENT-TRANSACTION-54feaf75">
+      <data key="d0">ENT-TRANSACTION-54feaf75</data>
+      <data key="d1">Transaction</data>
+      <data key="d2">250000.00</data>
+      <data key="d3">₹2,50,000</data>
+      <data key="d4">FIR-2023-MUM-003</data>
+      <data key="d5">1.0</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="ENT-TRANSACTION-86d8321d">
+      <data key="d0">ENT-TRANSACTION-86d8321d</data>
+      <data key="d1">Transaction</data>
+      <data key="d2">25000000.00</data>
+      <data key="d3">₹2,50,00,000</data>
+      <data key="d4">FIR-2023-BLR-004</data>
+      <data key="d5">1.0</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="ENT-TRANSACTION-e187b6dc">
+      <data key="d0">ENT-TRANSACTION-e187b6dc</data>
+      <data key="d1">Transaction</data>
+      <data key="d2">50000.00</data>
+      <data key="d3">₹50,000</data>
+      <data key="d4">FIR-2023-HYD-005</data>
+      <data key="d5">1.0</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="ENT-TRANSACTION-e3d8e192">
+      <data key="d0">ENT-TRANSACTION-e3d8e192</data>
+      <data key="d1">Transaction</data>
+      <data key="d2">12000000.00</data>
+      <data key="d3">₹1,20,00,000</data>
+      <data key="d4">FIR-2023-KOL-007</data>
+      <data key="d5">1.0</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="ENT-TRANSACTION-7cf6a353">
+      <data key="d0">ENT-TRANSACTION-7cf6a353</data>
+      <data key="d1">Transaction</data>
+      <data key="d2">10000.00</data>
+      <data key="d3">₹10,000</data>
+      <data key="d4">FIR-2023-MUM-008</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-TRANSACTION-823ba9de">
+      <data key="d0">ENT-TRANSACTION-823ba9de</data>
+      <data key="d1">Transaction</data>
+      <data key="d2">1000000.00</data>
+      <data key="d3">₹10,00,000</data>
+      <data key="d4">FIR-2024-ENG-009</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-TRANSACTION-9a217ecb">
+      <data key="d0">ENT-TRANSACTION-9a217ecb</data>
+      <data key="d1">Transaction</data>
+      <data key="d2">1500000.00</data>
+      <data key="d3">₹15,00,000</data>
+      <data key="d4">FIR-2024-ENG-010</data>
+      <data key="d5">1.0</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="ENT-TRANSACTION-a2e11ed7">
+      <data key="d0">ENT-TRANSACTION-a2e11ed7</data>
+      <data key="d1">Transaction</data>
+      <data key="d2">2000000.00</data>
+      <data key="d3">₹20,00,000</data>
+      <data key="d4">FIR-2024-ENG-011</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-TRANSACTION-6971ba54">
+      <data key="d0">ENT-TRANSACTION-6971ba54</data>
+      <data key="d1">Transaction</data>
+      <data key="d2">5000000.00</data>
+      <data key="d3">₹50,00,000</data>
+      <data key="d4">FIR-2024-ENG-012</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-EMAIL-31359b30">
+      <data key="d0">ENT-EMAIL-31359b30</data>
+      <data key="d1">Email</data>
+      <data key="d2">suspect.sharma@cybercrime.org</data>
+      <data key="d3">suspect.sharma@cybercrime.org</data>
+      <data key="d4">FIR-2023-DEL-002</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-EMAIL-adf21945">
+      <data key="d0">ENT-EMAIL-adf21945</data>
+      <data key="d1">Email</data>
+      <data key="d2">attacker@phish-domain.com</data>
+      <data key="d3">attacker@phish-domain.com</data>
+      <data key="d4">FIR-2023-HYD-005</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-EMAIL-4856bdcb">
+      <data key="d0">ENT-EMAIL-4856bdcb</data>
+      <data key="d1">Email</data>
+      <data key="d2">siddharth.m@corp-fake.in</data>
+      <data key="d3">siddharth.m@corp-fake.in</data>
+      <data key="d4">FIR-2023-KOL-007</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-EVENT-b7f6be6f">
+      <data key="d0">ENT-EVENT-b7f6be6f</data>
+      <data key="d1">Event</data>
+      <data key="d2">2023-08-20</data>
+      <data key="d3">2023-08-20</data>
+      <data key="d4">FIR-2023-DEL-002</data>
+      <data key="d5">0.85</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-EVENT-8b1c7bb4">
+      <data key="d0">ENT-EVENT-8b1c7bb4</data>
+      <data key="d1">Event</data>
+      <data key="d2">0.0.45</data>
+      <data key="d3">0.0.45</data>
+      <data key="d4">FIR-2023-HYD-005</data>
+      <data key="d5">0.85</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-IP-7c8c040c">
+      <data key="d0">ENT-IP-7c8c040c</data>
+      <data key="d1">IP</data>
+      <data key="d2">192.168.1.100</data>
+      <data key="d3">192.168.1.100</data>
+      <data key="d4">FIR-2023-MUM-003</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="ENT-IP-892c0270">
+      <data key="d0">ENT-IP-892c0270</data>
+      <data key="d1">IP</data>
+      <data key="d2">10.0.0.45</data>
+      <data key="d3">10.0.0.45</data>
+      <data key="d4">FIR-2023-HYD-005</data>
+      <data key="d5">0.95</data>
+      <data key="d6">1</data>
+    </node>
+    <edge source="ENT-PERSON-a545af01" target="ENT-LOCATION-771f000f" id="REL-34df7538">
+      <data key="d7">REL-34df7538</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-001</data>
+      <data key="d11">structured_fields: complainant_name,accused_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-LOCATION-771f000f" id="REL-5eb19c68">
+      <data key="d7">REL-5eb19c68</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-001</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-001</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-LOCATION-6d095912" id="REL-c3605d2c">
+      <data key="d7">REL-c3605d2c</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-001</data>
+      <data key="d11">structured_fields: complainant_name,accused_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-LOCATION-6d095912" id="REL-d43de7a4">
+      <data key="d7">REL-d43de7a4</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">structured_fields: accused_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-LOCATION-6d095912" id="REL-91941253">
+      <data key="d7">REL-91941253</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-001</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-001</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-LOCATION-6d095912" id="REL-0453626d">
+      <data key="d7">REL-0453626d</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-006</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-PHONE-e4f1e93a" id="REL-491350bc">
+      <data key="d7">REL-491350bc</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-001</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-DEL-001</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-PHONE-e4f1e93a" id="REL-b796b602">
+      <data key="d7">REL-b796b602</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-DEL-006</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-TRANSACTION-849f31ba" id="REL-9cb1473c">
+      <data key="d7">REL-9cb1473c</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-001</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-DEL-001</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-LOCATION-7aeabc32" id="REL-60cfcbfc">
+      <data key="d7">REL-60cfcbfc</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">structured_fields: accused_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-LOCATION-7aeabc32" id="REL-587646c4">
+      <data key="d7">REL-587646c4</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-006</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-a545af01" target="ENT-PERSON-b6b7f3d8" id="REL-176fa0e9">
+      <data key="d7">REL-176fa0e9</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-006</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-e0c28513" target="ENT-LOCATION-6d095912" id="REL-aa9064e3">
+      <data key="d7">REL-aa9064e3</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">structured_fields: complainant_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-e0c28513" target="ENT-LOCATION-6d095912" id="REL-6d6352ef">
+      <data key="d7">REL-6d6352ef</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-002</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-e0c28513" target="ENT-LOCATION-bc833954" id="REL-bab90578">
+      <data key="d7">REL-bab90578</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">structured_fields: complainant_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-e0c28513" target="ENT-LOCATION-bc833954" id="REL-e29e8666">
+      <data key="d7">REL-e29e8666</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-002</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-e0c28513" target="ENT-PHONE-e4f1e93a" id="REL-34608fd8">
+      <data key="d7">REL-34608fd8</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-DEL-002</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-e0c28513" target="ENT-TRANSACTION-849f31ba" id="REL-6c367b4b">
+      <data key="d7">REL-6c367b4b</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-DEL-002</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-e0c28513" target="ENT-PERSON-5e6ee11d" id="REL-ec7d6745">
+      <data key="d7">REL-ec7d6745</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-002</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-LOCATION-6d095912" id="REL-3c55af31">
+      <data key="d7">REL-3c55af31</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">structured_fields: accused_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-LOCATION-6d095912" id="REL-ac7196bb">
+      <data key="d7">REL-ac7196bb</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">structured_fields: accused_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-LOCATION-6d095912" id="REL-08db2484">
+      <data key="d7">REL-08db2484</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-002</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-LOCATION-6d095912" id="REL-b891f665">
+      <data key="d7">REL-b891f665</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-BLR-004</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-LOCATION-bc833954" id="REL-10925814">
+      <data key="d7">REL-10925814</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">structured_fields: accused_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-LOCATION-bc833954" id="REL-12737d7e">
+      <data key="d7">REL-12737d7e</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-002</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-PHONE-e4f1e93a" id="REL-54364b74">
+      <data key="d7">REL-54364b74</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-DEL-002</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-PHONE-e4f1e93a" id="REL-409c7f52">
+      <data key="d7">REL-409c7f52</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-BLR-004</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-TRANSACTION-849f31ba" id="REL-9fd7ba63">
+      <data key="d7">REL-9fd7ba63</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-002</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-DEL-002</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-LOCATION-43935c6e" id="REL-e5f62729">
+      <data key="d7">REL-e5f62729</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">structured_fields: accused_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-LOCATION-43935c6e" id="REL-a5d778c0">
+      <data key="d7">REL-a5d778c0</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-BLR-004</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-TRANSACTION-86d8321d" id="REL-cb919c44">
+      <data key="d7">REL-cb919c44</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-BLR-004</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5e6ee11d" target="ENT-PERSON-ad16d55d" id="REL-732b06b4">
+      <data key="d7">REL-732b06b4</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-BLR-004</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-0d710d40" target="ENT-LOCATION-02eb21b3" id="REL-0e15ece1">
+      <data key="d7">REL-0e15ece1</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">structured_fields: complainant_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-0d710d40" target="ENT-LOCATION-02eb21b3" id="REL-011dd338">
+      <data key="d7">REL-011dd338</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-MUM-003</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-0d710d40" target="ENT-PHONE-78ee08c1" id="REL-57631968">
+      <data key="d7">REL-57631968</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-MUM-003</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-0d710d40" target="ENT-TRANSACTION-54feaf75" id="REL-a02faedd">
+      <data key="d7">REL-a02faedd</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-MUM-003</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-0d710d40" target="ENT-PERSON-83dec0d5" id="REL-2dd2e522">
+      <data key="d7">REL-2dd2e522</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-MUM-003</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-0d710d40" target="ENT-PERSON-b7f7938c" id="REL-7b1ed7b7">
+      <data key="d7">REL-7b1ed7b7</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-MUM-003</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-02eb21b3" id="REL-1248d864">
+      <data key="d7">REL-1248d864</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">structured_fields: accused_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-02eb21b3" id="REL-656db727">
+      <data key="d7">REL-656db727</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-MUM-003</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PHONE-78ee08c1" id="REL-1d3eb124">
+      <data key="d7">REL-1d3eb124</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-MUM-003</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PHONE-78ee08c1" id="REL-da5e69ca">
+      <data key="d7">REL-da5e69ca</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-008</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-MUM-008</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PHONE-78ee08c1" id="REL-12f2efbb">
+      <data key="d7">REL-12f2efbb</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2024-ENG-009</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PHONE-78ee08c1" id="REL-16a1852a">
+      <data key="d7">REL-16a1852a</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2024-ENG-010</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PHONE-78ee08c1" id="REL-fd59c110">
+      <data key="d7">REL-fd59c110</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-011</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2024-ENG-011</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PHONE-78ee08c1" id="REL-b92daca6">
+      <data key="d7">REL-b92daca6</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2024-ENG-012</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-TRANSACTION-54feaf75" id="REL-9d53053a">
+      <data key="d7">REL-9d53053a</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-MUM-003</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-30bebe69" id="REL-8e4b39dc">
+      <data key="d7">REL-8e4b39dc</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-008</data>
+      <data key="d11">structured_fields: accused_name &amp; complainant_address,accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-30bebe69" id="REL-aecccd8f">
+      <data key="d7">REL-aecccd8f</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">structured_fields: accused_name &amp; accused_address,complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-30bebe69" id="REL-bfe91f6e">
+      <data key="d7">REL-bfe91f6e</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">structured_fields: accused_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-30bebe69" id="REL-f8ff2a7c">
+      <data key="d7">REL-f8ff2a7c</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-011</data>
+      <data key="d11">structured_fields: accused_name &amp; accused_address,complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-30bebe69" id="REL-ee037b43">
+      <data key="d7">REL-ee037b43</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">structured_fields: accused_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-30bebe69" id="REL-1071d5a6">
+      <data key="d7">REL-1071d5a6</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-MUM-008</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-MUM-008</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-30bebe69" id="REL-d6f316a1">
+      <data key="d7">REL-d6f316a1</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-009</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-30bebe69" id="REL-36f89564">
+      <data key="d7">REL-36f89564</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-010</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-30bebe69" id="REL-4126b3c1">
+      <data key="d7">REL-4126b3c1</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-011</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-011</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-30bebe69" id="REL-0685d475">
+      <data key="d7">REL-0685d475</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-012</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-TRANSACTION-7cf6a353" id="REL-4f69ef19">
+      <data key="d7">REL-4f69ef19</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-008</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-MUM-008</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-TRANSACTION-823ba9de" id="REL-83c8d16f">
+      <data key="d7">REL-83c8d16f</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2024-ENG-009</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-12289272" id="REL-aa272d79">
+      <data key="d7">REL-aa272d79</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">structured_fields: accused_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-12289272" id="REL-51e4907b">
+      <data key="d7">REL-51e4907b</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-010</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-TRANSACTION-9a217ecb" id="REL-797afecc">
+      <data key="d7">REL-797afecc</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2024-ENG-010</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-TRANSACTION-a2e11ed7" id="REL-bdf9754c">
+      <data key="d7">REL-bdf9754c</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-011</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2024-ENG-011</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-4ab2d53c" id="REL-f9e7fada">
+      <data key="d7">REL-f9e7fada</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">structured_fields: accused_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-LOCATION-4ab2d53c" id="REL-0ad83a8b">
+      <data key="d7">REL-0ad83a8b</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-012</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-TRANSACTION-6971ba54" id="REL-4c20dd0f">
+      <data key="d7">REL-4c20dd0f</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2024-ENG-012</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PERSON-b7f7938c" id="REL-d4775721">
+      <data key="d7">REL-d4775721</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-MUM-003</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PERSON-35f3f34d" id="REL-f5a1601f">
+      <data key="d7">REL-f5a1601f</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-MUM-008</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-MUM-008</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PERSON-f684a327" id="REL-9e25aebf">
+      <data key="d7">REL-9e25aebf</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-009</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PERSON-f684a327" id="REL-184cad55">
+      <data key="d7">REL-184cad55</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-010</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PERSON-f684a327" id="REL-2404d16d">
+      <data key="d7">REL-2404d16d</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-011</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-011</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PERSON-f684a327" id="REL-468f9997">
+      <data key="d7">REL-468f9997</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-012</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-83dec0d5" target="ENT-PERSON-2342d30c" id="REL-71d1106f">
+      <data key="d7">REL-71d1106f</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-009</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-b7f7938c" target="ENT-LOCATION-02eb21b3" id="REL-21604fd6">
+      <data key="d7">REL-21604fd6</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">structured_fields: accused_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-b7f7938c" target="ENT-LOCATION-02eb21b3" id="REL-18efb867">
+      <data key="d7">REL-18efb867</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-MUM-003</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-b7f7938c" target="ENT-PHONE-78ee08c1" id="REL-d95fe089">
+      <data key="d7">REL-d95fe089</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-MUM-003</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-b7f7938c" target="ENT-TRANSACTION-54feaf75" id="REL-4fbbaec1">
+      <data key="d7">REL-4fbbaec1</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-003</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-MUM-003</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-ad16d55d" target="ENT-LOCATION-6d095912" id="REL-87171e5c">
+      <data key="d7">REL-87171e5c</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">structured_fields: complainant_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-ad16d55d" target="ENT-LOCATION-6d095912" id="REL-2ce6c1d6">
+      <data key="d7">REL-2ce6c1d6</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-BLR-004</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-ad16d55d" target="ENT-LOCATION-43935c6e" id="REL-e5e44006">
+      <data key="d7">REL-e5e44006</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">structured_fields: complainant_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-ad16d55d" target="ENT-LOCATION-43935c6e" id="REL-a8005a3b">
+      <data key="d7">REL-a8005a3b</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-BLR-004</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-ad16d55d" target="ENT-PHONE-e4f1e93a" id="REL-28abcf8f">
+      <data key="d7">REL-28abcf8f</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-BLR-004</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-ad16d55d" target="ENT-TRANSACTION-86d8321d" id="REL-fee7d0b3">
+      <data key="d7">REL-fee7d0b3</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-BLR-004</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-BLR-004</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5c5bf971" target="ENT-LOCATION-cb5f37cd" id="REL-55147c9e">
+      <data key="d7">REL-55147c9e</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-HYD-005</data>
+      <data key="d11">structured_fields: complainant_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5c5bf971" target="ENT-LOCATION-cb5f37cd" id="REL-730cecf7">
+      <data key="d7">REL-730cecf7</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-HYD-005</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-HYD-005</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-5c5bf971" target="ENT-TRANSACTION-e187b6dc" id="REL-55ff49a3">
+      <data key="d7">REL-55ff49a3</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-HYD-005</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-HYD-005</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-5c5bf971" target="ENT-PERSON-c4871a6c" id="REL-0f463b62">
+      <data key="d7">REL-0f463b62</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-HYD-005</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-HYD-005</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-c4871a6c" target="ENT-LOCATION-cb5f37cd" id="REL-247072d3">
+      <data key="d7">REL-247072d3</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-HYD-005</data>
+      <data key="d11">structured_fields: accused_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-c4871a6c" target="ENT-LOCATION-cb5f37cd" id="REL-f289563d">
+      <data key="d7">REL-f289563d</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-HYD-005</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-HYD-005</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-c4871a6c" target="ENT-TRANSACTION-e187b6dc" id="REL-b9fc90c8">
+      <data key="d7">REL-b9fc90c8</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-HYD-005</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-HYD-005</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-b6b7f3d8" target="ENT-LOCATION-6d095912" id="REL-5a0f5f1d">
+      <data key="d7">REL-5a0f5f1d</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">structured_fields: complainant_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-b6b7f3d8" target="ENT-LOCATION-6d095912" id="REL-25fd7e9c">
+      <data key="d7">REL-25fd7e9c</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-006</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-b6b7f3d8" target="ENT-LOCATION-7aeabc32" id="REL-f18f98c0">
+      <data key="d7">REL-f18f98c0</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">structured_fields: complainant_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-b6b7f3d8" target="ENT-LOCATION-7aeabc32" id="REL-5eeaf1f0">
+      <data key="d7">REL-5eeaf1f0</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-DEL-006</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-b6b7f3d8" target="ENT-PHONE-e4f1e93a" id="REL-783fb761">
+      <data key="d7">REL-783fb761</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-DEL-006</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-DEL-006</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-534b267c" target="ENT-LOCATION-2edb4bec" id="REL-6d41724d">
+      <data key="d7">REL-6d41724d</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-KOL-007</data>
+      <data key="d11">structured_fields: complainant_name &amp; complainant_address,accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-534b267c" target="ENT-LOCATION-2edb4bec" id="REL-8c9cf8f2">
+      <data key="d7">REL-8c9cf8f2</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-KOL-007</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-KOL-007</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-534b267c" target="ENT-PHONE-9062c1ea" id="REL-d0b71ca5">
+      <data key="d7">REL-d0b71ca5</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-KOL-007</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-KOL-007</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-534b267c" target="ENT-TRANSACTION-e3d8e192" id="REL-55b12433">
+      <data key="d7">REL-55b12433</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-KOL-007</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-KOL-007</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-534b267c" target="ENT-PERSON-f585c88a" id="REL-f84dd0eb">
+      <data key="d7">REL-f84dd0eb</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-KOL-007</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-KOL-007</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-f585c88a" target="ENT-LOCATION-2edb4bec" id="REL-86b028fd">
+      <data key="d7">REL-86b028fd</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-KOL-007</data>
+      <data key="d11">structured_fields: accused_name &amp; complainant_address,accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f585c88a" target="ENT-LOCATION-2edb4bec" id="REL-705cb4e3">
+      <data key="d7">REL-705cb4e3</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-KOL-007</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-KOL-007</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-f585c88a" target="ENT-PHONE-9062c1ea" id="REL-2395daa3">
+      <data key="d7">REL-2395daa3</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-KOL-007</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-KOL-007</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f585c88a" target="ENT-TRANSACTION-e3d8e192" id="REL-8286fafc">
+      <data key="d7">REL-8286fafc</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-KOL-007</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-KOL-007</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-35f3f34d" target="ENT-LOCATION-30bebe69" id="REL-0453879e">
+      <data key="d7">REL-0453879e</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-008</data>
+      <data key="d11">structured_fields: complainant_name &amp; complainant_address,accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-35f3f34d" target="ENT-LOCATION-30bebe69" id="REL-22a608aa">
+      <data key="d7">REL-22a608aa</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2023-MUM-008</data>
+      <data key="d11">co_occurrence in source FIR FIR-2023-MUM-008</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-35f3f34d" target="ENT-PHONE-78ee08c1" id="REL-26f9569b">
+      <data key="d7">REL-26f9569b</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-008</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2023-MUM-008</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-35f3f34d" target="ENT-TRANSACTION-7cf6a353" id="REL-168431bb">
+      <data key="d7">REL-168431bb</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2023-MUM-008</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2023-MUM-008</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-30bebe69" id="REL-81596628">
+      <data key="d7">REL-81596628</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">structured_fields: complainant_name &amp; accused_address,complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-30bebe69" id="REL-2ecaa58e">
+      <data key="d7">REL-2ecaa58e</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">structured_fields: complainant_name,accused_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-30bebe69" id="REL-c630ce82">
+      <data key="d7">REL-c630ce82</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-011</data>
+      <data key="d11">structured_fields: complainant_name,accused_name &amp; accused_address,complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-30bebe69" id="REL-68a0ac12">
+      <data key="d7">REL-68a0ac12</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">structured_fields: complainant_name,accused_name &amp; accused_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-30bebe69" id="REL-fdb2c9d5">
+      <data key="d7">REL-fdb2c9d5</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-009</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-30bebe69" id="REL-333293ef">
+      <data key="d7">REL-333293ef</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-010</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-30bebe69" id="REL-f0be02aa">
+      <data key="d7">REL-f0be02aa</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-011</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-011</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-30bebe69" id="REL-8392686a">
+      <data key="d7">REL-8392686a</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-012</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-PHONE-78ee08c1" id="REL-99ae7446">
+      <data key="d7">REL-99ae7446</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2024-ENG-009</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-PHONE-78ee08c1" id="REL-9076355c">
+      <data key="d7">REL-9076355c</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2024-ENG-010</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-PHONE-78ee08c1" id="REL-8d5fdf21">
+      <data key="d7">REL-8d5fdf21</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-011</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2024-ENG-011</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-PHONE-78ee08c1" id="REL-ae42ce61">
+      <data key="d7">REL-ae42ce61</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2024-ENG-012</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-TRANSACTION-823ba9de" id="REL-d6d1d567">
+      <data key="d7">REL-d6d1d567</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2024-ENG-009</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-12289272" id="REL-f0c8b766">
+      <data key="d7">REL-f0c8b766</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">structured_fields: complainant_name,accused_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-12289272" id="REL-fc6af9f1">
+      <data key="d7">REL-fc6af9f1</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-010</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-TRANSACTION-9a217ecb" id="REL-9d0577fd">
+      <data key="d7">REL-9d0577fd</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-010</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2024-ENG-010</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-TRANSACTION-a2e11ed7" id="REL-ae12f80f">
+      <data key="d7">REL-ae12f80f</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-011</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2024-ENG-011</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-4ab2d53c" id="REL-31c46ac3">
+      <data key="d7">REL-31c46ac3</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">structured_fields: complainant_name,accused_name &amp; complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-LOCATION-4ab2d53c" id="REL-06b99604">
+      <data key="d7">REL-06b99604</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-012</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-TRANSACTION-6971ba54" id="REL-b5009dbd">
+      <data key="d7">REL-b5009dbd</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-012</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2024-ENG-012</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-f684a327" target="ENT-PERSON-2342d30c" id="REL-65929ee4">
+      <data key="d7">REL-65929ee4</data>
+      <data key="d8">connected_to</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-009</data>
+      <data key="d12">0.451</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.902, "computed_weight": 0.451}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-2342d30c" target="ENT-LOCATION-30bebe69" id="REL-c50add95">
+      <data key="d7">REL-c50add95</data>
+      <data key="d8">visited</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">structured_fields: accused_name &amp; accused_address,complainant_address</data>
+      <data key="d12">0.855</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.855, "computed_weight": 0.855}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-2342d30c" target="ENT-LOCATION-30bebe69" id="REL-38727be7">
+      <data key="d7">REL-38727be7</data>
+      <data key="d8">associated_with</data>
+      <data key="d9">co_occurrence</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">co_occurrence in source FIR FIR-2024-ENG-009</data>
+      <data key="d12">0.427</data>
+      <data key="d13">{"base_weight": 0.5, "fir_support_count": 1, "source_types": ["co_occurrence"], "entity_confidence_product": 0.855, "computed_weight": 0.427}</data>
+      <data key="d14">0.8</data>
+    </edge>
+    <edge source="ENT-PERSON-2342d30c" target="ENT-PHONE-78ee08c1" id="REL-46327c19">
+      <data key="d7">REL-46327c19</data>
+      <data key="d8">uses</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">structured_field: phone_numbers_mentioned in FIR-2024-ENG-009</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+    <edge source="ENT-PERSON-2342d30c" target="ENT-TRANSACTION-823ba9de" id="REL-31b3c6c6">
+      <data key="d7">REL-31b3c6c6</data>
+      <data key="d8">transaction</data>
+      <data key="d9">structured_field</data>
+      <data key="d10">FIR-2024-ENG-009</data>
+      <data key="d11">structured_field: amounts_mentioned in FIR-2024-ENG-009</data>
+      <data key="d12">0.95</data>
+      <data key="d13">{"base_weight": 1.0, "fir_support_count": 1, "source_types": ["structured_field"], "entity_confidence_product": 0.95, "computed_weight": 0.95}</data>
+      <data key="d14">1.0</data>
+    </edge>
+  </graph>
+</graphml>

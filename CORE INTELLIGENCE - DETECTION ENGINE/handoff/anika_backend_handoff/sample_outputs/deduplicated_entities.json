@@ -1,0 +1,2904 @@
+{
+  "entities": [
+    {
+      "id": "ENT-CASEREF-bf5066dd",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-DEL-001",
+      "display_value": "FIR-2023-DEL-001",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2023-DEL-001",
+          "source_FIR_id": "FIR-2023-DEL-001",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-617e116f",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-DEL-002",
+      "display_value": "FIR-2023-DEL-002",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2023-DEL-002",
+          "source_FIR_id": "FIR-2023-DEL-002",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-4c04fa9a",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-MUM-003",
+      "display_value": "FIR-2023-MUM-003",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2023-MUM-003",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-b5d22912",
+      "type": "CaseRef",
+      "canonical_value": "CASE REF FIR-2023-DEL-001",
+      "display_value": "CASE REF FIR-2023-DEL-001",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "Case Ref FIR-2023-DEL-001",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "narrative_text"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-ff91e0da",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-BLR-004",
+      "display_value": "FIR-2023-BLR-004",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2023-BLR-004",
+          "source_FIR_id": "FIR-2023-BLR-004",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-d27e2ac6",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-HYD-005",
+      "display_value": "FIR-2023-HYD-005",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2023-HYD-005",
+          "source_FIR_id": "FIR-2023-HYD-005",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-b0f62ff2",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-DEL-006",
+      "display_value": "FIR-2023-DEL-006",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2023-DEL-006",
+          "source_FIR_id": "FIR-2023-DEL-006",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-3999612f",
+      "type": "CaseRef",
+      "canonical_value": "CASE INVOLVING",
+      "display_value": "CASE INVOLVING",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "case involving",
+          "source_FIR_id": "FIR-2023-DEL-006",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "narrative_text"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-c96eb937",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-KOL-007",
+      "display_value": "FIR-2023-KOL-007",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2023-KOL-007",
+          "source_FIR_id": "FIR-2023-KOL-007",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-b7873dee",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-MUM-008",
+      "display_value": "FIR-2023-MUM-008",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2023-MUM-008",
+          "source_FIR_id": "FIR-2023-MUM-008",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-2b73cd47",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2024-ENG-009",
+      "display_value": "FIR-2024-ENG-009",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2024-ENG-009",
+          "source_FIR_id": "FIR-2024-ENG-009",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-7ea88efe",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2024-ENG-010",
+      "display_value": "FIR-2024-ENG-010",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2024-ENG-010",
+          "source_FIR_id": "FIR-2024-ENG-010",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-9358c628",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2024-ENG-011",
+      "display_value": "FIR-2024-ENG-011",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2024-ENG-011",
+          "source_FIR_id": "FIR-2024-ENG-011",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-474c2c7c",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2024-ENG-012",
+      "display_value": "FIR-2024-ENG-012",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "FIR-2024-ENG-012",
+          "source_FIR_id": "FIR-2024-ENG-012",
+          "field_source": "case_ref",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "case_ref"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-CASEREF-72790638",
+      "type": "CaseRef",
+      "canonical_value": "CRIME HUB",
+      "display_value": "CRIME HUB",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "CaseRef",
+          "raw_value": "crime hub",
+          "source_FIR_id": "FIR-2024-ENG-012",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "narrative_text"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-a545af01",
+      "type": "Person",
+      "canonical_value": "rajesh verma",
+      "display_value": "Ramesh Sharma",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001",
+        "FIR-2023-DEL-006"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Shri Rajesh Verma",
+          "source_FIR_id": "FIR-2023-DEL-001",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Ramesh Kumar",
+          "source_FIR_id": "FIR-2023-DEL-001",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Ramesh Sharma",
+          "source_FIR_id": "FIR-2023-DEL-006",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "complainant_name"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-PERSON-a545af01",
+          "entity_id_2": "ENT-PERSON-cd8c6eee",
+          "merged_entity_id": "ENT-PERSON-a545af01",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.8348148148148148,
+          "reasoning": "fuzzy_score:0.83 (token_sort_ratio:0.42; jaro_winkler:0.84; shared_fir:FIR-2023-DEL-001; shared_identifier:phone|+919876543210)",
+          "timestamp": "2026-09-04T10:10:55.420461"
+        },
+        {
+          "entity_id_1": "ENT-PERSON-a545af01",
+          "entity_id_2": "ENT-PERSON-c0d4ef19",
+          "merged_entity_id": "ENT-PERSON-a545af01",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.9106609686609687,
+          "reasoning": "fuzzy_score:0.91 (token_sort_ratio:0.72; jaro_winkler:0.82; shared_identifier:phone|+919876543210)",
+          "timestamp": "2026-09-04T10:10:55.420615"
+        }
+      ]
+    },
+    {
+      "id": "ENT-PERSON-e0c28513",
+      "type": "Person",
+      "canonical_value": "sunita sharma",
+      "display_value": "Sunita Sharma",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Smt. Sunita Sharma",
+          "source_FIR_id": "FIR-2023-DEL-002",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "complainant_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-5e6ee11d",
+      "type": "Person",
+      "canonical_value": "ramesh kumar sharma",
+      "display_value": "Ramesh Kumar Sharma",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002",
+        "FIR-2023-BLR-004"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Ramesh Kumar Sharma",
+          "source_FIR_id": "FIR-2023-DEL-002",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "R. K. Sharma",
+          "source_FIR_id": "FIR-2023-BLR-004",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "accused_name"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-PERSON-5e6ee11d",
+          "entity_id_2": "ENT-PERSON-18986a32",
+          "merged_entity_id": "ENT-PERSON-5e6ee11d",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.8358398870740068,
+          "reasoning": "fuzzy_score:0.84 (token_sort_ratio:0.69; jaro_winkler:0.68; shared_identifier:phone|+919876543210)",
+          "timestamp": "2026-09-04T10:10:55.421024"
+        }
+      ]
+    },
+    {
+      "id": "ENT-PERSON-0d710d40",
+      "type": "Person",
+      "canonical_value": "vikram malhotra",
+      "display_value": "Vikram Malhotra",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Vikram Malhotra",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "complainant_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-83dec0d5",
+      "type": "Person",
+      "canonical_value": "amitabh bachchan singh",
+      "display_value": "Amitabh Bachchan Singh",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003",
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012",
+        "FIR-2023-MUM-008"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Amitabh Bachchan Singh",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Amitabh Bachchan Singh",
+          "source_FIR_id": "FIR-2024-ENG-009",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Amitabh Bachchan Singh",
+          "source_FIR_id": "FIR-2024-ENG-010",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Amitabh Bachchan Singh",
+          "source_FIR_id": "FIR-2024-ENG-011",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Amitabh Bachchan Singh",
+          "source_FIR_id": "FIR-2024-ENG-012",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Amitabh B. Singh",
+          "source_FIR_id": "FIR-2023-MUM-008",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "accused_name"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-PERSON-83dec0d5",
+          "entity_id_2": "ENT-PERSON-b84fa1cd",
+          "merged_entity_id": "ENT-PERSON-83dec0d5",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:person|amitabh bachchan singh",
+          "timestamp": "2026-09-04T10:10:55.416698"
+        },
+        {
+          "entity_id_1": "ENT-PERSON-83dec0d5",
+          "entity_id_2": "ENT-PERSON-69f6c132",
+          "merged_entity_id": "ENT-PERSON-83dec0d5",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:person|amitabh bachchan singh",
+          "timestamp": "2026-09-04T10:10:55.416725"
+        },
+        {
+          "entity_id_1": "ENT-PERSON-83dec0d5",
+          "entity_id_2": "ENT-PERSON-4913968d",
+          "merged_entity_id": "ENT-PERSON-83dec0d5",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:person|amitabh bachchan singh",
+          "timestamp": "2026-09-04T10:10:55.416765"
+        },
+        {
+          "entity_id_1": "ENT-PERSON-83dec0d5",
+          "entity_id_2": "ENT-PERSON-d722082d",
+          "merged_entity_id": "ENT-PERSON-83dec0d5",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:person|amitabh bachchan singh",
+          "timestamp": "2026-09-04T10:10:55.416795"
+        },
+        {
+          "entity_id_1": "ENT-PERSON-83dec0d5",
+          "entity_id_2": "ENT-PERSON-5c86a2a0",
+          "merged_entity_id": "ENT-PERSON-83dec0d5",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.995031941031941,
+          "reasoning": "fuzzy_score:1.00 (token_sort_ratio:0.81; jaro_winkler:0.90; shared_identifier:phone|+919988776655)",
+          "timestamp": "2026-09-04T10:10:55.421386"
+        }
+      ]
+    },
+    {
+      "id": "ENT-PERSON-b7f7938c",
+      "type": "Person",
+      "canonical_value": "pankaj tripathi",
+      "display_value": "Pankaj Tripathi",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Pankaj Tripathi",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "accused_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-ad16d55d",
+      "type": "Person",
+      "canonical_value": "ananya roy",
+      "display_value": "Ananya Roy",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Ananya Roy",
+          "source_FIR_id": "FIR-2023-BLR-004",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "complainant_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-5c5bf971",
+      "type": "Person",
+      "canonical_value": "suresh reddy",
+      "display_value": "Suresh Reddy",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Dr. Suresh Reddy",
+          "source_FIR_id": "FIR-2023-HYD-005",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "complainant_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-c4871a6c",
+      "type": "Person",
+      "canonical_value": "unknown hacker",
+      "display_value": "Unknown Hacker",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Unknown Hacker",
+          "source_FIR_id": "FIR-2023-HYD-005",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "accused_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-b6b7f3d8",
+      "type": "Person",
+      "canonical_value": "priya nair",
+      "display_value": "Priya Nair",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Advocate Priya Nair",
+          "source_FIR_id": "FIR-2023-DEL-006",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "complainant_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-534b267c",
+      "type": "Person",
+      "canonical_value": "joydeep das",
+      "display_value": "Joydeep Das",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Joydeep Das",
+          "source_FIR_id": "FIR-2023-KOL-007",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "complainant_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-f585c88a",
+      "type": "Person",
+      "canonical_value": "siddharth mukherjee",
+      "display_value": "Siddharth Mukherjee",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Siddharth Mukherjee",
+          "source_FIR_id": "FIR-2023-KOL-007",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "accused_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-35f3f34d",
+      "type": "Person",
+      "canonical_value": "rohan mehta",
+      "display_value": "Rohan Mehta",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Rohan Mehta",
+          "source_FIR_id": "FIR-2023-MUM-008",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "complainant_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PERSON-f684a327",
+      "type": "Person",
+      "canonical_value": "spoke victim one",
+      "display_value": "Spoke Suspect Gamma",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Spoke Victim One",
+          "source_FIR_id": "FIR-2024-ENG-009",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Spoke Victim Two",
+          "source_FIR_id": "FIR-2024-ENG-010",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Spoke Suspect Beta",
+          "source_FIR_id": "FIR-2024-ENG-010",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Spoke Victim Three",
+          "source_FIR_id": "FIR-2024-ENG-011",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Spoke Suspect Gamma",
+          "source_FIR_id": "FIR-2024-ENG-011",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Spoke Victim Four",
+          "source_FIR_id": "FIR-2024-ENG-012",
+          "field_source": "complainant_name",
+          "confidence": 0.95
+        },
+        {
+          "entity_type": "Person",
+          "raw_value": "Spoke Suspect Delta",
+          "source_FIR_id": "FIR-2024-ENG-012",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "complainant_name"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-PERSON-f684a327",
+          "entity_id_2": "ENT-PERSON-ca7669ab",
+          "merged_entity_id": "ENT-PERSON-f684a327",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.98,
+          "reasoning": "fuzzy_score:0.98 (token_sort_ratio:0.75; jaro_winkler:0.95; shared_identifier:phone|+919988776655)",
+          "timestamp": "2026-09-04T10:10:55.422051"
+        },
+        {
+          "entity_id_1": "ENT-PERSON-f684a327",
+          "entity_id_2": "ENT-PERSON-062ca568",
+          "merged_entity_id": "ENT-PERSON-f684a327",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.8670152505446623,
+          "reasoning": "fuzzy_score:0.87 (token_sort_ratio:0.59; jaro_winkler:0.66; shared_fir:FIR-2024-ENG-010; shared_identifier:phone|+919988776655)",
+          "timestamp": "2026-09-04T10:10:55.422077"
+        },
+        {
+          "entity_id_1": "ENT-PERSON-f684a327",
+          "entity_id_2": "ENT-PERSON-f435f761",
+          "merged_entity_id": "ENT-PERSON-f684a327",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.9457516339869281,
+          "reasoning": "fuzzy_score:0.95 (token_sort_ratio:0.71; jaro_winkler:0.93; shared_identifier:phone|+919988776655)",
+          "timestamp": "2026-09-04T10:10:55.422093"
+        },
+        {
+          "entity_id_1": "ENT-PERSON-f684a327",
+          "entity_id_2": "ENT-PERSON-f7d5ce1b",
+          "merged_entity_id": "ENT-PERSON-f684a327",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.8365219867851448,
+          "reasoning": "fuzzy_score:0.84 (token_sort_ratio:0.51; jaro_winkler:0.69; shared_fir:FIR-2024-ENG-011; shared_identifier:phone|+919988776655)",
+          "timestamp": "2026-09-04T10:10:55.422108"
+        },
+        {
+          "entity_id_1": "ENT-PERSON-f684a327",
+          "entity_id_2": "ENT-PERSON-1119f2c4",
+          "merged_entity_id": "ENT-PERSON-f684a327",
+          "merge_type": "fuzzy_match",
+          "confidence": 1.0,
+          "reasoning": "fuzzy_score:1.00 (token_sort_ratio:0.85; jaro_winkler:0.94; shared_identifier:phone|+919988776655)",
+          "timestamp": "2026-09-04T10:10:55.422121"
+        },
+        {
+          "entity_id_1": "ENT-PERSON-f684a327",
+          "entity_id_2": "ENT-PERSON-54d8ca02",
+          "merged_entity_id": "ENT-PERSON-f684a327",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.853032581453634,
+          "reasoning": "fuzzy_score:0.85 (token_sort_ratio:0.57; jaro_winkler:0.65; shared_fir:FIR-2024-ENG-012; shared_identifier:phone|+919988776655)",
+          "timestamp": "2026-09-04T10:10:55.422133"
+        }
+      ]
+    },
+    {
+      "id": "ENT-PERSON-2342d30c",
+      "type": "Person",
+      "canonical_value": "spoke suspect alpha",
+      "display_value": "Spoke Suspect Alpha",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Person",
+          "raw_value": "Spoke Suspect Alpha",
+          "source_FIR_id": "FIR-2024-ENG-009",
+          "field_source": "accused_name",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "accused_name"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-LOCATION-771f000f",
+      "type": "Location",
+      "canonical_value": "flat 402 green park apartment mg road new delhi",
+      "display_value": "Flat 402, Green Park Apartment, Mg Road, New Delhi",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "Flat 402, Green Park Apt, MG Rd, New Delhi",
+          "source_FIR_id": "FIR-2023-DEL-001",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "complainant_address"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-LOCATION-6d095912",
+      "type": "Location",
+      "canonical_value": "plot no 12 sector 4 dwarka delhi",
+      "display_value": "Plot 12, Sector 4, Dwarka, New Delhi",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001",
+        "FIR-2023-DEL-002",
+        "FIR-2023-BLR-004",
+        "FIR-2023-DEL-006"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "Plot No 12, Sec 4, Dwarka, Delhi",
+          "source_FIR_id": "FIR-2023-DEL-001",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Plot 12, Sector 4, Dwarka, New Delhi",
+          "source_FIR_id": "FIR-2023-DEL-002",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Sec 4 Dwarka New Delhi",
+          "source_FIR_id": "FIR-2023-BLR-004",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Dwarka Sector 4, Delhi",
+          "source_FIR_id": "FIR-2023-DEL-006",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "accused_address"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-LOCATION-6d095912",
+          "entity_id_2": "ENT-LOCATION-ee1800f4",
+          "merged_entity_id": "ENT-LOCATION-6d095912",
+          "merge_type": "fuzzy_match",
+          "confidence": 1.0,
+          "reasoning": "fuzzy_score:1.00 (token_sort_ratio:0.95; jaro_winkler:0.90; shared_identifier:phone|+919876543210)",
+          "timestamp": "2026-09-04T10:10:55.422317"
+        },
+        {
+          "entity_id_1": "ENT-LOCATION-6d095912",
+          "entity_id_2": "ENT-LOCATION-35e1446b",
+          "merged_entity_id": "ENT-LOCATION-6d095912",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.9338699466056446,
+          "reasoning": "fuzzy_score:0.93 (token_sort_ratio:0.81; jaro_winkler:0.75; shared_identifier:phone|+919876543210)",
+          "timestamp": "2026-09-04T10:10:55.422345"
+        },
+        {
+          "entity_id_1": "ENT-LOCATION-6d095912",
+          "entity_id_2": "ENT-LOCATION-de72323f",
+          "merged_entity_id": "ENT-LOCATION-6d095912",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.8853923330338425,
+          "reasoning": "fuzzy_score:0.89 (token_sort_ratio:0.79; jaro_winkler:0.65; shared_identifier:phone|+919876543210)",
+          "timestamp": "2026-09-04T10:10:55.422370"
+        }
+      ]
+    },
+    {
+      "id": "ENT-LOCATION-bc833954",
+      "type": "Location",
+      "canonical_value": "house no 55 street 3 lajpat nagar new delhi",
+      "display_value": "House No 55, Street 3, Lajpat Nagar, New Delhi",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "House No 55, St 3, Lajpat Nag, New Delhi",
+          "source_FIR_id": "FIR-2023-DEL-002",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "complainant_address"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-LOCATION-02eb21b3",
+      "type": "Location",
+      "canonical_value": "near police station bandra sv road mumbai",
+      "display_value": "Near Police Station Bandra, Sv Road, Mumbai",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "Nr PS Bandra, SV Rd, Mumbai",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "accused_address"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-LOCATION-43935c6e",
+      "type": "Location",
+      "canonical_value": "indiranagar 100ft road bengaluru",
+      "display_value": "Indiranagar 100Ft Road, Bengaluru",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "Indiranagar 100ft Rd, Bengaluru",
+          "source_FIR_id": "FIR-2023-BLR-004",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "complainant_address"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-LOCATION-cb5f37cd",
+      "type": "Location",
+      "canonical_value": "banjara hills road no 12 hyderabad",
+      "display_value": "Banjara Hills Road No 12, Hyderabad",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "Banjara Hills Rd No 12, Hyderabad",
+          "source_FIR_id": "FIR-2023-HYD-005",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "complainant_address"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-LOCATION-7aeabc32",
+      "type": "Location",
+      "canonical_value": "connaught place new delhi",
+      "display_value": "Connaught Place, New Delhi",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "Connaught Place, New Delhi",
+          "source_FIR_id": "FIR-2023-DEL-006",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "complainant_address"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-LOCATION-2edb4bec",
+      "type": "Location",
+      "canonical_value": "salt lake sector 5 kolkata",
+      "display_value": "Salt Lake Sector 5, Kolkata",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "Salt Lake Sec 5, Kolkata",
+          "source_FIR_id": "FIR-2023-KOL-007",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Park St, Kolkata",
+          "source_FIR_id": "FIR-2023-KOL-007",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "complainant_address"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-LOCATION-2edb4bec",
+          "entity_id_2": "ENT-LOCATION-a12e5e4a",
+          "merged_entity_id": "ENT-LOCATION-2edb4bec",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.9349091053425419,
+          "reasoning": "fuzzy_score:0.93 (token_sort_ratio:0.67; jaro_winkler:0.71; shared_fir:FIR-2023-KOL-007; shared_identifier:phone|+919123456789)",
+          "timestamp": "2026-09-04T10:10:55.422835"
+        }
+      ]
+    },
+    {
+      "id": "ENT-LOCATION-30bebe69",
+      "type": "Location",
+      "canonical_value": "andheri west mumbai",
+      "display_value": "Andheri West, Mumbai",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008",
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "Andheri West, Mumbai",
+          "source_FIR_id": "FIR-2023-MUM-008",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Bandra, Mumbai",
+          "source_FIR_id": "FIR-2023-MUM-008",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Bandra, Mumbai",
+          "source_FIR_id": "FIR-2024-ENG-009",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Bandra, Mumbai",
+          "source_FIR_id": "FIR-2024-ENG-010",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Bandra, Mumbai",
+          "source_FIR_id": "FIR-2024-ENG-011",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Bandra, Mumbai",
+          "source_FIR_id": "FIR-2024-ENG-012",
+          "field_source": "accused_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Bandra West, Mumbai",
+          "source_FIR_id": "FIR-2024-ENG-009",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Location",
+          "raw_value": "Worli, Mumbai",
+          "source_FIR_id": "FIR-2024-ENG-011",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "complainant_address"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-LOCATION-30bebe69",
+          "entity_id_2": "ENT-LOCATION-da92ee4d",
+          "merged_entity_id": "ENT-LOCATION-30bebe69",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.9494831922463502,
+          "reasoning": "fuzzy_score:0.95 (token_sort_ratio:0.69; jaro_winkler:0.72; shared_fir:FIR-2023-MUM-008; shared_identifier:phone|+919988776655)",
+          "timestamp": "2026-09-04T10:10:55.422919"
+        },
+        {
+          "entity_id_1": "ENT-LOCATION-30bebe69",
+          "entity_id_2": "ENT-LOCATION-5256a368",
+          "merged_entity_id": "ENT-LOCATION-30bebe69",
+          "merge_type": "fuzzy_match",
+          "confidence": 1.0,
+          "reasoning": "fuzzy_score:1.00 (token_sort_ratio:0.86; jaro_winkler:0.87; shared_fir:FIR-2024-ENG-009; shared_identifier:phone|+919988776655)",
+          "timestamp": "2026-09-04T10:10:55.422934"
+        },
+        {
+          "entity_id_1": "ENT-LOCATION-30bebe69",
+          "entity_id_2": "ENT-LOCATION-db447c4f",
+          "merged_entity_id": "ENT-LOCATION-30bebe69",
+          "merge_type": "fuzzy_match",
+          "confidence": 0.8476306357291077,
+          "reasoning": "fuzzy_score:0.85 (token_sort_ratio:0.52; jaro_winkler:0.72; shared_fir:FIR-2024-ENG-011; shared_identifier:phone|+919988776655)",
+          "timestamp": "2026-09-04T10:10:55.422957"
+        }
+      ]
+    },
+    {
+      "id": "ENT-LOCATION-12289272",
+      "type": "Location",
+      "canonical_value": "juhu mumbai",
+      "display_value": "Juhu, Mumbai",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "Juhu, Mumbai",
+          "source_FIR_id": "FIR-2024-ENG-010",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "complainant_address"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-LOCATION-4ab2d53c",
+      "type": "Location",
+      "canonical_value": "colaba mumbai",
+      "display_value": "Colaba, Mumbai",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Location",
+          "raw_value": "Colaba, Mumbai",
+          "source_FIR_id": "FIR-2024-ENG-012",
+          "field_source": "complainant_address",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "created_from_field": "complainant_address"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-PHONE-e4f1e93a",
+      "type": "Phone",
+      "canonical_value": "+919876543210",
+      "display_value": "+919876543210",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001",
+        "FIR-2023-DEL-002",
+        "FIR-2023-BLR-004",
+        "FIR-2023-DEL-006"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Phone",
+          "raw_value": "+919876543210",
+          "source_FIR_id": "FIR-2023-DEL-001",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91 9876543210",
+          "source_FIR_id": "FIR-2023-DEL-001",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "9876543210",
+          "source_FIR_id": "FIR-2023-DEL-002",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91 9876543210",
+          "source_FIR_id": "FIR-2023-BLR-004",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91 9876543210",
+          "source_FIR_id": "FIR-2023-BLR-004",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "9876543210",
+          "source_FIR_id": "FIR-2023-DEL-006",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "9876543210",
+          "source_FIR_id": "FIR-2023-DEL-006",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "phone_numbers_mentioned"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-PHONE-e4f1e93a",
+          "entity_id_2": "ENT-PHONE-460ddb3e",
+          "merged_entity_id": "ENT-PHONE-e4f1e93a",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919876543210",
+          "timestamp": "2026-09-04T10:10:55.416546"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-e4f1e93a",
+          "entity_id_2": "ENT-PHONE-95c61248",
+          "merged_entity_id": "ENT-PHONE-e4f1e93a",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919876543210",
+          "timestamp": "2026-09-04T10:10:55.416578"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-e4f1e93a",
+          "entity_id_2": "ENT-PHONE-2112f0dc",
+          "merged_entity_id": "ENT-PHONE-e4f1e93a",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919876543210",
+          "timestamp": "2026-09-04T10:10:55.416625"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-e4f1e93a",
+          "entity_id_2": "ENT-PHONE-e5a7e3d8",
+          "merged_entity_id": "ENT-PHONE-e4f1e93a",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919876543210",
+          "timestamp": "2026-09-04T10:10:55.416631"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-e4f1e93a",
+          "entity_id_2": "ENT-PHONE-740c6ce4",
+          "merged_entity_id": "ENT-PHONE-e4f1e93a",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919876543210",
+          "timestamp": "2026-09-04T10:10:55.416658"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-e4f1e93a",
+          "entity_id_2": "ENT-PHONE-a807b779",
+          "merged_entity_id": "ENT-PHONE-e4f1e93a",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919876543210",
+          "timestamp": "2026-09-04T10:10:55.416663"
+        }
+      ]
+    },
+    {
+      "id": "ENT-PHONE-78ee08c1",
+      "type": "Phone",
+      "canonical_value": "+919988776655",
+      "display_value": "+919988776655",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003",
+        "FIR-2023-MUM-008",
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2023-MUM-008",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2023-MUM-008",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2024-ENG-009",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2024-ENG-009",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2024-ENG-010",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2024-ENG-010",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2024-ENG-011",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2024-ENG-011",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2024-ENG-012",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91-9988776655",
+          "source_FIR_id": "FIR-2024-ENG-012",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "phone_numbers_mentioned"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-bafe0e8e",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416605"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-119472c7",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416686"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-76f735fd",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416691"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-ad3b5398",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416708"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-08704806",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416714"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-a82fde81",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416738"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-5cd6b3cd",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416743"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-4e0cfa0c",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416777"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-1f85d124",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416786"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-dbb48415",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416805"
+        },
+        {
+          "entity_id_1": "ENT-PHONE-78ee08c1",
+          "entity_id_2": "ENT-PHONE-fc751654",
+          "merged_entity_id": "ENT-PHONE-78ee08c1",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919988776655",
+          "timestamp": "2026-09-04T10:10:55.416811"
+        }
+      ]
+    },
+    {
+      "id": "ENT-PHONE-9062c1ea",
+      "type": "Phone",
+      "canonical_value": "+919123456789",
+      "display_value": "+919123456789",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91 9123456789",
+          "source_FIR_id": "FIR-2023-KOL-007",
+          "field_source": "phone_numbers_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Phone",
+          "raw_value": "+91 9123456789",
+          "source_FIR_id": "FIR-2023-KOL-007",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "phone_numbers_mentioned"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-PHONE-9062c1ea",
+          "entity_id_2": "ENT-PHONE-5192bbb6",
+          "merged_entity_id": "ENT-PHONE-9062c1ea",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:phone|+919123456789",
+          "timestamp": "2026-09-04T10:10:55.416672"
+        }
+      ]
+    },
+    {
+      "id": "ENT-TRANSACTION-849f31ba",
+      "type": "Transaction",
+      "canonical_value": "500000.00",
+      "display_value": "\u20b95,00,000",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001",
+        "FIR-2023-DEL-002"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Transaction",
+          "raw_value": "Rs. 5,00,000",
+          "source_FIR_id": "FIR-2023-DEL-001",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Transaction",
+          "raw_value": "Rs. 5,00,000",
+          "source_FIR_id": "FIR-2023-DEL-001",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        },
+        {
+          "entity_type": "Transaction",
+          "raw_value": "5 Lakhs",
+          "source_FIR_id": "FIR-2023-DEL-002",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Transaction",
+          "raw_value": "5 Lakhs",
+          "source_FIR_id": "FIR-2023-DEL-002",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "amounts_mentioned"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-TRANSACTION-849f31ba",
+          "entity_id_2": "ENT-TRANSACTION-26369294",
+          "merged_entity_id": "ENT-TRANSACTION-849f31ba",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:transaction|500000.00",
+          "timestamp": "2026-09-04T10:10:55.416566"
+        },
+        {
+          "entity_id_1": "ENT-TRANSACTION-849f31ba",
+          "entity_id_2": "ENT-TRANSACTION-30f0388a",
+          "merged_entity_id": "ENT-TRANSACTION-849f31ba",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:transaction|500000.00",
+          "timestamp": "2026-09-04T10:10:55.416588"
+        },
+        {
+          "entity_id_1": "ENT-TRANSACTION-849f31ba",
+          "entity_id_2": "ENT-TRANSACTION-fe09cbd4",
+          "merged_entity_id": "ENT-TRANSACTION-849f31ba",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:transaction|500000.00",
+          "timestamp": "2026-09-04T10:10:55.416597"
+        }
+      ]
+    },
+    {
+      "id": "ENT-TRANSACTION-54feaf75",
+      "type": "Transaction",
+      "canonical_value": "250000.00",
+      "display_value": "\u20b92,50,000",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Transaction",
+          "raw_value": "INR 250000",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Transaction",
+          "raw_value": "INR 250000",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "amounts_mentioned"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-TRANSACTION-54feaf75",
+          "entity_id_2": "ENT-TRANSACTION-b58ac4da",
+          "merged_entity_id": "ENT-TRANSACTION-54feaf75",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:transaction|250000.00",
+          "timestamp": "2026-09-04T10:10:55.416614"
+        }
+      ]
+    },
+    {
+      "id": "ENT-TRANSACTION-86d8321d",
+      "type": "Transaction",
+      "canonical_value": "25000000.00",
+      "display_value": "\u20b92,50,00,000",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Transaction",
+          "raw_value": "\u20b9 2.5 Crore",
+          "source_FIR_id": "FIR-2023-BLR-004",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Transaction",
+          "raw_value": "\u20b9 2.5 Crore",
+          "source_FIR_id": "FIR-2023-BLR-004",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "amounts_mentioned"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-TRANSACTION-86d8321d",
+          "entity_id_2": "ENT-TRANSACTION-2a1527f8",
+          "merged_entity_id": "ENT-TRANSACTION-86d8321d",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:transaction|25000000.00",
+          "timestamp": "2026-09-04T10:10:55.416637"
+        }
+      ]
+    },
+    {
+      "id": "ENT-TRANSACTION-e187b6dc",
+      "type": "Transaction",
+      "canonical_value": "50000.00",
+      "display_value": "\u20b950,000",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Transaction",
+          "raw_value": "Rs 50,000",
+          "source_FIR_id": "FIR-2023-HYD-005",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Transaction",
+          "raw_value": "Rs 50,000",
+          "source_FIR_id": "FIR-2023-HYD-005",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "amounts_mentioned"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-TRANSACTION-e187b6dc",
+          "entity_id_2": "ENT-TRANSACTION-8ed259dd",
+          "merged_entity_id": "ENT-TRANSACTION-e187b6dc",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:transaction|50000.00",
+          "timestamp": "2026-09-04T10:10:55.416651"
+        }
+      ]
+    },
+    {
+      "id": "ENT-TRANSACTION-e3d8e192",
+      "type": "Transaction",
+      "canonical_value": "12000000.00",
+      "display_value": "\u20b91,20,00,000",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Transaction",
+          "raw_value": "1.2 crore",
+          "source_FIR_id": "FIR-2023-KOL-007",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Transaction",
+          "raw_value": "1.2 crore",
+          "source_FIR_id": "FIR-2023-KOL-007",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "amounts_mentioned"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-TRANSACTION-e3d8e192",
+          "entity_id_2": "ENT-TRANSACTION-d7bb1395",
+          "merged_entity_id": "ENT-TRANSACTION-e3d8e192",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:transaction|12000000.00",
+          "timestamp": "2026-09-04T10:10:55.416679"
+        }
+      ]
+    },
+    {
+      "id": "ENT-TRANSACTION-7cf6a353",
+      "type": "Transaction",
+      "canonical_value": "10000.00",
+      "display_value": "\u20b910,000",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Transaction",
+          "raw_value": "10k",
+          "source_FIR_id": "FIR-2023-MUM-008",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "amounts_mentioned"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-TRANSACTION-823ba9de",
+      "type": "Transaction",
+      "canonical_value": "1000000.00",
+      "display_value": "\u20b910,00,000",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Transaction",
+          "raw_value": "Rs 10,00,000",
+          "source_FIR_id": "FIR-2024-ENG-009",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "amounts_mentioned"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-TRANSACTION-9a217ecb",
+      "type": "Transaction",
+      "canonical_value": "1500000.00",
+      "display_value": "\u20b915,00,000",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Transaction",
+          "raw_value": "15 Lakhs",
+          "source_FIR_id": "FIR-2024-ENG-010",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        },
+        {
+          "entity_type": "Transaction",
+          "raw_value": "15 Lakhs",
+          "source_FIR_id": "FIR-2024-ENG-010",
+          "field_source": "narrative_text",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "amounts_mentioned"
+      },
+      "merge_history": [
+        {
+          "entity_id_1": "ENT-TRANSACTION-9a217ecb",
+          "entity_id_2": "ENT-TRANSACTION-635b97d7",
+          "merged_entity_id": "ENT-TRANSACTION-9a217ecb",
+          "merge_type": "exact_match",
+          "confidence": 1.0,
+          "reasoning": "exact_match:transaction|1500000.00",
+          "timestamp": "2026-09-04T10:10:55.416754"
+        }
+      ]
+    },
+    {
+      "id": "ENT-TRANSACTION-a2e11ed7",
+      "type": "Transaction",
+      "canonical_value": "2000000.00",
+      "display_value": "\u20b920,00,000",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Transaction",
+          "raw_value": "Rs 20,00,000",
+          "source_FIR_id": "FIR-2024-ENG-011",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "amounts_mentioned"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-TRANSACTION-6971ba54",
+      "type": "Transaction",
+      "canonical_value": "5000000.00",
+      "display_value": "\u20b950,00,000",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Transaction",
+          "raw_value": "Rs 50,00,000",
+          "source_FIR_id": "FIR-2024-ENG-012",
+          "field_source": "amounts_mentioned",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "metadata": {
+        "created_from_field": "amounts_mentioned"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-EMAIL-31359b30",
+      "type": "Email",
+      "canonical_value": "suspect.sharma@cybercrime.org",
+      "display_value": "suspect.sharma@cybercrime.org",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Email",
+          "raw_value": "suspect.sharma@cybercrime.org",
+          "source_FIR_id": "FIR-2023-DEL-002",
+          "field_source": "narrative_text",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "narrative_text"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-EMAIL-adf21945",
+      "type": "Email",
+      "canonical_value": "attacker@phish-domain.com",
+      "display_value": "attacker@phish-domain.com",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Email",
+          "raw_value": "attacker@phish-domain.com",
+          "source_FIR_id": "FIR-2023-HYD-005",
+          "field_source": "narrative_text",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "narrative_text"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-EMAIL-4856bdcb",
+      "type": "Email",
+      "canonical_value": "siddharth.m@corp-fake.in",
+      "display_value": "siddharth.m@corp-fake.in",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Email",
+          "raw_value": "siddharth.m@corp-fake.in",
+          "source_FIR_id": "FIR-2023-KOL-007",
+          "field_source": "narrative_text",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "narrative_text"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-EVENT-b7f6be6f",
+      "type": "Event",
+      "canonical_value": "2023-08-20",
+      "display_value": "2023-08-20",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Event",
+          "raw_value": "20th August 2023",
+          "source_FIR_id": "FIR-2023-DEL-002",
+          "field_source": "narrative_text",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "created_from_field": "narrative_text"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-EVENT-8b1c7bb4",
+      "type": "Event",
+      "canonical_value": "0.0.45",
+      "display_value": "0.0.45",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "Event",
+          "raw_value": "0.0.45",
+          "source_FIR_id": "FIR-2023-HYD-005",
+          "field_source": "narrative_text",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "created_from_field": "narrative_text"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-IP-7c8c040c",
+      "type": "IP",
+      "canonical_value": "192.168.1.100",
+      "display_value": "192.168.1.100",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "IP",
+          "raw_value": "192.168.1.100",
+          "source_FIR_id": "FIR-2023-MUM-003",
+          "field_source": "narrative_text",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "narrative_text"
+      },
+      "merge_history": []
+    },
+    {
+      "id": "ENT-IP-892c0270",
+      "type": "IP",
+      "canonical_value": "10.0.0.45",
+      "display_value": "10.0.0.45",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "raw_mentions": [
+        {
+          "entity_type": "IP",
+          "raw_value": "10.0.0.45",
+          "source_FIR_id": "FIR-2023-HYD-005",
+          "field_source": "narrative_text",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "created_from_field": "narrative_text"
+      },
+      "merge_history": []
+    }
+  ],
+  "candidate_merges": [
+    {
+      "entity_id_1": "ENT-PERSON-a545af01",
+      "entity_id_2": "ENT-PERSON-5e6ee11d",
+      "entity_1_value": "Rajesh Verma",
+      "entity_2_value": "Ramesh Kumar Sharma",
+      "entity_type": "Person",
+      "similarity_score": 0.7504338803999245,
+      "reasoning": "fuzzy_score:0.75 (token_sort_ratio:0.58; jaro_winkler:0.63; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-a545af01",
+      "entity_id_2": "ENT-PERSON-18986a32",
+      "entity_1_value": "Rajesh Verma",
+      "entity_2_value": "R K Sharma",
+      "entity_type": "Person",
+      "similarity_score": 0.7982727272727272,
+      "reasoning": "fuzzy_score:0.80 (token_sort_ratio:0.55; jaro_winkler:0.80; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-a545af01",
+      "entity_id_2": "ENT-PERSON-5e6ee11d",
+      "entity_1_value": "Ramesh Sharma",
+      "entity_2_value": "Ramesh Kumar Sharma",
+      "entity_type": "Person",
+      "similarity_score": 0.7504338803999245,
+      "reasoning": "fuzzy_score:0.75 (token_sort_ratio:0.58; jaro_winkler:0.63; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-a545af01",
+      "entity_id_2": "ENT-PERSON-18986a32",
+      "entity_1_value": "Ramesh Sharma",
+      "entity_2_value": "R K Sharma",
+      "entity_type": "Person",
+      "similarity_score": 0.7982727272727272,
+      "reasoning": "fuzzy_score:0.80 (token_sort_ratio:0.55; jaro_winkler:0.80; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-e0c28513",
+      "entity_id_2": "ENT-PERSON-5e6ee11d",
+      "entity_1_value": "Sunita Sharma",
+      "entity_2_value": "Ramesh Kumar Sharma",
+      "entity_type": "Person",
+      "similarity_score": 0.7410728744939271,
+      "reasoning": "fuzzy_score:0.74 (token_sort_ratio:0.38; jaro_winkler:0.67; shared_fir:FIR-2023-DEL-002; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-e0c28513",
+      "entity_id_2": "ENT-PERSON-18986a32",
+      "entity_1_value": "Sunita Sharma",
+      "entity_2_value": "R K Sharma",
+      "entity_type": "Person",
+      "similarity_score": 0.7043621595795508,
+      "reasoning": "fuzzy_score:0.70 (token_sort_ratio:0.52; jaro_winkler:0.60; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-0d710d40",
+      "entity_id_2": "ENT-PERSON-35f3f34d",
+      "entity_1_value": "Vikram Malhotra",
+      "entity_2_value": "Rohan Mehta",
+      "entity_type": "Person",
+      "similarity_score": 0.7153857253857254,
+      "reasoning": "fuzzy_score:0.72 (token_sort_ratio:0.54; jaro_winkler:0.61; shared_identifier:phone|+919988776655)"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-83dec0d5",
+      "entity_id_2": "ENT-PERSON-35f3f34d",
+      "entity_1_value": "Amitabh Bachchan Singh",
+      "entity_2_value": "Rohan Mehta",
+      "entity_type": "Person",
+      "similarity_score": 0.708008658008658,
+      "reasoning": "fuzzy_score:0.71 (token_sort_ratio:0.42; jaro_winkler:0.51; shared_fir:FIR-2023-MUM-008; shared_identifier:phone|+919988776655)"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-b7f7938c",
+      "entity_id_2": "ENT-PERSON-f435f761",
+      "entity_1_value": "Pankaj Tripathi",
+      "entity_2_value": "Spoke Victim Three",
+      "entity_type": "Person",
+      "similarity_score": 0.7060942760942761,
+      "reasoning": "fuzzy_score:0.71 (token_sort_ratio:0.48; jaro_winkler:0.66; shared_identifier:phone|+919988776655)"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-f684a327",
+      "entity_id_2": "ENT-PERSON-2342d30c",
+      "entity_1_value": "Spoke Victim One",
+      "entity_2_value": "Spoke Suspect Alpha",
+      "entity_type": "Person",
+      "similarity_score": 0.8187468671679198,
+      "reasoning": "fuzzy_score:0.82 (token_sort_ratio:0.51; jaro_winkler:0.65; shared_fir:FIR-2024-ENG-009; shared_identifier:phone|+919988776655)"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-f684a327",
+      "entity_id_2": "ENT-PERSON-2342d30c",
+      "entity_1_value": "Spoke Suspect Gamma",
+      "entity_2_value": "Spoke Suspect Alpha",
+      "entity_type": "Person",
+      "similarity_score": 0.8187468671679198,
+      "reasoning": "fuzzy_score:0.82 (token_sort_ratio:0.51; jaro_winkler:0.65; shared_fir:FIR-2024-ENG-009; shared_identifier:phone|+919988776655)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-771f000f",
+      "entity_id_2": "ENT-LOCATION-6d095912",
+      "entity_1_value": "Flat 402, Green Park Apartment, Mg Road, New Delhi",
+      "entity_2_value": "Plot No 12, Sector 4, Dwarka, Delhi",
+      "entity_type": "Location",
+      "similarity_score": 0.7812742100660675,
+      "reasoning": "fuzzy_score:0.78 (token_sort_ratio:0.43; jaro_winkler:0.68; shared_fir:FIR-2023-DEL-001; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-771f000f",
+      "entity_id_2": "ENT-LOCATION-bc833954",
+      "entity_1_value": "Flat 402, Green Park Apartment, Mg Road, New Delhi",
+      "entity_2_value": "House No 55, Street 3, Lajpat Nagar, New Delhi",
+      "entity_type": "Location",
+      "similarity_score": 0.7148314915608335,
+      "reasoning": "fuzzy_score:0.71 (token_sort_ratio:0.47; jaro_winkler:0.71; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-771f000f",
+      "entity_id_2": "ENT-LOCATION-ee1800f4",
+      "entity_1_value": "Flat 402, Green Park Apartment, Mg Road, New Delhi",
+      "entity_2_value": "Plot 12, Sector 4, Dwarka, New Delhi",
+      "entity_type": "Location",
+      "similarity_score": 0.7085163181971693,
+      "reasoning": "fuzzy_score:0.71 (token_sort_ratio:0.47; jaro_winkler:0.68; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-6d095912",
+      "entity_id_2": "ENT-LOCATION-bc833954",
+      "entity_1_value": "Plot No 12, Sector 4, Dwarka, Delhi",
+      "entity_2_value": "House No 55, Street 3, Lajpat Nagar, New Delhi",
+      "entity_type": "Location",
+      "similarity_score": 0.7124186046511628,
+      "reasoning": "fuzzy_score:0.71 (token_sort_ratio:0.48; jaro_winkler:0.69; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-6d095912",
+      "entity_id_2": "ENT-LOCATION-bc833954",
+      "entity_1_value": "Plot 12, Sector 4, Dwarka, New Delhi",
+      "entity_2_value": "House No 55, Street 3, Lajpat Nagar, New Delhi",
+      "entity_type": "Location",
+      "similarity_score": 0.8124186046511628,
+      "reasoning": "fuzzy_score:0.81 (token_sort_ratio:0.48; jaro_winkler:0.69; shared_fir:FIR-2023-DEL-002; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-6d095912",
+      "entity_id_2": "ENT-LOCATION-7aeabc32",
+      "entity_1_value": "Plot 12, Sector 4, Dwarka, New Delhi",
+      "entity_2_value": "Connaught Place, New Delhi",
+      "entity_type": "Location",
+      "similarity_score": 0.7582492260061919,
+      "reasoning": "fuzzy_score:0.76 (token_sort_ratio:0.42; jaro_winkler:0.64; shared_fir:FIR-2023-DEL-006; shared_identifier:phone|+919876543210)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-02eb21b3",
+      "entity_id_2": "ENT-LOCATION-5256a368",
+      "entity_1_value": "Near Police Station Bandra, Sv Road, Mumbai",
+      "entity_2_value": "Bandra West, Mumbai",
+      "entity_type": "Location",
+      "similarity_score": 0.7014537687749759,
+      "reasoning": "fuzzy_score:0.70 (token_sort_ratio:0.58; jaro_winkler:0.51; shared_identifier:phone|+919988776655)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-30bebe69",
+      "entity_id_2": "ENT-LOCATION-12289272",
+      "entity_1_value": "Andheri West, Mumbai",
+      "entity_2_value": "Juhu, Mumbai",
+      "entity_type": "Location",
+      "similarity_score": 0.8064433811802233,
+      "reasoning": "fuzzy_score:0.81 (token_sort_ratio:0.53; jaro_winkler:0.59; shared_fir:FIR-2024-ENG-010; shared_identifier:phone|+919988776655)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-30bebe69",
+      "entity_id_2": "ENT-LOCATION-4ab2d53c",
+      "entity_1_value": "Andheri West, Mumbai",
+      "entity_2_value": "Colaba, Mumbai",
+      "entity_type": "Location",
+      "similarity_score": 0.7715249662618083,
+      "reasoning": "fuzzy_score:0.77 (token_sort_ratio:0.50; jaro_winkler:0.55; shared_fir:FIR-2024-ENG-012; shared_identifier:phone|+919988776655)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-30bebe69",
+      "entity_id_2": "ENT-LOCATION-12289272",
+      "entity_1_value": "Andheri West, Mumbai",
+      "entity_2_value": "Juhu, Mumbai",
+      "entity_type": "Location",
+      "similarity_score": 0.8064433811802233,
+      "reasoning": "fuzzy_score:0.81 (token_sort_ratio:0.53; jaro_winkler:0.59; shared_fir:FIR-2024-ENG-010; shared_identifier:phone|+919988776655)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-30bebe69",
+      "entity_id_2": "ENT-LOCATION-4ab2d53c",
+      "entity_1_value": "Andheri West, Mumbai",
+      "entity_2_value": "Colaba, Mumbai",
+      "entity_type": "Location",
+      "similarity_score": 0.7715249662618083,
+      "reasoning": "fuzzy_score:0.77 (token_sort_ratio:0.50; jaro_winkler:0.55; shared_fir:FIR-2024-ENG-012; shared_identifier:phone|+919988776655)"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-12289272",
+      "entity_id_2": "ENT-LOCATION-4ab2d53c",
+      "entity_1_value": "Juhu, Mumbai",
+      "entity_2_value": "Colaba, Mumbai",
+      "entity_type": "Location",
+      "similarity_score": 0.7518814518814518,
+      "reasoning": "fuzzy_score:0.75 (token_sort_ratio:0.58; jaro_winkler:0.63; shared_identifier:phone|+919988776655)"
+    }
+  ],
+  "merge_history": [
+    {
+      "entity_id_1": "ENT-PHONE-e4f1e93a",
+      "entity_id_2": "ENT-PHONE-460ddb3e",
+      "merged_entity_id": "ENT-PHONE-e4f1e93a",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919876543210",
+      "timestamp": "2026-09-04T10:10:55.416546"
+    },
+    {
+      "entity_id_1": "ENT-TRANSACTION-849f31ba",
+      "entity_id_2": "ENT-TRANSACTION-26369294",
+      "merged_entity_id": "ENT-TRANSACTION-849f31ba",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:transaction|500000.00",
+      "timestamp": "2026-09-04T10:10:55.416566"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-e4f1e93a",
+      "entity_id_2": "ENT-PHONE-95c61248",
+      "merged_entity_id": "ENT-PHONE-e4f1e93a",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919876543210",
+      "timestamp": "2026-09-04T10:10:55.416578"
+    },
+    {
+      "entity_id_1": "ENT-TRANSACTION-849f31ba",
+      "entity_id_2": "ENT-TRANSACTION-30f0388a",
+      "merged_entity_id": "ENT-TRANSACTION-849f31ba",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:transaction|500000.00",
+      "timestamp": "2026-09-04T10:10:55.416588"
+    },
+    {
+      "entity_id_1": "ENT-TRANSACTION-849f31ba",
+      "entity_id_2": "ENT-TRANSACTION-fe09cbd4",
+      "merged_entity_id": "ENT-TRANSACTION-849f31ba",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:transaction|500000.00",
+      "timestamp": "2026-09-04T10:10:55.416597"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-bafe0e8e",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416605"
+    },
+    {
+      "entity_id_1": "ENT-TRANSACTION-54feaf75",
+      "entity_id_2": "ENT-TRANSACTION-b58ac4da",
+      "merged_entity_id": "ENT-TRANSACTION-54feaf75",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:transaction|250000.00",
+      "timestamp": "2026-09-04T10:10:55.416614"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-e4f1e93a",
+      "entity_id_2": "ENT-PHONE-2112f0dc",
+      "merged_entity_id": "ENT-PHONE-e4f1e93a",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919876543210",
+      "timestamp": "2026-09-04T10:10:55.416625"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-e4f1e93a",
+      "entity_id_2": "ENT-PHONE-e5a7e3d8",
+      "merged_entity_id": "ENT-PHONE-e4f1e93a",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919876543210",
+      "timestamp": "2026-09-04T10:10:55.416631"
+    },
+    {
+      "entity_id_1": "ENT-TRANSACTION-86d8321d",
+      "entity_id_2": "ENT-TRANSACTION-2a1527f8",
+      "merged_entity_id": "ENT-TRANSACTION-86d8321d",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:transaction|25000000.00",
+      "timestamp": "2026-09-04T10:10:55.416637"
+    },
+    {
+      "entity_id_1": "ENT-TRANSACTION-e187b6dc",
+      "entity_id_2": "ENT-TRANSACTION-8ed259dd",
+      "merged_entity_id": "ENT-TRANSACTION-e187b6dc",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:transaction|50000.00",
+      "timestamp": "2026-09-04T10:10:55.416651"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-e4f1e93a",
+      "entity_id_2": "ENT-PHONE-740c6ce4",
+      "merged_entity_id": "ENT-PHONE-e4f1e93a",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919876543210",
+      "timestamp": "2026-09-04T10:10:55.416658"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-e4f1e93a",
+      "entity_id_2": "ENT-PHONE-a807b779",
+      "merged_entity_id": "ENT-PHONE-e4f1e93a",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919876543210",
+      "timestamp": "2026-09-04T10:10:55.416663"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-9062c1ea",
+      "entity_id_2": "ENT-PHONE-5192bbb6",
+      "merged_entity_id": "ENT-PHONE-9062c1ea",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919123456789",
+      "timestamp": "2026-09-04T10:10:55.416672"
+    },
+    {
+      "entity_id_1": "ENT-TRANSACTION-e3d8e192",
+      "entity_id_2": "ENT-TRANSACTION-d7bb1395",
+      "merged_entity_id": "ENT-TRANSACTION-e3d8e192",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:transaction|12000000.00",
+      "timestamp": "2026-09-04T10:10:55.416679"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-119472c7",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416686"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-76f735fd",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416691"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-83dec0d5",
+      "entity_id_2": "ENT-PERSON-b84fa1cd",
+      "merged_entity_id": "ENT-PERSON-83dec0d5",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:person|amitabh bachchan singh",
+      "timestamp": "2026-09-04T10:10:55.416698"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-da92ee4d",
+      "entity_id_2": "ENT-LOCATION-5dd407bf",
+      "merged_entity_id": "ENT-LOCATION-da92ee4d",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:location|bandra mumbai",
+      "timestamp": "2026-09-04T10:10:55.416703"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-ad3b5398",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416708"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-08704806",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416714"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-83dec0d5",
+      "entity_id_2": "ENT-PERSON-69f6c132",
+      "merged_entity_id": "ENT-PERSON-83dec0d5",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:person|amitabh bachchan singh",
+      "timestamp": "2026-09-04T10:10:55.416725"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-da92ee4d",
+      "entity_id_2": "ENT-LOCATION-5ea0650b",
+      "merged_entity_id": "ENT-LOCATION-da92ee4d",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:location|bandra mumbai",
+      "timestamp": "2026-09-04T10:10:55.416733"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-a82fde81",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416738"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-5cd6b3cd",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416743"
+    },
+    {
+      "entity_id_1": "ENT-TRANSACTION-9a217ecb",
+      "entity_id_2": "ENT-TRANSACTION-635b97d7",
+      "merged_entity_id": "ENT-TRANSACTION-9a217ecb",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:transaction|1500000.00",
+      "timestamp": "2026-09-04T10:10:55.416754"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-83dec0d5",
+      "entity_id_2": "ENT-PERSON-4913968d",
+      "merged_entity_id": "ENT-PERSON-83dec0d5",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:person|amitabh bachchan singh",
+      "timestamp": "2026-09-04T10:10:55.416765"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-da92ee4d",
+      "entity_id_2": "ENT-LOCATION-cbf068f6",
+      "merged_entity_id": "ENT-LOCATION-da92ee4d",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:location|bandra mumbai",
+      "timestamp": "2026-09-04T10:10:55.416772"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-4e0cfa0c",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416777"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-1f85d124",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416786"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-83dec0d5",
+      "entity_id_2": "ENT-PERSON-d722082d",
+      "merged_entity_id": "ENT-PERSON-83dec0d5",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:person|amitabh bachchan singh",
+      "timestamp": "2026-09-04T10:10:55.416795"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-da92ee4d",
+      "entity_id_2": "ENT-LOCATION-aafcd33a",
+      "merged_entity_id": "ENT-LOCATION-da92ee4d",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:location|bandra mumbai",
+      "timestamp": "2026-09-04T10:10:55.416801"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-dbb48415",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416805"
+    },
+    {
+      "entity_id_1": "ENT-PHONE-78ee08c1",
+      "entity_id_2": "ENT-PHONE-fc751654",
+      "merged_entity_id": "ENT-PHONE-78ee08c1",
+      "merge_type": "exact_match",
+      "confidence": 1.0,
+      "reasoning": "exact_match:phone|+919988776655",
+      "timestamp": "2026-09-04T10:10:55.416811"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-a545af01",
+      "entity_id_2": "ENT-PERSON-cd8c6eee",
+      "merged_entity_id": "ENT-PERSON-a545af01",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.8348148148148148,
+      "reasoning": "fuzzy_score:0.83 (token_sort_ratio:0.42; jaro_winkler:0.84; shared_fir:FIR-2023-DEL-001; shared_identifier:phone|+919876543210)",
+      "timestamp": "2026-09-04T10:10:55.420461"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-a545af01",
+      "entity_id_2": "ENT-PERSON-c0d4ef19",
+      "merged_entity_id": "ENT-PERSON-a545af01",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.9106609686609687,
+      "reasoning": "fuzzy_score:0.91 (token_sort_ratio:0.72; jaro_winkler:0.82; shared_identifier:phone|+919876543210)",
+      "timestamp": "2026-09-04T10:10:55.420615"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-5e6ee11d",
+      "entity_id_2": "ENT-PERSON-18986a32",
+      "merged_entity_id": "ENT-PERSON-5e6ee11d",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.8358398870740068,
+      "reasoning": "fuzzy_score:0.84 (token_sort_ratio:0.69; jaro_winkler:0.68; shared_identifier:phone|+919876543210)",
+      "timestamp": "2026-09-04T10:10:55.421024"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-83dec0d5",
+      "entity_id_2": "ENT-PERSON-5c86a2a0",
+      "merged_entity_id": "ENT-PERSON-83dec0d5",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.995031941031941,
+      "reasoning": "fuzzy_score:1.00 (token_sort_ratio:0.81; jaro_winkler:0.90; shared_identifier:phone|+919988776655)",
+      "timestamp": "2026-09-04T10:10:55.421386"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-f684a327",
+      "entity_id_2": "ENT-PERSON-ca7669ab",
+      "merged_entity_id": "ENT-PERSON-f684a327",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.98,
+      "reasoning": "fuzzy_score:0.98 (token_sort_ratio:0.75; jaro_winkler:0.95; shared_identifier:phone|+919988776655)",
+      "timestamp": "2026-09-04T10:10:55.422051"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-f684a327",
+      "entity_id_2": "ENT-PERSON-062ca568",
+      "merged_entity_id": "ENT-PERSON-f684a327",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.8670152505446623,
+      "reasoning": "fuzzy_score:0.87 (token_sort_ratio:0.59; jaro_winkler:0.66; shared_fir:FIR-2024-ENG-010; shared_identifier:phone|+919988776655)",
+      "timestamp": "2026-09-04T10:10:55.422077"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-f684a327",
+      "entity_id_2": "ENT-PERSON-f435f761",
+      "merged_entity_id": "ENT-PERSON-f684a327",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.9457516339869281,
+      "reasoning": "fuzzy_score:0.95 (token_sort_ratio:0.71; jaro_winkler:0.93; shared_identifier:phone|+919988776655)",
+      "timestamp": "2026-09-04T10:10:55.422093"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-f684a327",
+      "entity_id_2": "ENT-PERSON-f7d5ce1b",
+      "merged_entity_id": "ENT-PERSON-f684a327",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.8365219867851448,
+      "reasoning": "fuzzy_score:0.84 (token_sort_ratio:0.51; jaro_winkler:0.69; shared_fir:FIR-2024-ENG-011; shared_identifier:phone|+919988776655)",
+      "timestamp": "2026-09-04T10:10:55.422108"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-f684a327",
+      "entity_id_2": "ENT-PERSON-1119f2c4",
+      "merged_entity_id": "ENT-PERSON-f684a327",
+      "merge_type": "fuzzy_match",
+      "confidence": 1.0,
+      "reasoning": "fuzzy_score:1.00 (token_sort_ratio:0.85; jaro_winkler:0.94; shared_identifier:phone|+919988776655)",
+      "timestamp": "2026-09-04T10:10:55.422121"
+    },
+    {
+      "entity_id_1": "ENT-PERSON-f684a327",
+      "entity_id_2": "ENT-PERSON-54d8ca02",
+      "merged_entity_id": "ENT-PERSON-f684a327",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.853032581453634,
+      "reasoning": "fuzzy_score:0.85 (token_sort_ratio:0.57; jaro_winkler:0.65; shared_fir:FIR-2024-ENG-012; shared_identifier:phone|+919988776655)",
+      "timestamp": "2026-09-04T10:10:55.422133"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-6d095912",
+      "entity_id_2": "ENT-LOCATION-ee1800f4",
+      "merged_entity_id": "ENT-LOCATION-6d095912",
+      "merge_type": "fuzzy_match",
+      "confidence": 1.0,
+      "reasoning": "fuzzy_score:1.00 (token_sort_ratio:0.95; jaro_winkler:0.90; shared_identifier:phone|+919876543210)",
+      "timestamp": "2026-09-04T10:10:55.422317"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-6d095912",
+      "entity_id_2": "ENT-LOCATION-35e1446b",
+      "merged_entity_id": "ENT-LOCATION-6d095912",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.9338699466056446,
+      "reasoning": "fuzzy_score:0.93 (token_sort_ratio:0.81; jaro_winkler:0.75; shared_identifier:phone|+919876543210)",
+      "timestamp": "2026-09-04T10:10:55.422345"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-6d095912",
+      "entity_id_2": "ENT-LOCATION-de72323f",
+      "merged_entity_id": "ENT-LOCATION-6d095912",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.8853923330338425,
+      "reasoning": "fuzzy_score:0.89 (token_sort_ratio:0.79; jaro_winkler:0.65; shared_identifier:phone|+919876543210)",
+      "timestamp": "2026-09-04T10:10:55.422370"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-2edb4bec",
+      "entity_id_2": "ENT-LOCATION-a12e5e4a",
+      "merged_entity_id": "ENT-LOCATION-2edb4bec",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.9349091053425419,
+      "reasoning": "fuzzy_score:0.93 (token_sort_ratio:0.67; jaro_winkler:0.71; shared_fir:FIR-2023-KOL-007; shared_identifier:phone|+919123456789)",
+      "timestamp": "2026-09-04T10:10:55.422835"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-30bebe69",
+      "entity_id_2": "ENT-LOCATION-da92ee4d",
+      "merged_entity_id": "ENT-LOCATION-30bebe69",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.9494831922463502,
+      "reasoning": "fuzzy_score:0.95 (token_sort_ratio:0.69; jaro_winkler:0.72; shared_fir:FIR-2023-MUM-008; shared_identifier:phone|+919988776655)",
+      "timestamp": "2026-09-04T10:10:55.422919"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-30bebe69",
+      "entity_id_2": "ENT-LOCATION-5256a368",
+      "merged_entity_id": "ENT-LOCATION-30bebe69",
+      "merge_type": "fuzzy_match",
+      "confidence": 1.0,
+      "reasoning": "fuzzy_score:1.00 (token_sort_ratio:0.86; jaro_winkler:0.87; shared_fir:FIR-2024-ENG-009; shared_identifier:phone|+919988776655)",
+      "timestamp": "2026-09-04T10:10:55.422934"
+    },
+    {
+      "entity_id_1": "ENT-LOCATION-30bebe69",
+      "entity_id_2": "ENT-LOCATION-db447c4f",
+      "merged_entity_id": "ENT-LOCATION-30bebe69",
+      "merge_type": "fuzzy_match",
+      "confidence": 0.8476306357291077,
+      "reasoning": "fuzzy_score:0.85 (token_sort_ratio:0.52; jaro_winkler:0.72; shared_fir:FIR-2024-ENG-011; shared_identifier:phone|+919988776655)",
+      "timestamp": "2026-09-04T10:10:55.422957"
+    }
+  ],
+  "summary": {
+    "total_entities": 61,
+    "total_candidate_merges": 23,
+    "total_merges_performed": 51
+  }
+}

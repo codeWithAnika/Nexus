@@ -1,0 +1,24 @@
+{
+  "summary": {
+    "num_nodes": 48,
+    "num_edges": 83,
+    "num_communities": 5,
+    "num_pattern_matches": 10
+  },
+  "patterns": [
+    {
+      "pattern_type": "repeated_identifier",
+      "triggering_metric_values": {
+        "linked_person_count": 3,
+        "degree_threshold": 2
+      }
+    },
+    {
+      "pattern_type": "cross_fir_appearance",
+      "triggering_metric_values": {
+        "fir_count": 3,
+        "cross_fir_threshold": 2
+      }
+    }
+  ]
+}
