@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "total_entities_evaluated": 48,
+    "min_alert_tier": "MEDIUM"
+  },
+  "entity_alerts": [
+    {
+      "alert_type": "entity",
+      "risk_tier": "HIGH",
+      "reasons": [
+        "Shares an identifier with other entities",
+        "Appears across 3 separate FIRs"
+      ]
+    }
+  ]
+}

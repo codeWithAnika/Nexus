@@ -1,0 +1,14 @@
+dataset/
+*.zip
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+storage/evidence/*
+!storage/evidence/.gitkeep
+
+# Teammate working directories (excluded: contain duplicate raw datasets, local credentials, and pycache)
+aayush work/
+aayushman work/

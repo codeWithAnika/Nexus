@@ -1,0 +1,3635 @@
+{
+  "summary": {
+    "num_nodes": 61,
+    "num_edges": 133,
+    "is_directed": true,
+    "is_multigraph": true
+  },
+  "nodes": [
+    {
+      "id": "ENT-CASEREF-e7d9dae9",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-DEL-001",
+      "display_value": "FIR-2023-DEL-001",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-ef5e9df6",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-DEL-002",
+      "display_value": "FIR-2023-DEL-002",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-1d1c2b74",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-MUM-003",
+      "display_value": "FIR-2023-MUM-003",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-c8d75dc0",
+      "type": "CaseRef",
+      "canonical_value": "CASE REF FIR-2023-DEL-001",
+      "display_value": "CASE REF FIR-2023-DEL-001",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-03bcf6f5",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-BLR-004",
+      "display_value": "FIR-2023-BLR-004",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-0fbc28ea",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-HYD-005",
+      "display_value": "FIR-2023-HYD-005",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-7e460019",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-DEL-006",
+      "display_value": "FIR-2023-DEL-006",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-08272218",
+      "type": "CaseRef",
+      "canonical_value": "CASE INVOLVING",
+      "display_value": "CASE INVOLVING",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-c04c95c2",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-KOL-007",
+      "display_value": "FIR-2023-KOL-007",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-7b8de14b",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2023-MUM-008",
+      "display_value": "FIR-2023-MUM-008",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-e01102a1",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2024-ENG-009",
+      "display_value": "FIR-2024-ENG-009",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-b2c55db5",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2024-ENG-010",
+      "display_value": "FIR-2024-ENG-010",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-0aafeef0",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2024-ENG-011",
+      "display_value": "FIR-2024-ENG-011",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-4a5ec2b1",
+      "type": "CaseRef",
+      "canonical_value": "FIR-2024-ENG-012",
+      "display_value": "FIR-2024-ENG-012",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-CASEREF-3ae11d27",
+      "type": "CaseRef",
+      "canonical_value": "CRIME HUB",
+      "display_value": "CRIME HUB",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-75e1d44c",
+      "type": "Person",
+      "canonical_value": "rajesh verma",
+      "display_value": "Ramesh Sharma",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001",
+        "FIR-2023-DEL-006"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 3
+    },
+    {
+      "id": "ENT-PERSON-85a208c9",
+      "type": "Person",
+      "canonical_value": "sunita sharma",
+      "display_value": "Sunita Sharma",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-c4b00bc0",
+      "type": "Person",
+      "canonical_value": "ramesh kumar sharma",
+      "display_value": "Ramesh Kumar Sharma",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002",
+        "FIR-2023-BLR-004"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 2
+    },
+    {
+      "id": "ENT-PERSON-4746a8a4",
+      "type": "Person",
+      "canonical_value": "vikram malhotra",
+      "display_value": "Vikram Malhotra",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-5390ff1c",
+      "type": "Person",
+      "canonical_value": "amitabh bachchan singh",
+      "display_value": "Amitabh Bachchan Singh",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003",
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012",
+        "FIR-2023-MUM-008"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 6
+    },
+    {
+      "id": "ENT-PERSON-697e4e72",
+      "type": "Person",
+      "canonical_value": "pankaj tripathi",
+      "display_value": "Pankaj Tripathi",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-3664f451",
+      "type": "Person",
+      "canonical_value": "ananya roy",
+      "display_value": "Ananya Roy",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-0cd43b71",
+      "type": "Person",
+      "canonical_value": "suresh reddy",
+      "display_value": "Suresh Reddy",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-c6d1cf7b",
+      "type": "Person",
+      "canonical_value": "unknown hacker",
+      "display_value": "Unknown Hacker",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-a87d98e3",
+      "type": "Person",
+      "canonical_value": "priya nair",
+      "display_value": "Priya Nair",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-04664906",
+      "type": "Person",
+      "canonical_value": "joydeep das",
+      "display_value": "Joydeep Das",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-2b48100c",
+      "type": "Person",
+      "canonical_value": "siddharth mukherjee",
+      "display_value": "Siddharth Mukherjee",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-4faf998d",
+      "type": "Person",
+      "canonical_value": "rohan mehta",
+      "display_value": "Rohan Mehta",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PERSON-951d3774",
+      "type": "Person",
+      "canonical_value": "spoke victim one",
+      "display_value": "Spoke Suspect Gamma",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 7
+    },
+    {
+      "id": "ENT-PERSON-21b6bfd3",
+      "type": "Person",
+      "canonical_value": "spoke suspect alpha",
+      "display_value": "Spoke Suspect Alpha",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-LOCATION-fbf844ea",
+      "type": "Location",
+      "canonical_value": "flat 402 green park apartment mg road new delhi",
+      "display_value": "Flat 402, Green Park Apartment, Mg Road, New Delhi",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-LOCATION-ccdaf214",
+      "type": "Location",
+      "canonical_value": "plot no 12 sector 4 dwarka delhi",
+      "display_value": "Plot 12, Sector 4, Dwarka, New Delhi",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001",
+        "FIR-2023-DEL-002",
+        "FIR-2023-BLR-004",
+        "FIR-2023-DEL-006"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 4
+    },
+    {
+      "id": "ENT-LOCATION-5a7f18a9",
+      "type": "Location",
+      "canonical_value": "house no 55 street 3 lajpat nagar new delhi",
+      "display_value": "House No 55, Street 3, Lajpat Nagar, New Delhi",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-LOCATION-513764ac",
+      "type": "Location",
+      "canonical_value": "near police station bandra sv road mumbai",
+      "display_value": "Near Police Station Bandra, Sv Road, Mumbai",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-LOCATION-7561feac",
+      "type": "Location",
+      "canonical_value": "indiranagar 100ft road bengaluru",
+      "display_value": "Indiranagar 100Ft Road, Bengaluru",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-LOCATION-4204c116",
+      "type": "Location",
+      "canonical_value": "banjara hills road no 12 hyderabad",
+      "display_value": "Banjara Hills Road No 12, Hyderabad",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-LOCATION-ede1d7f8",
+      "type": "Location",
+      "canonical_value": "connaught place new delhi",
+      "display_value": "Connaught Place, New Delhi",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-LOCATION-b214218a",
+      "type": "Location",
+      "canonical_value": "salt lake sector 5 kolkata",
+      "display_value": "Salt Lake Sector 5, Kolkata",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 2
+    },
+    {
+      "id": "ENT-LOCATION-426d133d",
+      "type": "Location",
+      "canonical_value": "andheri west mumbai",
+      "display_value": "Andheri West, Mumbai",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008",
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 8
+    },
+    {
+      "id": "ENT-LOCATION-0d73dae2",
+      "type": "Location",
+      "canonical_value": "juhu mumbai",
+      "display_value": "Juhu, Mumbai",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-LOCATION-9fd0984a",
+      "type": "Location",
+      "canonical_value": "colaba mumbai",
+      "display_value": "Colaba, Mumbai",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "confidence": 0.9,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-PHONE-e26d3ca4",
+      "type": "Phone",
+      "canonical_value": "+919876543210",
+      "display_value": "+919876543210",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001",
+        "FIR-2023-DEL-002",
+        "FIR-2023-BLR-004",
+        "FIR-2023-DEL-006"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 7
+    },
+    {
+      "id": "ENT-PHONE-b66c2bfc",
+      "type": "Phone",
+      "canonical_value": "+919988776655",
+      "display_value": "+919988776655",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003",
+        "FIR-2023-MUM-008",
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 12
+    },
+    {
+      "id": "ENT-PHONE-4c39c0e4",
+      "type": "Phone",
+      "canonical_value": "+919123456789",
+      "display_value": "+919123456789",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 2
+    },
+    {
+      "id": "ENT-TRANSACTION-36d30151",
+      "type": "Transaction",
+      "canonical_value": "500000.00",
+      "display_value": "\u20b95,00,000",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001",
+        "FIR-2023-DEL-002"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 4
+    },
+    {
+      "id": "ENT-TRANSACTION-fa15e29c",
+      "type": "Transaction",
+      "canonical_value": "250000.00",
+      "display_value": "\u20b92,50,000",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 2
+    },
+    {
+      "id": "ENT-TRANSACTION-5ccb12a8",
+      "type": "Transaction",
+      "canonical_value": "25000000.00",
+      "display_value": "\u20b92,50,00,000",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 2
+    },
+    {
+      "id": "ENT-TRANSACTION-8c28e429",
+      "type": "Transaction",
+      "canonical_value": "50000.00",
+      "display_value": "\u20b950,000",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 2
+    },
+    {
+      "id": "ENT-TRANSACTION-328fad5b",
+      "type": "Transaction",
+      "canonical_value": "12000000.00",
+      "display_value": "\u20b91,20,00,000",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 2
+    },
+    {
+      "id": "ENT-TRANSACTION-19a33c9f",
+      "type": "Transaction",
+      "canonical_value": "10000.00",
+      "display_value": "\u20b910,000",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-TRANSACTION-9a84263b",
+      "type": "Transaction",
+      "canonical_value": "1000000.00",
+      "display_value": "\u20b910,00,000",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-TRANSACTION-1122a65d",
+      "type": "Transaction",
+      "canonical_value": "1500000.00",
+      "display_value": "\u20b915,00,000",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 2
+    },
+    {
+      "id": "ENT-TRANSACTION-1763bbf3",
+      "type": "Transaction",
+      "canonical_value": "2000000.00",
+      "display_value": "\u20b920,00,000",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-TRANSACTION-e807abb3",
+      "type": "Transaction",
+      "canonical_value": "5000000.00",
+      "display_value": "\u20b950,00,000",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "confidence": 1.0,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-EMAIL-39b13fff",
+      "type": "Email",
+      "canonical_value": "suspect.sharma@cybercrime.org",
+      "display_value": "suspect.sharma@cybercrime.org",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-EMAIL-649b4c36",
+      "type": "Email",
+      "canonical_value": "attacker@phish-domain.com",
+      "display_value": "attacker@phish-domain.com",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-EMAIL-18333910",
+      "type": "Email",
+      "canonical_value": "siddharth.m@corp-fake.in",
+      "display_value": "siddharth.m@corp-fake.in",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-EVENT-35f88733",
+      "type": "Event",
+      "canonical_value": "2023-08-20",
+      "display_value": "2023-08-20",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "confidence": 0.85,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-EVENT-71805883",
+      "type": "Event",
+      "canonical_value": "0.0.45",
+      "display_value": "0.0.45",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "confidence": 0.85,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-IP-d49141d9",
+      "type": "IP",
+      "canonical_value": "192.168.1.100",
+      "display_value": "192.168.1.100",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    },
+    {
+      "id": "ENT-IP-4f5e21d0",
+      "type": "IP",
+      "canonical_value": "10.0.0.45",
+      "display_value": "10.0.0.45",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "confidence": 0.95,
+      "raw_mentions_count": 1
+    }
+  ],
+  "edges": [
+    {
+      "id": "REL-6de1b387",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001"
+      ],
+      "evidence": "structured_fields: complainant_name,accused_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-LOCATION-fbf844ea"
+    },
+    {
+      "id": "REL-a16c728b",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-001",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-LOCATION-fbf844ea"
+    },
+    {
+      "id": "REL-6871815d",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001"
+      ],
+      "evidence": "structured_fields: complainant_name,accused_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-75d7a634",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "structured_fields: accused_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-e5dd6514",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-001",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-5fbfcd0c",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-006",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-65aecf1a",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-DEL-001",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-PHONE-e26d3ca4"
+    },
+    {
+      "id": "REL-fdd6463f",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-DEL-006",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-PHONE-e26d3ca4"
+    },
+    {
+      "id": "REL-2be00cea",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-DEL-001",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-TRANSACTION-36d30151"
+    },
+    {
+      "id": "REL-0dc9c4b7",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "structured_fields: accused_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-LOCATION-ede1d7f8"
+    },
+    {
+      "id": "REL-1666285c",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-006",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-LOCATION-ede1d7f8"
+    },
+    {
+      "id": "REL-3fc88aa8",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-006",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-75e1d44c",
+      "target": "ENT-PERSON-a87d98e3"
+    },
+    {
+      "id": "REL-0df7aeef",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "structured_fields: complainant_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-85a208c9",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-92adaea3",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-002",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-85a208c9",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-a5d3d760",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "structured_fields: complainant_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-85a208c9",
+      "target": "ENT-LOCATION-5a7f18a9"
+    },
+    {
+      "id": "REL-fe9cabe8",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-002",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-85a208c9",
+      "target": "ENT-LOCATION-5a7f18a9"
+    },
+    {
+      "id": "REL-cdcb7564",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-DEL-002",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-85a208c9",
+      "target": "ENT-PHONE-e26d3ca4"
+    },
+    {
+      "id": "REL-2285bf1b",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-DEL-002",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-85a208c9",
+      "target": "ENT-TRANSACTION-36d30151"
+    },
+    {
+      "id": "REL-f309801b",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-002",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-85a208c9",
+      "target": "ENT-PERSON-c4b00bc0"
+    },
+    {
+      "id": "REL-8ef1069f",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "structured_fields: accused_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-8f204b4e",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "structured_fields: accused_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-96245eba",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-002",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-12fbfc32",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-BLR-004",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-18148682",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "structured_fields: accused_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-LOCATION-5a7f18a9"
+    },
+    {
+      "id": "REL-3492600c",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-002",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-LOCATION-5a7f18a9"
+    },
+    {
+      "id": "REL-9e82f970",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-DEL-002",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-PHONE-e26d3ca4"
+    },
+    {
+      "id": "REL-5e23e635",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-BLR-004",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-PHONE-e26d3ca4"
+    },
+    {
+      "id": "REL-e6376b26",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-DEL-002",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-TRANSACTION-36d30151"
+    },
+    {
+      "id": "REL-2bffe6b7",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "structured_fields: accused_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-LOCATION-7561feac"
+    },
+    {
+      "id": "REL-db36cb50",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-BLR-004",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-LOCATION-7561feac"
+    },
+    {
+      "id": "REL-df514f35",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-BLR-004",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-TRANSACTION-5ccb12a8"
+    },
+    {
+      "id": "REL-e3fac9f3",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-BLR-004",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-c4b00bc0",
+      "target": "ENT-PERSON-3664f451"
+    },
+    {
+      "id": "REL-420bb075",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "structured_fields: complainant_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-4746a8a4",
+      "target": "ENT-LOCATION-513764ac"
+    },
+    {
+      "id": "REL-373c5138",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-MUM-003",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-4746a8a4",
+      "target": "ENT-LOCATION-513764ac"
+    },
+    {
+      "id": "REL-62f2394e",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-MUM-003",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-4746a8a4",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-da279a5f",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-MUM-003",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-4746a8a4",
+      "target": "ENT-TRANSACTION-fa15e29c"
+    },
+    {
+      "id": "REL-89fc79dd",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-MUM-003",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-4746a8a4",
+      "target": "ENT-PERSON-5390ff1c"
+    },
+    {
+      "id": "REL-27af7df6",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-MUM-003",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-4746a8a4",
+      "target": "ENT-PERSON-697e4e72"
+    },
+    {
+      "id": "REL-f2dde101",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "structured_fields: accused_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-513764ac"
+    },
+    {
+      "id": "REL-fdf0498c",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-MUM-003",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-513764ac"
+    },
+    {
+      "id": "REL-5c97a84b",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-MUM-003",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-5f8598cc",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-MUM-008",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-6688d80a",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2024-ENG-009",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-3eb532a2",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2024-ENG-010",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-39ac3d55",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2024-ENG-011",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-35544263",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2024-ENG-012",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-ed64326e",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-MUM-003",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-TRANSACTION-fa15e29c"
+    },
+    {
+      "id": "REL-9c1dce7c",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "evidence": "structured_fields: accused_name & complainant_address,accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-d073c8a2",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "structured_fields: accused_name & accused_address,complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-438cad1d",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "structured_fields: accused_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-8e292080",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "evidence": "structured_fields: accused_name & accused_address,complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-840a78f4",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "structured_fields: accused_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-9f2373d8",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-MUM-008",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-77fb1da3",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-009",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-56ce91e1",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-010",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-0ab3de1c",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-011",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-4f252a14",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-012",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-198b1128",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-MUM-008",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-TRANSACTION-19a33c9f"
+    },
+    {
+      "id": "REL-ed4d75ab",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2024-ENG-009",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-TRANSACTION-9a84263b"
+    },
+    {
+      "id": "REL-18231d67",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "structured_fields: accused_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-0d73dae2"
+    },
+    {
+      "id": "REL-12cd7384",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-010",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-0d73dae2"
+    },
+    {
+      "id": "REL-cee42eec",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2024-ENG-010",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-TRANSACTION-1122a65d"
+    },
+    {
+      "id": "REL-fbde9db6",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2024-ENG-011",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-TRANSACTION-1763bbf3"
+    },
+    {
+      "id": "REL-6957b261",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "structured_fields: accused_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-9fd0984a"
+    },
+    {
+      "id": "REL-1af8754e",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-012",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-LOCATION-9fd0984a"
+    },
+    {
+      "id": "REL-62abce48",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2024-ENG-012",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-TRANSACTION-e807abb3"
+    },
+    {
+      "id": "REL-6e464fb8",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-MUM-003",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PERSON-697e4e72"
+    },
+    {
+      "id": "REL-29ee4996",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-MUM-008",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PERSON-4faf998d"
+    },
+    {
+      "id": "REL-3aeb6e85",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-009",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PERSON-951d3774"
+    },
+    {
+      "id": "REL-04870859",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-010",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PERSON-951d3774"
+    },
+    {
+      "id": "REL-50ab05f4",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-011",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PERSON-951d3774"
+    },
+    {
+      "id": "REL-58357bc9",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-012",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PERSON-951d3774"
+    },
+    {
+      "id": "REL-c496e0d3",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-009",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-5390ff1c",
+      "target": "ENT-PERSON-21b6bfd3"
+    },
+    {
+      "id": "REL-056b561a",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "structured_fields: accused_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-697e4e72",
+      "target": "ENT-LOCATION-513764ac"
+    },
+    {
+      "id": "REL-e3e2ea5d",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-MUM-003",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-697e4e72",
+      "target": "ENT-LOCATION-513764ac"
+    },
+    {
+      "id": "REL-283b1a7a",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-MUM-003",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-697e4e72",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-daa8b188",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-MUM-003",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-697e4e72",
+      "target": "ENT-TRANSACTION-fa15e29c"
+    },
+    {
+      "id": "REL-6ae50701",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "structured_fields: complainant_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-3664f451",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-783f7a5f",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-BLR-004",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-3664f451",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-281255d9",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "structured_fields: complainant_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-3664f451",
+      "target": "ENT-LOCATION-7561feac"
+    },
+    {
+      "id": "REL-676dde67",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-BLR-004",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-3664f451",
+      "target": "ENT-LOCATION-7561feac"
+    },
+    {
+      "id": "REL-79540a4d",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-BLR-004",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-3664f451",
+      "target": "ENT-PHONE-e26d3ca4"
+    },
+    {
+      "id": "REL-2d9a3050",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-BLR-004"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-BLR-004",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-3664f451",
+      "target": "ENT-TRANSACTION-5ccb12a8"
+    },
+    {
+      "id": "REL-6bd76fa1",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "evidence": "structured_fields: complainant_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-0cd43b71",
+      "target": "ENT-LOCATION-4204c116"
+    },
+    {
+      "id": "REL-c8444d9e",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-HYD-005",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-0cd43b71",
+      "target": "ENT-LOCATION-4204c116"
+    },
+    {
+      "id": "REL-94dd445a",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-HYD-005",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-0cd43b71",
+      "target": "ENT-TRANSACTION-8c28e429"
+    },
+    {
+      "id": "REL-bf35c1ad",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-HYD-005",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-0cd43b71",
+      "target": "ENT-PERSON-c6d1cf7b"
+    },
+    {
+      "id": "REL-ca2ae586",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "evidence": "structured_fields: accused_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-c6d1cf7b",
+      "target": "ENT-LOCATION-4204c116"
+    },
+    {
+      "id": "REL-3ebd026b",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-HYD-005",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-c6d1cf7b",
+      "target": "ENT-LOCATION-4204c116"
+    },
+    {
+      "id": "REL-f527a197",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-HYD-005",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-c6d1cf7b",
+      "target": "ENT-TRANSACTION-8c28e429"
+    },
+    {
+      "id": "REL-4d13d9a4",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "structured_fields: complainant_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-a87d98e3",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-78eeb0ee",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-006",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-a87d98e3",
+      "target": "ENT-LOCATION-ccdaf214"
+    },
+    {
+      "id": "REL-678e8a8c",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "structured_fields: complainant_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-a87d98e3",
+      "target": "ENT-LOCATION-ede1d7f8"
+    },
+    {
+      "id": "REL-b788a589",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-DEL-006",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-a87d98e3",
+      "target": "ENT-LOCATION-ede1d7f8"
+    },
+    {
+      "id": "REL-df703825",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-DEL-006"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-DEL-006",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-a87d98e3",
+      "target": "ENT-PHONE-e26d3ca4"
+    },
+    {
+      "id": "REL-948783e1",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "evidence": "structured_fields: complainant_name & complainant_address,accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-04664906",
+      "target": "ENT-LOCATION-b214218a"
+    },
+    {
+      "id": "REL-e593f8ec",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-KOL-007",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-04664906",
+      "target": "ENT-LOCATION-b214218a"
+    },
+    {
+      "id": "REL-f354ef14",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-KOL-007",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-04664906",
+      "target": "ENT-PHONE-4c39c0e4"
+    },
+    {
+      "id": "REL-b12f6cbf",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-KOL-007",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-04664906",
+      "target": "ENT-TRANSACTION-328fad5b"
+    },
+    {
+      "id": "REL-63f85b8e",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-KOL-007",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-04664906",
+      "target": "ENT-PERSON-2b48100c"
+    },
+    {
+      "id": "REL-ced2947f",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "evidence": "structured_fields: accused_name & complainant_address,accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-2b48100c",
+      "target": "ENT-LOCATION-b214218a"
+    },
+    {
+      "id": "REL-01be21d2",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-KOL-007",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-2b48100c",
+      "target": "ENT-LOCATION-b214218a"
+    },
+    {
+      "id": "REL-e30b7668",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-KOL-007",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-2b48100c",
+      "target": "ENT-PHONE-4c39c0e4"
+    },
+    {
+      "id": "REL-ea9850be",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-KOL-007",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-2b48100c",
+      "target": "ENT-TRANSACTION-328fad5b"
+    },
+    {
+      "id": "REL-6a645e58",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "evidence": "structured_fields: complainant_name & complainant_address,accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-4faf998d",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-3ce6bf89",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2023-MUM-008",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-4faf998d",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-563c1aab",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2023-MUM-008",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-4faf998d",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-8bf705b2",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2023-MUM-008"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2023-MUM-008",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-4faf998d",
+      "target": "ENT-TRANSACTION-19a33c9f"
+    },
+    {
+      "id": "REL-1a02dd5e",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "structured_fields: complainant_name & accused_address,complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-722c3752",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "structured_fields: complainant_name,accused_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-a418dcd6",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "evidence": "structured_fields: complainant_name,accused_name & accused_address,complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-fb92a5b8",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "structured_fields: complainant_name,accused_name & accused_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-5960363a",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-009",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-1be1c059",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-010",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-ea31b2a1",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-011",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-70a748cf",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-012",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-f248c7e1",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2024-ENG-009",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-b95cce82",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2024-ENG-010",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-c38b17dd",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2024-ENG-011",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-5b4b4b78",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2024-ENG-012",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-102d6124",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2024-ENG-009",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-TRANSACTION-9a84263b"
+    },
+    {
+      "id": "REL-50880009",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "structured_fields: complainant_name,accused_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-0d73dae2"
+    },
+    {
+      "id": "REL-2f2ba3c9",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-010",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-0d73dae2"
+    },
+    {
+      "id": "REL-22076428",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-010"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2024-ENG-010",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-TRANSACTION-1122a65d"
+    },
+    {
+      "id": "REL-575e2c7d",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-011"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2024-ENG-011",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-TRANSACTION-1763bbf3"
+    },
+    {
+      "id": "REL-7e8abd9c",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "structured_fields: complainant_name,accused_name & complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-9fd0984a"
+    },
+    {
+      "id": "REL-68c2f725",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-012",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-LOCATION-9fd0984a"
+    },
+    {
+      "id": "REL-84864600",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-012"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2024-ENG-012",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-TRANSACTION-e807abb3"
+    },
+    {
+      "id": "REL-2a62294e",
+      "relation_type": "connected_to",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-009",
+      "weight": 0.451,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.902,
+        "computed_weight": 0.451
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-951d3774",
+      "target": "ENT-PERSON-21b6bfd3"
+    },
+    {
+      "id": "REL-f1d9306d",
+      "relation_type": "visited",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "structured_fields: accused_name & accused_address,complainant_address",
+      "weight": 0.855,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.855
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-21b6bfd3",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-5bc10815",
+      "relation_type": "associated_with",
+      "source_type": "co_occurrence",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "co_occurrence in source FIR FIR-2024-ENG-009",
+      "weight": 0.427,
+      "weight_components": {
+        "base_weight": 0.5,
+        "fir_support_count": 1,
+        "source_types": [
+          "co_occurrence"
+        ],
+        "entity_confidence_product": 0.855,
+        "computed_weight": 0.427
+      },
+      "confidence": 0.8,
+      "source": "ENT-PERSON-21b6bfd3",
+      "target": "ENT-LOCATION-426d133d"
+    },
+    {
+      "id": "REL-9f09e265",
+      "relation_type": "uses",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "structured_field: phone_numbers_mentioned in FIR-2024-ENG-009",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-21b6bfd3",
+      "target": "ENT-PHONE-b66c2bfc"
+    },
+    {
+      "id": "REL-a2da6bbf",
+      "relation_type": "transaction",
+      "source_type": "structured_field",
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009"
+      ],
+      "evidence": "structured_field: amounts_mentioned in FIR-2024-ENG-009",
+      "weight": 0.95,
+      "weight_components": {
+        "base_weight": 1.0,
+        "fir_support_count": 1,
+        "source_types": [
+          "structured_field"
+        ],
+        "entity_confidence_product": 0.95,
+        "computed_weight": 0.95
+      },
+      "confidence": 1.0,
+      "source": "ENT-PERSON-21b6bfd3",
+      "target": "ENT-TRANSACTION-9a84263b"
+    }
+  ]
+}

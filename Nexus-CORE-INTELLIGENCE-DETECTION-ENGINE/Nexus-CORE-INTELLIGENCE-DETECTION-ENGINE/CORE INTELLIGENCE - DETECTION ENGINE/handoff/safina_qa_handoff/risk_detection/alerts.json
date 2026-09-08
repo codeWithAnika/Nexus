@@ -1,0 +1,1379 @@
+{
+  "summary": {
+    "total_entities_evaluated": 61,
+    "total_entity_alerts": 8,
+    "total_cluster_alerts": 3,
+    "tier_counts": {
+      "HIGH": 1,
+      "MEDIUM": 7,
+      "LOW": 53
+    },
+    "min_alert_tier": "MEDIUM"
+  },
+  "entity_alerts": [
+    {
+      "alert_id": "ALT-ENT-7130cda8",
+      "target_id": "ENT-PERSON-5390ff1c",
+      "alert_type": "entity",
+      "risk_score": 71.5,
+      "risk_tier": "HIGH",
+      "reasons": [
+        "Appears across 6 separate FIRs",
+        "Shares an identifier with other entities",
+        "Connected to multiple suspicious/high-risk entities (High PageRank influence)",
+        "Acts as a key broker connecting distinct criminal clusters"
+      ],
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 6,
+          "points_contributed": 25.0,
+          "description": "Appears across 6 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.0857,
+          "points_contributed": 17.1,
+          "description": "High network PageRank influence score (0.0857)"
+        },
+        {
+          "factor_name": "betweenness_brokerage",
+          "raw_value": 0.0439,
+          "points_contributed": 4.4,
+          "description": "Acts as a key network broker between clusters (Betweenness 0.0439)"
+        }
+      ],
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003",
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012",
+        "FIR-2023-MUM-008"
+      ],
+      "generated_at": "2026-09-04T10:20:35.238344"
+    },
+    {
+      "alert_id": "ALT-ENT-7ec1ff02",
+      "target_id": "ENT-PERSON-951d3774",
+      "alert_type": "entity",
+      "risk_score": 61.9,
+      "risk_tier": "MEDIUM",
+      "reasons": [
+        "Appears across 4 separate FIRs",
+        "Shares an identifier with other entities",
+        "Connected to multiple suspicious/high-risk entities (High PageRank influence)"
+      ],
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 4,
+          "points_contributed": 25.0,
+          "description": "Appears across 4 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.059298,
+          "points_contributed": 11.9,
+          "description": "High network PageRank influence score (0.0593)"
+        }
+      ],
+      "source_FIR_ids": [
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012"
+      ],
+      "generated_at": "2026-09-04T10:20:35.238613"
+    },
+    {
+      "alert_id": "ALT-ENT-7821eb1a",
+      "target_id": "ENT-PHONE-b66c2bfc",
+      "alert_type": "entity",
+      "risk_score": 58.9,
+      "risk_tier": "MEDIUM",
+      "reasons": [
+        "Appears across 6 separate FIRs",
+        "Shares an identifier with other entities",
+        "Connected to multiple suspicious/high-risk entities (High PageRank influence)"
+      ],
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 6,
+          "points_contributed": 25.0,
+          "description": "Appears across 6 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.044385,
+          "points_contributed": 8.9,
+          "description": "High network PageRank influence score (0.0444)"
+        }
+      ],
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003",
+        "FIR-2023-MUM-008",
+        "FIR-2024-ENG-009",
+        "FIR-2024-ENG-010",
+        "FIR-2024-ENG-011",
+        "FIR-2024-ENG-012"
+      ],
+      "generated_at": "2026-09-04T10:20:35.238947"
+    },
+    {
+      "alert_id": "ALT-ENT-cf488aeb",
+      "target_id": "ENT-PHONE-e26d3ca4",
+      "alert_type": "entity",
+      "risk_score": 56.2,
+      "risk_tier": "MEDIUM",
+      "reasons": [
+        "Appears across 4 separate FIRs",
+        "Shares an identifier with other entities",
+        "Connected to multiple suspicious/high-risk entities (High PageRank influence)"
+      ],
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 4,
+          "points_contributed": 25.0,
+          "description": "Appears across 4 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.031239,
+          "points_contributed": 6.2,
+          "description": "High network PageRank influence score (0.0312)"
+        }
+      ],
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001",
+        "FIR-2023-DEL-002",
+        "FIR-2023-BLR-004",
+        "FIR-2023-DEL-006"
+      ],
+      "generated_at": "2026-09-04T10:20:35.238901"
+    },
+    {
+      "alert_id": "ALT-ENT-d7e1382a",
+      "target_id": "ENT-PERSON-c4b00bc0",
+      "alert_type": "entity",
+      "risk_score": 46.7,
+      "risk_tier": "MEDIUM",
+      "reasons": [
+        "Appears across 2 separate FIRs",
+        "Shares an identifier with other entities",
+        "Connected to multiple suspicious/high-risk entities (High PageRank influence)"
+      ],
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 2,
+          "points_contributed": 12.5,
+          "description": "Appears across 2 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.04614,
+          "points_contributed": 9.2,
+          "description": "High network PageRank influence score (0.0461)"
+        }
+      ],
+      "source_FIR_ids": [
+        "FIR-2023-DEL-002",
+        "FIR-2023-BLR-004"
+      ],
+      "generated_at": "2026-09-04T10:20:35.238255"
+    },
+    {
+      "alert_id": "ALT-ENT-c9fe8e6d",
+      "target_id": "ENT-PERSON-75e1d44c",
+      "alert_type": "entity",
+      "risk_score": 45.7,
+      "risk_tier": "MEDIUM",
+      "reasons": [
+        "Appears across 2 separate FIRs",
+        "Shares an identifier with other entities",
+        "Connected to multiple suspicious/high-risk entities (High PageRank influence)"
+      ],
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 2,
+          "points_contributed": 12.5,
+          "description": "Appears across 2 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.041019,
+          "points_contributed": 8.2,
+          "description": "High network PageRank influence score (0.0410)"
+        }
+      ],
+      "source_FIR_ids": [
+        "FIR-2023-DEL-001",
+        "FIR-2023-DEL-006"
+      ],
+      "generated_at": "2026-09-04T10:20:35.238164"
+    },
+    {
+      "alert_id": "ALT-ENT-85709596",
+      "target_id": "ENT-PERSON-04664906",
+      "alert_type": "entity",
+      "risk_score": 41.2,
+      "risk_tier": "MEDIUM",
+      "reasons": [
+        "Shares an identifier with other entities",
+        "Connected to multiple suspicious/high-risk entities (High PageRank influence)",
+        "Located in a high-density network cluster"
+      ],
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.03083,
+          "points_contributed": 6.2,
+          "description": "High network PageRank influence score (0.0308)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 19,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 19)"
+        }
+      ],
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "generated_at": "2026-09-04T10:20:35.238500"
+    },
+    {
+      "alert_id": "ALT-ENT-5c1fca07",
+      "target_id": "ENT-PERSON-2b48100c",
+      "alert_type": "entity",
+      "risk_score": 41.2,
+      "risk_tier": "MEDIUM",
+      "reasons": [
+        "Shares an identifier with other entities",
+        "Connected to multiple suspicious/high-risk entities (High PageRank influence)",
+        "Located in a high-density network cluster"
+      ],
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.03083,
+          "points_contributed": 6.2,
+          "description": "High network PageRank influence score (0.0308)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 19,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 19)"
+        }
+      ],
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "generated_at": "2026-09-04T10:20:35.238540"
+    }
+  ],
+  "cluster_alerts": [
+    {
+      "alert_id": "ALT-CLS-72b9f11b",
+      "target_id": "COMMUNITY-19",
+      "alert_type": "cluster",
+      "risk_score": 41.2,
+      "risk_tier": "MEDIUM",
+      "reasons": [
+        "Tightly knit community of 5 entities with 0.70 edge density",
+        "Contains 2 elevated risk entities (Joydeep Das, Siddharth Mukherjee)"
+      ],
+      "contributing_factors": [],
+      "source_FIR_ids": [
+        "FIR-2023-KOL-007"
+      ],
+      "generated_at": "2026-09-04T10:20:35.239684"
+    },
+    {
+      "alert_id": "ALT-CLS-964305c9",
+      "target_id": "COMMUNITY-17",
+      "alert_type": "cluster",
+      "risk_score": 38.5,
+      "risk_tier": "MEDIUM",
+      "reasons": [
+        "Tightly knit community of 4 entities with 0.83 edge density"
+      ],
+      "contributing_factors": [],
+      "source_FIR_ids": [
+        "FIR-2023-MUM-003"
+      ],
+      "generated_at": "2026-09-04T10:20:35.239573"
+    },
+    {
+      "alert_id": "ALT-CLS-f9d41735",
+      "target_id": "COMMUNITY-18",
+      "alert_type": "cluster",
+      "risk_score": 15.1,
+      "risk_tier": "MEDIUM",
+      "reasons": [
+        "Tightly knit community of 4 entities with 0.83 edge density"
+      ],
+      "contributing_factors": [],
+      "source_FIR_ids": [
+        "FIR-2023-HYD-005"
+      ],
+      "generated_at": "2026-09-04T10:20:35.239635"
+    }
+  ],
+  "all_scores": {
+    "ENT-CASEREF-e7d9dae9": {
+      "entity_id": "ENT-CASEREF-e7d9dae9",
+      "display_value": "FIR-2023-DEL-001",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-ef5e9df6": {
+      "entity_id": "ENT-CASEREF-ef5e9df6",
+      "display_value": "FIR-2023-DEL-002",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-1d1c2b74": {
+      "entity_id": "ENT-CASEREF-1d1c2b74",
+      "display_value": "FIR-2023-MUM-003",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-c8d75dc0": {
+      "entity_id": "ENT-CASEREF-c8d75dc0",
+      "display_value": "CASE REF FIR-2023-DEL-001",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-03bcf6f5": {
+      "entity_id": "ENT-CASEREF-03bcf6f5",
+      "display_value": "FIR-2023-BLR-004",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-0fbc28ea": {
+      "entity_id": "ENT-CASEREF-0fbc28ea",
+      "display_value": "FIR-2023-HYD-005",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-7e460019": {
+      "entity_id": "ENT-CASEREF-7e460019",
+      "display_value": "FIR-2023-DEL-006",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-08272218": {
+      "entity_id": "ENT-CASEREF-08272218",
+      "display_value": "CASE INVOLVING",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-c04c95c2": {
+      "entity_id": "ENT-CASEREF-c04c95c2",
+      "display_value": "FIR-2023-KOL-007",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-7b8de14b": {
+      "entity_id": "ENT-CASEREF-7b8de14b",
+      "display_value": "FIR-2023-MUM-008",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-e01102a1": {
+      "entity_id": "ENT-CASEREF-e01102a1",
+      "display_value": "FIR-2024-ENG-009",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-b2c55db5": {
+      "entity_id": "ENT-CASEREF-b2c55db5",
+      "display_value": "FIR-2024-ENG-010",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-0aafeef0": {
+      "entity_id": "ENT-CASEREF-0aafeef0",
+      "display_value": "FIR-2024-ENG-011",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-4a5ec2b1": {
+      "entity_id": "ENT-CASEREF-4a5ec2b1",
+      "display_value": "FIR-2024-ENG-012",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-CASEREF-3ae11d27": {
+      "entity_id": "ENT-CASEREF-3ae11d27",
+      "display_value": "CRIME HUB",
+      "entity_type": "CaseRef",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-PERSON-75e1d44c": {
+      "entity_id": "ENT-PERSON-75e1d44c",
+      "display_value": "Ramesh Sharma",
+      "entity_type": "Person",
+      "score": 45.7,
+      "tier": "MEDIUM",
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 2,
+          "points_contributed": 12.5,
+          "description": "Appears across 2 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.041019,
+          "points_contributed": 8.2,
+          "description": "High network PageRank influence score (0.0410)"
+        }
+      ]
+    },
+    "ENT-PERSON-85a208c9": {
+      "entity_id": "ENT-PERSON-85a208c9",
+      "display_value": "Sunita Sharma",
+      "entity_type": "Person",
+      "score": 29.9,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.024419,
+          "points_contributed": 4.9,
+          "description": "High network PageRank influence score (0.0244)"
+        }
+      ]
+    },
+    "ENT-PERSON-c4b00bc0": {
+      "entity_id": "ENT-PERSON-c4b00bc0",
+      "display_value": "Ramesh Kumar Sharma",
+      "entity_type": "Person",
+      "score": 46.7,
+      "tier": "MEDIUM",
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 2,
+          "points_contributed": 12.5,
+          "description": "Appears across 2 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.04614,
+          "points_contributed": 9.2,
+          "description": "High network PageRank influence score (0.0461)"
+        }
+      ]
+    },
+    "ENT-PERSON-4746a8a4": {
+      "entity_id": "ENT-PERSON-4746a8a4",
+      "display_value": "Vikram Malhotra",
+      "entity_type": "Person",
+      "score": 38.5,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.017692,
+          "points_contributed": 3.5,
+          "description": "High network PageRank influence score (0.0177)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 17,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 17)"
+        }
+      ]
+    },
+    "ENT-PERSON-5390ff1c": {
+      "entity_id": "ENT-PERSON-5390ff1c",
+      "display_value": "Amitabh Bachchan Singh",
+      "entity_type": "Person",
+      "score": 71.5,
+      "tier": "HIGH",
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 6,
+          "points_contributed": 25.0,
+          "description": "Appears across 6 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.0857,
+          "points_contributed": 17.1,
+          "description": "High network PageRank influence score (0.0857)"
+        },
+        {
+          "factor_name": "betweenness_brokerage",
+          "raw_value": 0.0439,
+          "points_contributed": 4.4,
+          "description": "Acts as a key network broker between clusters (Betweenness 0.0439)"
+        }
+      ]
+    },
+    "ENT-PERSON-697e4e72": {
+      "entity_id": "ENT-PERSON-697e4e72",
+      "display_value": "Pankaj Tripathi",
+      "entity_type": "Person",
+      "score": 38.5,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.017692,
+          "points_contributed": 3.5,
+          "description": "High network PageRank influence score (0.0177)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 17,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 17)"
+        }
+      ]
+    },
+    "ENT-PERSON-3664f451": {
+      "entity_id": "ENT-PERSON-3664f451",
+      "display_value": "Ananya Roy",
+      "entity_type": "Person",
+      "score": 30.0,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.02501,
+          "points_contributed": 5.0,
+          "description": "High network PageRank influence score (0.0250)"
+        }
+      ]
+    },
+    "ENT-PERSON-0cd43b71": {
+      "entity_id": "ENT-PERSON-0cd43b71",
+      "display_value": "Suresh Reddy",
+      "entity_type": "Person",
+      "score": 15.1,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.025619,
+          "points_contributed": 5.1,
+          "description": "High network PageRank influence score (0.0256)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 18,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 18)"
+        }
+      ]
+    },
+    "ENT-PERSON-c6d1cf7b": {
+      "entity_id": "ENT-PERSON-c6d1cf7b",
+      "display_value": "Unknown Hacker",
+      "entity_type": "Person",
+      "score": 15.1,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.025619,
+          "points_contributed": 5.1,
+          "description": "High network PageRank influence score (0.0256)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 18,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 18)"
+        }
+      ]
+    },
+    "ENT-PERSON-a87d98e3": {
+      "entity_id": "ENT-PERSON-a87d98e3",
+      "display_value": "Priya Nair",
+      "entity_type": "Person",
+      "score": 29.1,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.020307,
+          "points_contributed": 4.1,
+          "description": "High network PageRank influence score (0.0203)"
+        }
+      ]
+    },
+    "ENT-PERSON-04664906": {
+      "entity_id": "ENT-PERSON-04664906",
+      "display_value": "Joydeep Das",
+      "entity_type": "Person",
+      "score": 41.2,
+      "tier": "MEDIUM",
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.03083,
+          "points_contributed": 6.2,
+          "description": "High network PageRank influence score (0.0308)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 19,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 19)"
+        }
+      ]
+    },
+    "ENT-PERSON-2b48100c": {
+      "entity_id": "ENT-PERSON-2b48100c",
+      "display_value": "Siddharth Mukherjee",
+      "entity_type": "Person",
+      "score": 41.2,
+      "tier": "MEDIUM",
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.03083,
+          "points_contributed": 6.2,
+          "description": "High network PageRank influence score (0.0308)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 19,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 19)"
+        }
+      ]
+    },
+    "ENT-PERSON-4faf998d": {
+      "entity_id": "ENT-PERSON-4faf998d",
+      "display_value": "Rohan Mehta",
+      "entity_type": "Person",
+      "score": 28.0,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.015162,
+          "points_contributed": 3.0,
+          "description": "High network PageRank influence score (0.0152)"
+        }
+      ]
+    },
+    "ENT-PERSON-951d3774": {
+      "entity_id": "ENT-PERSON-951d3774",
+      "display_value": "Spoke Suspect Gamma",
+      "entity_type": "Person",
+      "score": 61.9,
+      "tier": "MEDIUM",
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 4,
+          "points_contributed": 25.0,
+          "description": "Appears across 4 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.059298,
+          "points_contributed": 11.9,
+          "description": "High network PageRank influence score (0.0593)"
+        }
+      ]
+    },
+    "ENT-PERSON-21b6bfd3": {
+      "entity_id": "ENT-PERSON-21b6bfd3",
+      "display_value": "Spoke Suspect Alpha",
+      "entity_type": "Person",
+      "score": 29.3,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.015793,
+          "points_contributed": 3.2,
+          "description": "High network PageRank influence score (0.0158)"
+        },
+        {
+          "factor_name": "betweenness_brokerage",
+          "raw_value": 0.0111,
+          "points_contributed": 1.1,
+          "description": "Acts as a key network broker between clusters (Betweenness 0.0111)"
+        }
+      ]
+    },
+    "ENT-LOCATION-fbf844ea": {
+      "entity_id": "ENT-LOCATION-fbf844ea",
+      "display_value": "Flat 402, Green Park Apartment, Mg Road, New Delhi",
+      "entity_type": "Location",
+      "score": 1.8,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.008848,
+          "points_contributed": 1.8,
+          "description": "High network PageRank influence score (0.0088)"
+        }
+      ]
+    },
+    "ENT-LOCATION-ccdaf214": {
+      "entity_id": "ENT-LOCATION-ccdaf214",
+      "display_value": "Plot 12, Sector 4, Dwarka, New Delhi",
+      "entity_type": "Location",
+      "score": 33.2,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 4,
+          "points_contributed": 25.0,
+          "description": "Appears across 4 separate FIRs"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.040917,
+          "points_contributed": 8.2,
+          "description": "High network PageRank influence score (0.0409)"
+        }
+      ]
+    },
+    "ENT-LOCATION-5a7f18a9": {
+      "entity_id": "ENT-LOCATION-5a7f18a9",
+      "display_value": "House No 55, Street 3, Lajpat Nagar, New Delhi",
+      "entity_type": "Location",
+      "score": 2.8,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.014074,
+          "points_contributed": 2.8,
+          "description": "High network PageRank influence score (0.0141)"
+        }
+      ]
+    },
+    "ENT-LOCATION-513764ac": {
+      "entity_id": "ENT-LOCATION-513764ac",
+      "display_value": "Near Police Station Bandra, Sv Road, Mumbai",
+      "entity_type": "Location",
+      "score": 13.3,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.016684,
+          "points_contributed": 3.3,
+          "description": "High network PageRank influence score (0.0167)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 17,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 17)"
+        }
+      ]
+    },
+    "ENT-LOCATION-7561feac": {
+      "entity_id": "ENT-LOCATION-7561feac",
+      "display_value": "Indiranagar 100Ft Road, Bengaluru",
+      "entity_type": "Location",
+      "score": 2.8,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.014205,
+          "points_contributed": 2.8,
+          "description": "High network PageRank influence score (0.0142)"
+        }
+      ]
+    },
+    "ENT-LOCATION-4204c116": {
+      "entity_id": "ENT-LOCATION-4204c116",
+      "display_value": "Banjara Hills Road No 12, Hyderabad",
+      "entity_type": "Location",
+      "score": 14.9,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.024357,
+          "points_contributed": 4.9,
+          "description": "High network PageRank influence score (0.0244)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 18,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 18)"
+        }
+      ]
+    },
+    "ENT-LOCATION-ede1d7f8": {
+      "entity_id": "ENT-LOCATION-ede1d7f8",
+      "display_value": "Connaught Place, New Delhi",
+      "entity_type": "Location",
+      "score": 2.9,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.014429,
+          "points_contributed": 2.9,
+          "description": "High network PageRank influence score (0.0144)"
+        }
+      ]
+    },
+    "ENT-LOCATION-b214218a": {
+      "entity_id": "ENT-LOCATION-b214218a",
+      "display_value": "Salt Lake Sector 5, Kolkata",
+      "entity_type": "Location",
+      "score": 14.4,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.02204,
+          "points_contributed": 4.4,
+          "description": "High network PageRank influence score (0.0220)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 19,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 19)"
+        }
+      ]
+    },
+    "ENT-LOCATION-426d133d": {
+      "entity_id": "ENT-LOCATION-426d133d",
+      "display_value": "Andheri West, Mumbai",
+      "entity_type": "Location",
+      "score": 34.1,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 5,
+          "points_contributed": 25.0,
+          "description": "Appears across 5 separate FIRs"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.045519,
+          "points_contributed": 9.1,
+          "description": "High network PageRank influence score (0.0455)"
+        }
+      ]
+    },
+    "ENT-LOCATION-0d73dae2": {
+      "entity_id": "ENT-LOCATION-0d73dae2",
+      "display_value": "Juhu, Mumbai",
+      "entity_type": "Location",
+      "score": 2.2,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.010925,
+          "points_contributed": 2.2,
+          "description": "High network PageRank influence score (0.0109)"
+        }
+      ]
+    },
+    "ENT-LOCATION-9fd0984a": {
+      "entity_id": "ENT-LOCATION-9fd0984a",
+      "display_value": "Colaba, Mumbai",
+      "entity_type": "Location",
+      "score": 2.2,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.010925,
+          "points_contributed": 2.2,
+          "description": "High network PageRank influence score (0.0109)"
+        }
+      ]
+    },
+    "ENT-PHONE-e26d3ca4": {
+      "entity_id": "ENT-PHONE-e26d3ca4",
+      "display_value": "+919876543210",
+      "entity_type": "Phone",
+      "score": 56.2,
+      "tier": "MEDIUM",
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 4,
+          "points_contributed": 25.0,
+          "description": "Appears across 4 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.031239,
+          "points_contributed": 6.2,
+          "description": "High network PageRank influence score (0.0312)"
+        }
+      ]
+    },
+    "ENT-PHONE-b66c2bfc": {
+      "entity_id": "ENT-PHONE-b66c2bfc",
+      "display_value": "+919988776655",
+      "entity_type": "Phone",
+      "score": 58.9,
+      "tier": "MEDIUM",
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 6,
+          "points_contributed": 25.0,
+          "description": "Appears across 6 separate FIRs"
+        },
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.044385,
+          "points_contributed": 8.9,
+          "description": "High network PageRank influence score (0.0444)"
+        }
+      ]
+    },
+    "ENT-PHONE-4c39c0e4": {
+      "entity_id": "ENT-PHONE-4c39c0e4",
+      "display_value": "+919123456789",
+      "entity_type": "Phone",
+      "score": 38.5,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "shared_identifier_pattern",
+          "raw_value": true,
+          "points_contributed": 25.0,
+          "description": "Shared identifier linked to multiple distinct person entities"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.017251,
+          "points_contributed": 3.5,
+          "description": "High network PageRank influence score (0.0173)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 19,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 19)"
+        }
+      ]
+    },
+    "ENT-TRANSACTION-36d30151": {
+      "entity_id": "ENT-TRANSACTION-36d30151",
+      "display_value": "\u20b95,00,000",
+      "entity_type": "Transaction",
+      "score": 15.6,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "cross_fir_appearances",
+          "raw_value": 2,
+          "points_contributed": 12.5,
+          "description": "Appears across 2 separate FIRs"
+        },
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.015276,
+          "points_contributed": 3.1,
+          "description": "High network PageRank influence score (0.0153)"
+        }
+      ]
+    },
+    "ENT-TRANSACTION-fa15e29c": {
+      "entity_id": "ENT-TRANSACTION-fa15e29c",
+      "display_value": "\u20b92,50,000",
+      "entity_type": "Transaction",
+      "score": 12.7,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.013282,
+          "points_contributed": 2.7,
+          "description": "High network PageRank influence score (0.0133)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 17,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 17)"
+        }
+      ]
+    },
+    "ENT-TRANSACTION-5ccb12a8": {
+      "entity_id": "ENT-TRANSACTION-5ccb12a8",
+      "display_value": "\u20b92,50,00,000",
+      "entity_type": "Transaction",
+      "score": 2.3,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.011444,
+          "points_contributed": 2.3,
+          "description": "High network PageRank influence score (0.0114)"
+        }
+      ]
+    },
+    "ENT-TRANSACTION-8c28e429": {
+      "entity_id": "ENT-TRANSACTION-8c28e429",
+      "display_value": "\u20b950,000",
+      "entity_type": "Transaction",
+      "score": 13.8,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.018967,
+          "points_contributed": 3.8,
+          "description": "High network PageRank influence score (0.0190)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 18,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 18)"
+        }
+      ]
+    },
+    "ENT-TRANSACTION-328fad5b": {
+      "entity_id": "ENT-TRANSACTION-328fad5b",
+      "display_value": "\u20b91,20,00,000",
+      "entity_type": "Transaction",
+      "score": 13.5,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.017251,
+          "points_contributed": 3.5,
+          "description": "High network PageRank influence score (0.0173)"
+        },
+        {
+          "factor_name": "dense_cluster_membership",
+          "raw_value": 19,
+          "points_contributed": 10.0,
+          "description": "Located in a high-density network cluster (Community 19)"
+        }
+      ]
+    },
+    "ENT-TRANSACTION-19a33c9f": {
+      "entity_id": "ENT-TRANSACTION-19a33c9f",
+      "display_value": "\u20b910,000",
+      "entity_type": "Transaction",
+      "score": 1.9,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.009655,
+          "points_contributed": 1.9,
+          "description": "High network PageRank influence score (0.0097)"
+        }
+      ]
+    },
+    "ENT-TRANSACTION-9a84263b": {
+      "entity_id": "ENT-TRANSACTION-9a84263b",
+      "display_value": "\u20b910,00,000",
+      "entity_type": "Transaction",
+      "score": 2.4,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.012137,
+          "points_contributed": 2.4,
+          "description": "High network PageRank influence score (0.0121)"
+        }
+      ]
+    },
+    "ENT-TRANSACTION-1122a65d": {
+      "entity_id": "ENT-TRANSACTION-1122a65d",
+      "display_value": "\u20b915,00,000",
+      "entity_type": "Transaction",
+      "score": 1.8,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.009014,
+          "points_contributed": 1.8,
+          "description": "High network PageRank influence score (0.0090)"
+        }
+      ]
+    },
+    "ENT-TRANSACTION-1763bbf3": {
+      "entity_id": "ENT-TRANSACTION-1763bbf3",
+      "display_value": "\u20b920,00,000",
+      "entity_type": "Transaction",
+      "score": 1.8,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.009014,
+          "points_contributed": 1.8,
+          "description": "High network PageRank influence score (0.0090)"
+        }
+      ]
+    },
+    "ENT-TRANSACTION-e807abb3": {
+      "entity_id": "ENT-TRANSACTION-e807abb3",
+      "display_value": "\u20b950,00,000",
+      "entity_type": "Transaction",
+      "score": 1.8,
+      "tier": "LOW",
+      "contributing_factors": [
+        {
+          "factor_name": "pagerank_influence",
+          "raw_value": 0.009014,
+          "points_contributed": 1.8,
+          "description": "High network PageRank influence score (0.0090)"
+        }
+      ]
+    },
+    "ENT-EMAIL-39b13fff": {
+      "entity_id": "ENT-EMAIL-39b13fff",
+      "display_value": "suspect.sharma@cybercrime.org",
+      "entity_type": "Email",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-EMAIL-649b4c36": {
+      "entity_id": "ENT-EMAIL-649b4c36",
+      "display_value": "attacker@phish-domain.com",
+      "entity_type": "Email",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-EMAIL-18333910": {
+      "entity_id": "ENT-EMAIL-18333910",
+      "display_value": "siddharth.m@corp-fake.in",
+      "entity_type": "Email",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-EVENT-35f88733": {
+      "entity_id": "ENT-EVENT-35f88733",
+      "display_value": "2023-08-20",
+      "entity_type": "Event",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-EVENT-71805883": {
+      "entity_id": "ENT-EVENT-71805883",
+      "display_value": "0.0.45",
+      "entity_type": "Event",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-IP-d49141d9": {
+      "entity_id": "ENT-IP-d49141d9",
+      "display_value": "192.168.1.100",
+      "entity_type": "IP",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    },
+    "ENT-IP-4f5e21d0": {
+      "entity_id": "ENT-IP-4f5e21d0",
+      "display_value": "10.0.0.45",
+      "entity_type": "IP",
+      "score": 0.0,
+      "tier": "LOW",
+      "contributing_factors": []
+    }
+  }
+}
